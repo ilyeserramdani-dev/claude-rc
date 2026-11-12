@@ -1,0 +1,76 @@
+<!doctype html>
+<html lang="fr">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="Notre agence Moveo 59 se trouve à Bruay-sur-l'Escaut (Nord).">
+  <title>Nos agences — Moveo 59</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Space+Grotesk:wght@500;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+  <header class="site-header">
+    <div class="container header-inner">
+      <a href="index.html" class="logo"><span class="logo-mark">M59</span> Moveo 59</a>
+      <button class="menu-toggle" aria-label="Ouvrir le menu" aria-expanded="false" aria-controls="menu">
+        <span></span><span></span><span></span>
+      </button>
+      <nav id="menu" class="main-nav">
+        <a href="vehicules.html">Véhicules</a>
+        <a href="agences.html">Agences</a>
+        <a href="contact.html">Aide &amp; contact</a>
+        <a href="reservation.html" class="btn btn-small nav-cta">Réserver</a>
+      </nav>
+    </div>
+  </header>
+
+  <main>
+    <section class="page-titre">
+      <div class="container">
+        <h1>Nos agences</h1>
+        <p class="lead">Notre agence de Bruay-sur-l'Escaut vous accueille dans le Nord de la France.</p>
+      </div>
+    </section>
+
+    <section class="section">
+      <div class="container">
+        <div class="filtres" role="group" aria-label="Rechercher une agence">
+          <div class="champ-large">
+            <label for="recherche-agence">Ville, gare ou aéroport</label>
+            <input id="recherche-agence" type="search" placeholder="Ex. Lyon, Orly, Atocha…">
+          </div>
+          <div>
+            <label for="filtre-pays">Pays</label>
+            <select id="filtre-pays">
+              <option value="tous">Tous les pays</option>
+            </select>
+          </div>
+        </div>
+
+        <div id="liste-agences" class="grille-agences"></div>
+      </div>
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    <div class="container footer-grid">
+      <div>
+        <p class="logo"><span class="logo-mark">M59</span> Moveo 59</p>
+        <p class="petit">Location de citadines dans le Nord de la France.</p>
+      </div>
+      <nav class="footer-nav" aria-label="Pied de page">
+        <a href="vehicules.html">Véhicules</a>
+        <a href="agences.html">Agences</a>
+        <a href="reservation.html">Réserver</a>
+        <a href="contact.html">Aide &amp; contact</a>
+      </nav>
+      <p class="petit">&copy; <span id="annee"></span> Moveo 59. Tous droits réservés.</p>
+    </div>
+  </footer>
+
+  <script src="js/data.js"></script>
+  <script src="js/app.js"></script>
+</body>
+</html>

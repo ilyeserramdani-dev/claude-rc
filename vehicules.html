@@ -1,0 +1,92 @@
+<!doctype html>
+<html lang="fr">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="Notre flotte Moveo 59 : une citadine Opel Corsa 2021 disponible à Bruay-sur-l'Escaut.">
+  <title>Nos véhicules — Moveo 59</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Space+Grotesk:wght@500;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+  <header class="site-header">
+    <div class="container header-inner">
+      <a href="index.html" class="logo"><span class="logo-mark">M59</span> Moveo 59</a>
+      <button class="menu-toggle" aria-label="Ouvrir le menu" aria-expanded="false" aria-controls="menu">
+        <span></span><span></span><span></span>
+      </button>
+      <nav id="menu" class="main-nav">
+        <a href="vehicules.html">Véhicules</a>
+        <a href="agences.html">Agences</a>
+        <a href="contact.html">Aide &amp; contact</a>
+        <a href="reservation.html" class="btn btn-small nav-cta">Réserver</a>
+      </nav>
+    </div>
+  </header>
+
+  <main>
+    <section class="page-titre">
+      <div class="container">
+        <h1>Nos véhicules</h1>
+        <p class="lead">Des citadines faciles à conduire et à garer, pour la ville comme pour la route.</p>
+      </div>
+    </section>
+
+    <section class="section">
+      <div class="container">
+        <div class="filtres" role="group" aria-label="Filtrer les véhicules">
+          <div>
+            <label for="filtre-categorie">Catégorie</label>
+            <select id="filtre-categorie">
+              <option value="tous">Toutes</option>
+              <option value="mini">Mini</option>
+              <option value="citadine">Citadine</option>
+              <option value="compacte">Compacte</option>
+            </select>
+          </div>
+          <div>
+            <label for="filtre-transmission">Boîte de vitesses</label>
+            <select id="filtre-transmission">
+              <option value="tous">Toutes</option>
+              <option value="manuelle">Manuelle</option>
+              <option value="automatique">Automatique</option>
+            </select>
+          </div>
+          <p id="compteur" class="compteur" aria-live="polite"></p>
+        </div>
+
+        <div id="grille-vehicules" class="grille-vehicules"></div>
+      </div>
+    </section>
+
+    <section class="section alt">
+      <div class="container centre">
+        <h2>Vous ne savez pas quel modèle choisir ?</h2>
+        <p>Indiquez simplement vos dates : nous vous proposerons la citadine la plus adaptée à votre trajet.</p>
+        <a href="reservation.html" class="btn">Réserver maintenant</a>
+      </div>
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    <div class="container footer-grid">
+      <div>
+        <p class="logo"><span class="logo-mark">M59</span> Moveo 59</p>
+        <p class="petit">Location de citadines dans le Nord de la France.</p>
+      </div>
+      <nav class="footer-nav" aria-label="Pied de page">
+        <a href="vehicules.html">Véhicules</a>
+        <a href="agences.html">Agences</a>
+        <a href="reservation.html">Réserver</a>
+        <a href="contact.html">Aide &amp; contact</a>
+      </nav>
+      <p class="petit">&copy; <span id="annee"></span> Moveo 59. Tous droits réservés.</p>
+    </div>
+  </footer>
+
+  <script src="js/data.js"></script>
+  <script src="js/app.js"></script>
+</body>
+</html>

@@ -1,0 +1,185 @@
+<!doctype html>
+<html lang="fr">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="Moveo 59 : location de véhicules citadins dans le Nord de la France. Réservez en quelques clics, récupérez votre voiture en agence ou à l'aéroport.">
+  <title>Moveo 59 — Location de citadines dans le Nord de la France</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Space+Grotesk:wght@500;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+  <header class="site-header">
+    <div class="container header-inner">
+      <a href="index.html" class="logo"><span class="logo-mark">M59</span> Moveo 59</a>
+      <button class="menu-toggle" aria-label="Ouvrir le menu" aria-expanded="false" aria-controls="menu">
+        <span></span><span></span><span></span>
+      </button>
+      <nav id="menu" class="main-nav">
+        <a href="vehicules.html">Véhicules</a>
+        <a href="agences.html">Agences</a>
+        <a href="contact.html">Aide &amp; contact</a>
+        <a href="reservation.html" class="btn btn-small nav-cta">Réserver</a>
+      </nav>
+    </div>
+  </header>
+
+  <main>
+    <section class="hero">
+      <div class="container hero-grid">
+        <div class="hero-texte">
+          <span class="badge">Location 100 % en ligne</span>
+          <h1>Louez en 3 clics,<br><span class="accent">roulez en citadine</span></h1>
+          <p class="lead">Réservation en moins de 3 minutes, véhicule prêt en agence, dans le Nord de la France.</p>
+          <ul class="etapes-rapides">
+            <li><span>1</span> Choisissez</li>
+            <li><span>2</span> Réservez</li>
+            <li><span>3</span> Partez</li>
+          </ul>
+        </div>
+
+        <form id="form-recherche" class="recherche" aria-label="Rechercher un véhicule">
+          <h2>Où et quand ?</h2>
+
+          <label for="retrait">Lieu de prise en charge</label>
+          <select id="retrait" name="retrait" required></select>
+
+          <div class="ligne-2">
+            <div>
+              <label for="date-debut">Date de départ</label>
+              <input id="date-debut" type="date" required>
+            </div>
+            <div>
+              <label for="heure-debut">Heure</label>
+              <input id="heure-debut" type="time" value="10:00" required>
+            </div>
+          </div>
+
+          <div class="ligne-2">
+            <div>
+              <label for="date-fin">Date de retour</label>
+              <input id="date-fin" type="date" required>
+            </div>
+            <div>
+              <label for="heure-fin">Heure</label>
+              <input id="heure-fin" type="time" value="10:00" required>
+            </div>
+          </div>
+
+          <label class="checkbox">
+            <input id="autre-retour" type="checkbox">
+            Rendre le véhicule dans une autre agence
+          </label>
+
+          <div id="bloc-retour" hidden>
+            <label for="restitution">Lieu de retour</label>
+            <select id="restitution" name="restitution"></select>
+          </div>
+
+          <button type="submit" class="btn btn-block">Rechercher un véhicule</button>
+          <p class="petit">Annulation gratuite jusqu'à 48 h avant le départ.</p>
+        </form>
+      </div>
+    </section>
+
+    <section class="section">
+      <div class="container">
+        <h2 class="centre">Pourquoi choisir Moveo 59&nbsp;?</h2>
+        <div class="atouts">
+          <div class="atout">
+            <div class="icone" aria-hidden="true">€</div>
+            <h3>Prix clairs</h3>
+            <p>Un tarif journalier affiché dès le départ, sans frais cachés. Options et assurances optionnelles.</p>
+          </div>
+          <div class="atout">
+            <div class="icone" aria-hidden="true">⌁</div>
+            <h3>Citadines adaptées à la ville</h3>
+            <p>Petites, faciles à garer et économes en carburant, pour circuler en ville sans stress.</p>
+          </div>
+          <div class="atout">
+            <div class="icone" aria-hidden="true">↺</div>
+            <h3>Flexibilité</h3>
+            <p>Modifiez ou annulez votre réservation gratuitement jusqu'à 48 h avant le départ.</p>
+          </div>
+          <div class="atout">
+            <div class="icone" aria-hidden="true">✈</div>
+            <h3>Proche de vous</h3>
+            <p>Notre agence de Bruay-sur-l'Escaut vous accueille dans le Nord de la France.</p>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section class="section alt">
+      <div class="container">
+        <h2 class="centre">Louer en 4 étapes simples</h2>
+        <p class="sous-titre">Pas de paperasse, pas d'attente : tout se fait depuis votre téléphone.</p>
+        <ol class="etapes-liste">
+          <li><strong>Choisissez</strong> le lieu, la date et l'heure.</li>
+          <li><strong>Sélectionnez</strong> votre citadine.</li>
+          <li><strong>Ajoutez</strong> les options utiles (siège enfant, protection).</li>
+          <li><strong>Confirmez</strong> et récupérez les clés en agence.</li>
+        </ol>
+        <div class="centre">
+          <a href="reservation.html" class="btn">Commencer une réservation</a>
+        </div>
+      </div>
+    </section>
+
+    <section class="section">
+      <div class="container">
+        <h2 class="centre">Nos véhicules populaires</h2>
+        <div id="populaires" class="grille-vehicules"></div>
+        <div class="centre">
+          <a href="vehicules.html" class="btn-lien">Voir toute la flotte →</a>
+        </div>
+      </div>
+    </section>
+
+    <section class="section alt">
+      <div class="container centre">
+        <h2>Vous avez une question ?</h2>
+        <p>Consultez notre aide en ligne ou contactez notre équipe.</p>
+        <a href="contact.html" class="btn btn-secondaire">Aide &amp; contact</a>
+      </div>
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    <div class="container footer-grid">
+      <div>
+        <p class="logo"><span class="logo-mark">M59</span> Moveo 59</p>
+        <p class="petit">Location de citadines dans le Nord de la France.</p>
+      </div>
+      <nav class="footer-nav" aria-label="Pied de page">
+        <a href="vehicules.html">Véhicules</a>
+        <a href="agences.html">Agences</a>
+        <a href="reservation.html">Réserver</a>
+        <a href="contact.html">Aide &amp; contact</a>
+      </nav>
+      <p class="petit">&copy; <span id="annee"></span> Moveo 59. Tous droits réservés.</p>
+    </div>
+  </footer>
+
+  <script src="js/data.js"></script>
+  <script src="js/app.js"></script>
+  <script>
+    // Affiche quelques véhicules populaires sur l'accueil
+    (function () {
+      var c = document.getElementById("populaires");
+      if (!c || typeof VEHICULES === "undefined") return;
+      VEHICULES.slice(0, 3).forEach(function (v) {
+        var a = document.createElement("article");
+        a.className = "vehicule-card";
+        a.innerHTML = '<div class="vehicule-visuel" style="background:' + v.couleur + '"><span>' + v.marque + '</span></div>' +
+          '<div class="vehicule-corps"><h3>' + v.marque + ' ' + v.modele + '</h3>' +
+          '<div class="vehicule-prix"><strong>' + v.prixJour.toLocaleString("fr-FR") + ' €</strong> / jour</div>' +
+          '<a class="btn btn-small" href="reservation.html?vehicule=' + v.id + '">Réserver</a></div>';
+        c.appendChild(a);
+      });
+    })();
+  </script>
+</body>
+</html>
