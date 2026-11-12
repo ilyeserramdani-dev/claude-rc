@@ -55,7 +55,7 @@
     article.innerHTML =
       '<div class="vehicule-visuel" style="background:' + v.couleur + '"><span>' + v.marque + "</span></div>" +
       '<div class="vehicule-corps">' +
-        "<h3>" + v.marque + " " + v.modele + "</h3>" +
+        "<h3>" + v.marque + " " + v.modele + (v.annee ? " " + v.annee : "") + "</h3>" +
         '<ul class="specs">' +
           "<li>" + v.places + " places</li>" +
           "<li>" + v.portes + " portes</li>" +

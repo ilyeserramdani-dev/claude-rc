@@ -1,6 +1,6 @@
 # Moveo 59 — site de location de citadines
 
-Site statique (HTML / CSS / JavaScript, sans dépendance) pour la location de véhicules citadins dans toute l'Europe.
+Site statique (HTML / CSS / JavaScript, sans dépendance) pour la location de véhicules citadins dans le Nord de la France.
 
 ## Pages
 
