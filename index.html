@@ -3,95 +3,173 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <meta name="description" content="Bienvenue sur notre site internet : découvrez nos services, notre histoire et contactez-nous.">
-  <title>Mon site internet</title>
+  <meta name="description" content="Moveo 59 : location de véhicules citadins dans toute l'Europe. Réservez en quelques clics, récupérez votre voiture en agence ou à l'aéroport.">
+  <title>Moveo 59 — Location de citadines en Europe</title>
   <link rel="stylesheet" href="css/style.css">
 </head>
 <body>
   <header class="site-header">
     <div class="container header-inner">
-      <a href="#accueil" class="logo">Mon Site</a>
+      <a href="index.html" class="logo"><span class="logo-mark">M59</span> Moveo 59</a>
       <button class="menu-toggle" aria-label="Ouvrir le menu" aria-expanded="false" aria-controls="menu">
         <span></span><span></span><span></span>
       </button>
       <nav id="menu" class="main-nav">
-        <a href="#accueil">Accueil</a>
-        <a href="#services">Services</a>
-        <a href="#a-propos">À propos</a>
-        <a href="#contact">Contact</a>
+        <a href="vehicules.html">Véhicules</a>
+        <a href="agences.html">Agences</a>
+        <a href="contact.html">Aide &amp; contact</a>
+        <a href="reservation.html" class="btn btn-small nav-cta">Réserver</a>
       </nav>
     </div>
   </header>
 
   <main>
-    <section id="accueil" class="hero">
-      <div class="container">
-        <h1>Bienvenue sur notre site</h1>
-        <p class="lead">Une présentation claire de ce que nous faisons, et un moyen simple de nous joindre.</p>
-        <a href="#contact" class="btn">Nous contacter</a>
-      </div>
-    </section>
-
-    <section id="services" class="section">
-      <div class="container">
-        <h2>Nos services</h2>
-        <div class="cards">
-          <article class="card">
-            <h3>Service 1</h3>
-            <p>Décrivez ici votre premier service en quelques phrases.</p>
-          </article>
-          <article class="card">
-            <h3>Service 2</h3>
-            <p>Décrivez ici votre deuxième service en quelques phrases.</p>
-          </article>
-          <article class="card">
-            <h3>Service 3</h3>
-            <p>Décrivez ici votre troisième service en quelques phrases.</p>
-          </article>
+    <section class="hero">
+      <div class="container hero-grid">
+        <div class="hero-texte">
+          <h1>Louez une citadine, partout en Europe</h1>
+          <p class="lead">Petite, économique et facile à garer. Réservez en ligne en moins de 3 minutes, dans plus de 10 villes européennes.</p>
         </div>
-      </div>
-    </section>
 
-    <section id="a-propos" class="section alt">
-      <div class="container about">
-        <div>
-          <h2>À propos de nous</h2>
-          <p>Présentez votre équipe, votre histoire et vos valeurs. Ce texte est un exemple à remplacer par votre propre contenu.</p>
-        </div>
-        <ul class="highlights">
-          <li>Qualité et fiabilité</li>
-          <li>Écoute et proximité</li>
-          <li>Engagement sur le long terme</li>
-        </ul>
-      </div>
-    </section>
+        <form id="form-recherche" class="recherche" aria-label="Rechercher un véhicule">
+          <h2>Où et quand ?</h2>
 
-    <section id="contact" class="section">
-      <div class="container narrow">
-        <h2>Contactez-nous</h2>
-        <form class="contact-form" action="#" method="post">
-          <label for="nom">Nom</label>
-          <input id="nom" name="nom" type="text" required autocomplete="name">
+          <label for="retrait">Lieu de prise en charge</label>
+          <select id="retrait" name="retrait" required></select>
 
-          <label for="email">Adresse e-mail</label>
-          <input id="email" name="email" type="email" required autocomplete="email">
+          <div class="ligne-2">
+            <div>
+              <label for="date-debut">Date de départ</label>
+              <input id="date-debut" type="date" required>
+            </div>
+            <div>
+              <label for="heure-debut">Heure</label>
+              <input id="heure-debut" type="time" value="10:00" required>
+            </div>
+          </div>
 
-          <label for="message">Message</label>
-          <textarea id="message" name="message" rows="5" required></textarea>
+          <div class="ligne-2">
+            <div>
+              <label for="date-fin">Date de retour</label>
+              <input id="date-fin" type="date" required>
+            </div>
+            <div>
+              <label for="heure-fin">Heure</label>
+              <input id="heure-fin" type="time" value="10:00" required>
+            </div>
+          </div>
 
-          <button type="submit" class="btn">Envoyer</button>
-          <p class="form-status" role="status" aria-live="polite"></p>
+          <label class="checkbox">
+            <input id="autre-retour" type="checkbox">
+            Rendre le véhicule dans une autre agence
+          </label>
+
+          <div id="bloc-retour" hidden>
+            <label for="restitution">Lieu de retour</label>
+            <select id="restitution" name="restitution"></select>
+          </div>
+
+          <button type="submit" class="btn btn-block">Rechercher un véhicule</button>
+          <p class="petit">Annulation gratuite jusqu'à 48 h avant le départ.</p>
         </form>
+      </div>
+    </section>
+
+    <section class="section">
+      <div class="container">
+        <h2 class="centre">Pourquoi choisir Moveo 59&nbsp;?</h2>
+        <div class="atouts">
+          <div class="atout">
+            <div class="icone" aria-hidden="true">€</div>
+            <h3>Prix clairs</h3>
+            <p>Un tarif journalier affiché dès le départ, sans frais cachés. Options et assurances optionnelles.</p>
+          </div>
+          <div class="atout">
+            <div class="icone" aria-hidden="true">⌁</div>
+            <h3>Citadines adaptées à la ville</h3>
+            <p>Petites, faciles à garer, économes en carburant. Boîte manuelle ou automatique, et modèles électriques ou hybrides.</p>
+          </div>
+          <div class="atout">
+            <div class="icone" aria-hidden="true">↺</div>
+            <h3>Flexibilité</h3>
+            <p>Rendez votre véhicule dans une autre ville, modifiez ou annulez gratuitement jusqu'à 48 h avant.</p>
+          </div>
+          <div class="atout">
+            <div class="icone" aria-hidden="true">✈</div>
+            <h3>Gares et aéroports</h3>
+            <p>Des agences dans les grandes gares et aéroports pour démarrer votre voyage sans attendre.</p>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section class="section alt">
+      <div class="container">
+        <h2 class="centre">Réserver en 4 étapes</h2>
+        <ol class="etapes-liste">
+          <li><strong>Choisissez</strong> le lieu, la date et l'heure.</li>
+          <li><strong>Sélectionnez</strong> votre citadine.</li>
+          <li><strong>Ajoutez</strong> les options utiles (siège enfant, protection).</li>
+          <li><strong>Confirmez</strong> et récupérez les clés en agence.</li>
+        </ol>
+        <div class="centre">
+          <a href="reservation.html" class="btn">Commencer une réservation</a>
+        </div>
+      </div>
+    </section>
+
+    <section class="section">
+      <div class="container">
+        <h2 class="centre">Nos véhicules populaires</h2>
+        <div id="populaires" class="grille-vehicules"></div>
+        <div class="centre">
+          <a href="vehicules.html" class="btn-lien">Voir toute la flotte →</a>
+        </div>
+      </div>
+    </section>
+
+    <section class="section alt">
+      <div class="container centre">
+        <h2>Vous avez une question ?</h2>
+        <p>Consultez notre aide en ligne ou contactez notre équipe.</p>
+        <a href="contact.html" class="btn btn-secondaire">Aide &amp; contact</a>
       </div>
     </section>
   </main>
 
   <footer class="site-footer">
-    <div class="container">
-      <p>&copy; <span id="annee"></span> Mon Site. Tous droits réservés.</p>
+    <div class="container footer-grid">
+      <div>
+        <p class="logo"><span class="logo-mark">M59</span> Moveo 59</p>
+        <p class="petit">Location de citadines dans toute l'Europe.</p>
+      </div>
+      <nav class="footer-nav" aria-label="Pied de page">
+        <a href="vehicules.html">Véhicules</a>
+        <a href="agences.html">Agences</a>
+        <a href="reservation.html">Réserver</a>
+        <a href="contact.html">Aide &amp; contact</a>
+      </nav>
+      <p class="petit">&copy; <span id="annee"></span> Moveo 59. Tous droits réservés.</p>
     </div>
   </footer>
 
-  <script src="js/main.js"></script>
+  <script src="js/data.js"></script>
+  <script src="js/app.js"></script>
+  <script>
+    // Affiche quelques véhicules populaires sur l'accueil
+    (function () {
+      var c = document.getElementById("populaires");
+      if (!c || typeof VEHICULES === "undefined") return;
+      VEHICULES.slice(0, 3).forEach(function (v) {
+        var a = document.createElement("article");
+        a.className = "vehicule-card";
+        a.innerHTML = '<div class="vehicule-visuel" style="background:' + v.couleur + '"><span>' + v.marque + '</span></div>' +
+          '<div class="vehicule-corps"><h3>' + v.marque + ' ' + v.modele + '</h3>' +
+          '<div class="vehicule-prix"><strong>' + v.prixJour.toLocaleString("fr-FR") + ' €</strong> / jour</div>' +
+          '<a class="btn btn-small" href="reservation.html?vehicule=' + v.id + '">Réserver</a></div>';
+        c.appendChild(a);
+      });
+    })();
+  </script>
 </body>
 </html>

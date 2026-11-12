@@ -1,0 +1,135 @@
+<!doctype html>
+<html lang="fr">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="Réservez votre citadine Moveo 59 en quelques étapes.">
+  <title>Réserver — Moveo 59</title>
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+  <header class="site-header">
+    <div class="container header-inner">
+      <a href="index.html" class="logo"><span class="logo-mark">M59</span> Moveo 59</a>
+      <button class="menu-toggle" aria-label="Ouvrir le menu" aria-expanded="false" aria-controls="menu">
+        <span></span><span></span><span></span>
+      </button>
+      <nav id="menu" class="main-nav">
+        <a href="vehicules.html">Véhicules</a>
+        <a href="agences.html">Agences</a>
+        <a href="contact.html">Aide &amp; contact</a>
+        <a href="reservation.html" class="btn btn-small nav-cta">Réserver</a>
+      </nav>
+    </div>
+  </header>
+
+  <main>
+    <section class="page-titre">
+      <div class="container">
+        <h1>Réserver votre véhicule</h1>
+      </div>
+    </section>
+
+    <section class="section">
+      <div class="container narrow">
+        <ol class="progression" aria-label="Étapes de réservation">
+          <li class="actif">Dates &amp; lieux</li>
+          <li>Véhicule</li>
+          <li>Options</li>
+          <li>Vos informations</li>
+        </ol>
+
+        <div class="etapes-wrap">
+          <!-- Étape 1 : dates et lieux -->
+          <div class="etape" data-etape="1">
+            <h2 class="titre-etape">1. Dates et lieux</h2>
+            <label for="res-retrait">Lieu de prise en charge</label>
+            <select id="res-retrait"></select>
+
+            <label for="res-restitution">Lieu de retour</label>
+            <select id="res-restitution"></select>
+
+            <label for="res-debut">Départ</label>
+            <input id="res-debut" type="datetime-local" required>
+
+            <label for="res-fin">Retour</label>
+            <input id="res-fin" type="datetime-local" required>
+
+            <p class="erreur" id="erreur-etape1" role="alert"></p>
+            <div class="actions">
+              <span></span>
+              <button type="button" class="btn" id="btn-etape1">Continuer</button>
+            </div>
+          </div>
+
+          <!-- Étape 2 : véhicule -->
+          <div class="etape" data-etape="2" hidden>
+            <h2 class="titre-etape">2. Choisissez votre véhicule</h2>
+            <div id="res-vehicules" class="choix-liste"></div>
+            <p class="erreur" id="erreur-etape2" role="alert"></p>
+            <div class="actions">
+              <button type="button" class="btn btn-secondaire btn-retour" data-vers="1">Retour</button>
+              <button type="button" class="btn" id="btn-etape2">Continuer</button>
+            </div>
+          </div>
+
+          <!-- Étape 3 : options -->
+          <div class="etape" data-etape="3" hidden>
+            <h2 class="titre-etape">3. Options (facultatives)</h2>
+            <div id="res-options" class="choix-liste"></div>
+            <div class="actions">
+              <button type="button" class="btn btn-secondaire btn-retour" data-vers="2">Retour</button>
+              <button type="button" class="btn" id="btn-etape3">Continuer</button>
+            </div>
+          </div>
+
+          <!-- Étape 4 : informations et récapitulatif -->
+          <div class="etape" data-etape="4" hidden>
+            <h2 class="titre-etape">4. Vos informations</h2>
+            <div id="res-recap" class="recap"></div>
+
+            <form id="form-client" class="formulaire-client">
+              <label for="client-nom">Nom complet</label>
+              <input id="client-nom" type="text" required autocomplete="name">
+
+              <label for="client-email">Adresse e-mail</label>
+              <input id="client-email" type="email" required autocomplete="email">
+
+              <label class="checkbox">
+                <input type="checkbox" required>
+                J'accepte les conditions de location.
+              </label>
+
+              <div class="actions">
+                <button type="button" class="btn btn-secondaire btn-retour" data-vers="3">Retour</button>
+                <button type="submit" class="btn">Confirmer la réservation</button>
+              </div>
+            </form>
+          </div>
+        </div>
+
+        <div id="res-confirmation" class="confirmation" hidden></div>
+      </div>
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    <div class="container footer-grid">
+      <div>
+        <p class="logo"><span class="logo-mark">M59</span> Moveo 59</p>
+        <p class="petit">Location de citadines dans toute l'Europe.</p>
+      </div>
+      <nav class="footer-nav" aria-label="Pied de page">
+        <a href="vehicules.html">Véhicules</a>
+        <a href="agences.html">Agences</a>
+        <a href="reservation.html">Réserver</a>
+        <a href="contact.html">Aide &amp; contact</a>
+      </nav>
+      <p class="petit">&copy; <span id="annee"></span> Moveo 59. Tous droits réservés.</p>
+    </div>
+  </footer>
+
+  <script src="js/data.js"></script>
+  <script src="js/app.js"></script>
+</body>
+</html>

@@ -1,0 +1,133 @@
+<!doctype html>
+<html lang="fr">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="Questions fréquentes et contact Moveo 59 : réservation, annulation, permis, assurance.">
+  <title>Aide &amp; contact — Moveo 59</title>
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+  <header class="site-header">
+    <div class="container header-inner">
+      <a href="index.html" class="logo"><span class="logo-mark">M59</span> Moveo 59</a>
+      <button class="menu-toggle" aria-label="Ouvrir le menu" aria-expanded="false" aria-controls="menu">
+        <span></span><span></span><span></span>
+      </button>
+      <nav id="menu" class="main-nav">
+        <a href="vehicules.html">Véhicules</a>
+        <a href="agences.html">Agences</a>
+        <a href="contact.html">Aide &amp; contact</a>
+        <a href="reservation.html" class="btn btn-small nav-cta">Réserver</a>
+      </nav>
+    </div>
+  </header>
+
+  <main>
+    <section class="page-titre">
+      <div class="container">
+        <h1>Aide &amp; contact</h1>
+      </div>
+    </section>
+
+    <section class="section">
+      <div class="container deux-colonnes">
+        <div>
+          <h2>Questions fréquentes</h2>
+
+          <div class="faq">
+            <div class="faq-item">
+              <button class="faq-question" aria-expanded="false">Quel permis faut-il pour louer ?</button>
+              <div class="faq-reponse" hidden>
+                <p>Un permis de conduire valide depuis au moins 3 ans, et au minimum 21 ans. Le permis doit être au nom du conducteur principal.</p>
+              </div>
+            </div>
+            <div class="faq-item">
+              <button class="faq-question" aria-expanded="false">Puis-je annuler ma réservation ?</button>
+              <div class="faq-reponse" hidden>
+                <p>Oui, l'annulation est gratuite jusqu'à 48 h avant le départ. Au-delà, des frais peuvent s'appliquer.</p>
+              </div>
+            </div>
+            <div class="faq-item">
+              <button class="faq-question" aria-expanded="false">Puis-je rendre la voiture dans une autre ville ?</button>
+              <div class="faq-reponse" hidden>
+                <p>Oui, dans la plupart des cas. Un forfait de restitution en agence différente est ajouté au tarif, indiqué dans le récapitulatif.</p>
+              </div>
+            </div>
+            <div class="faq-item">
+              <button class="faq-question" aria-expanded="false">Que comprend le prix ?</button>
+              <div class="faq-reponse" hidden>
+                <p>Le kilométrage illimité, l'assurance responsabilité civile et les taxes locales. La protection étendue et les sièges enfants sont optionnels.</p>
+              </div>
+            </div>
+            <div class="faq-item">
+              <button class="faq-question" aria-expanded="false">Puis-je emmener le véhicule à l'étranger ?</button>
+              <div class="faq-reponse" hidden>
+                <p>Oui, nos véhicules peuvent circuler dans tous les pays couverts par nos agences. Signalez simplement votre itinéraire lors de la réservation.</p>
+              </div>
+            </div>
+            <div class="faq-item">
+              <button class="faq-question" aria-expanded="false">Que faire en cas de panne ou d'accident ?</button>
+              <div class="faq-reponse" hidden>
+                <p>Contactez immédiatement notre assistance 24 h/24 au numéro indiqué sur votre contrat, puis remplissez le constat amiable si nécessaire.</p>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <div>
+          <h2>Nous écrire</h2>
+          <form id="form-contact" class="formulaire-client">
+            <label for="contact-nom">Nom</label>
+            <input id="contact-nom" type="text" required autocomplete="name">
+
+            <label for="contact-email">Adresse e-mail</label>
+            <input id="contact-email" type="email" required autocomplete="email">
+
+            <label for="contact-sujet">Sujet</label>
+            <select id="contact-sujet">
+              <option>Une réservation</option>
+              <option>Une modification ou annulation</option>
+              <option>Une question sur un véhicule</option>
+              <option>Autre demande</option>
+            </select>
+
+            <label for="contact-message">Message</label>
+            <textarea id="contact-message" rows="5" required></textarea>
+
+            <button type="submit" class="btn">Envoyer</button>
+            <p id="statut-contact" class="statut" role="status" aria-live="polite"></p>
+          </form>
+
+          <div class="coordonnees">
+            <h3>Par téléphone</h3>
+            <p>Du lundi au samedi, 8h00 – 19h00<br>
+            <strong>+33 1 00 00 00 00</strong> (numéro de démonstration)</p>
+            <h3>Assistance 24 h/24</h3>
+            <p>Pour un accident ou une panne pendant votre location : <strong>+33 1 00 00 00 99</strong> (numéro de démonstration)</p>
+          </div>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    <div class="container footer-grid">
+      <div>
+        <p class="logo"><span class="logo-mark">M59</span> Moveo 59</p>
+        <p class="petit">Location de citadines dans toute l'Europe.</p>
+      </div>
+      <nav class="footer-nav" aria-label="Pied de page">
+        <a href="vehicules.html">Véhicules</a>
+        <a href="agences.html">Agences</a>
+        <a href="reservation.html">Réserver</a>
+        <a href="contact.html">Aide &amp; contact</a>
+      </nav>
+      <p class="petit">&copy; <span id="annee"></span> Moveo 59. Tous droits réservés.</p>
+    </div>
+  </footer>
+
+  <script src="js/data.js"></script>
+  <script src="js/app.js"></script>
+</body>
+</html>
