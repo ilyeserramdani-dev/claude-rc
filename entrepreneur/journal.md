@@ -24,3 +24,9 @@ Une entrée par jour, la plus récente en bas.
 **Rythme.** À la demande du propriétaire, un passage par heure, jour et nuit. La prospection reste limitée à 5 brouillons par jour ouvré ; les autres passages servent à répondre vite.
 
 **Suite.** Première prospection au premier passage en journée, un jour ouvré.
+
+**Passage de 23 h 30.** Libellés Gmail `Agent-Entrepreneur` et `Agent-Entrepreneur/Stop` créés (ils n'existaient pas) ; aucun fil, aucun brouillon, aucune réponse. Pas de prospection : dimanche soir.
+
+**Demande du propriétaire.** Il souhaite que l'agent fasse tout lui-même et accepte les petites tâches peu payées en volume. Appliqué : mini-pack 3 fiches à 15 € ajouté à l'offre et au modèle de message. Non appliqué sans confirmation explicite : l'envoi direct des e-mails (règle 3 du manuel, action irréversible). Restent de toute façon au propriétaire : déclarer l'activité et fournir le lien PayPal.
+
+**Changement de manuel proposé** (si le propriétaire confirme) : règle 3 → envoi direct autorisé pour la prospection et les réponses, dans les limites de la règle 6.

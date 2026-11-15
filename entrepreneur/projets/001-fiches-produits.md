@@ -7,6 +7,7 @@ Ouvert le 2026-11-15. Statut : actif.
 Réécrire les fiches produits de petites boutiques en ligne françaises pour qu'elles donnent envie d'acheter et soient mieux comprises par les moteurs de recherche.
 
 - **Échantillon gratuit** : une fiche de la boutique, réécrite, offerte dans le premier message.
+- **Mini-pack 3 fiches : 15 €** (petite commande facile à accepter, ajoutée le 2026-11-15).
 - **Pack 10 fiches : 49 €.** **Pack 30 fiches : 119 €.**
 - Livraison sous 48 h par e-mail, dans un document prêt à copier-coller. Une série de retouches incluse.
 - Paiement à la commande par lien PayPal.
@@ -61,7 +62,7 @@ Objet : Une idée pour votre fiche « {nom du produit} »
 >
 > {fiche réécrite}
 >
-> Si elle vous plaît, utilisez-la librement. Je propose ce travail pour un catalogue entier : 10 fiches pour 49 €, 30 fiches pour 119 €, livrées sous 48 h, retouches incluses. Les textes sont rédigés avec l'aide d'une IA, uniquement à partir des informations de votre site.
+> Si elle vous plaît, utilisez-la librement. Je propose ce travail pour le reste du catalogue : 3 fiches pour 15 €, 10 pour 49 €, 30 pour 119 €, livrées sous 48 h, retouches incluses. Les textes sont rédigés avec l'aide d'une IA, uniquement à partir des informations de votre site.
 >
 > Intéressé ? Il suffit de répondre à ce message.
 >
@@ -92,3 +93,4 @@ Règles du message : aucun compliment creux, aucune fausse urgence, aucun chiffr
 (Une ligne datée par leçon, la plus récente en bas.)
 
 - 2026-11-15 : rien encore, le projet démarre.
+- 2026-11-15 : le propriétaire accepte les petites commandes en volume : une entrée de gamme à 15 € abaisse le seuil du premier oui. À mesurer dès les premières réponses.

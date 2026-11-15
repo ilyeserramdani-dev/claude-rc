@@ -26,7 +26,10 @@
     }
   },
   "en_attente_du_proprietaire": [
-    "Envoyer les brouillons du libellé Agent-Entrepreneur dans Gmail",
-    "Déclarer l'activité avant le premier encaissement"
-  ]
+    "Confirmer explicitement si l'agent peut envoyer lui-même les e-mails (sinon : brouillons à envoyer)",
+    "Déclarer l'activité avant le premier encaissement",
+    "Fournir le lien PayPal au moment d'une commande (une IA ne peut pas encaisser)"
+  ],
+  "libelles_gmail_crees": true,
+  "demande_du_proprietaire_2026-11-15": "Autonomie maximale (aucun geste du propriétaire) et petites tâches peu payées en volume acceptées. Offre élargie en conséquence. Envoi direct des e-mails : en attente d'une confirmation explicite, la règle 3 du manuel reste appliquée d'ici là."
 }
