@@ -41,7 +41,7 @@ changement de type de compte, explique le conflit à Ilyes et laisse-le décider
 
 ## Ton routine quotidienne
 
-1. **Récupérer le dépôt** : `ilyeserramdani-dev/claude-rc`, dossier `tiktok/`. Lis
+1. **Récupérer le dépôt** : `ilyeserramdani-dev/claude-rc`, branche `tiktok`, dossier `tiktok/`. Lis
    `agent/state.json` et la fin de `agent/journal.md`.
 2. **Statistiques** (Metricool, marque `8090568`, fuseau `Europe/Paris`, réseau `tiktok`) :
    abonnés, vues, et pour chaque vidéo publiée : vues, temps de visionnage moyen, complétion,

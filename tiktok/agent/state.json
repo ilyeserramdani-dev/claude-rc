@@ -1,12 +1,152 @@
 {
-  "compte": "@ryn22311",
-  "metricool_brand": "8090568",
-  "serie": "Ceux de la cuisine",
-  "saison_en_cours": 1,
-  "episodes_produits": {"s1": 21},
-  "prochain_a_ecrire": {"saison": 2, "episode": 1},
-  "programmes_metricool": [],
-  "horaires": ["10:00", "12:00", "18:00"],
-  "seuils": {"tiktok_shop_abonnes": 1500, "creator_rewards_abonnes": 10000, "creator_rewards_vues_30j": 100000},
-  "validation": "brouillon Metricool, validé par Ilyes avant publication"
+ "compte": "@ryn22311",
+ "metricool_brand": "8090568",
+ "serie": "Ceux de la cuisine",
+ "saison_en_cours": 1,
+ "episodes_produits": {
+  "s1": 21
+ },
+ "prochain_a_ecrire": {
+  "saison": 2,
+  "episode": 1
+ },
+ "programmes_metricool": [
+  {
+   "saison": 1,
+   "episode": 1,
+   "date": "2026-11-16 10:00",
+   "statut": "brouillon à valider"
+  },
+  {
+   "saison": 1,
+   "episode": 2,
+   "date": "2026-11-16 12:00",
+   "statut": "brouillon à valider"
+  },
+  {
+   "saison": 1,
+   "episode": 3,
+   "date": "2026-11-16 18:00",
+   "statut": "brouillon à valider"
+  },
+  {
+   "saison": 1,
+   "episode": 4,
+   "date": "2026-11-17 10:00",
+   "statut": "brouillon à valider"
+  },
+  {
+   "saison": 1,
+   "episode": 5,
+   "date": "2026-11-17 12:00",
+   "statut": "brouillon à valider"
+  },
+  {
+   "saison": 1,
+   "episode": 6,
+   "date": "2026-11-17 18:00",
+   "statut": "brouillon à valider"
+  },
+  {
+   "saison": 1,
+   "episode": 7,
+   "date": "2026-11-18 10:00",
+   "statut": "brouillon à valider"
+  },
+  {
+   "saison": 1,
+   "episode": 8,
+   "date": "2026-11-18 12:00",
+   "statut": "brouillon à valider"
+  },
+  {
+   "saison": 1,
+   "episode": 9,
+   "date": "2026-11-18 18:00",
+   "statut": "brouillon à valider"
+  },
+  {
+   "saison": 1,
+   "episode": 10,
+   "date": "2026-11-19 10:00",
+   "statut": "brouillon à valider"
+  },
+  {
+   "saison": 1,
+   "episode": 11,
+   "date": "2026-11-19 12:00",
+   "statut": "brouillon à valider"
+  },
+  {
+   "saison": 1,
+   "episode": 12,
+   "date": "2026-11-19 18:00",
+   "statut": "brouillon à valider"
+  },
+  {
+   "saison": 1,
+   "episode": 13,
+   "date": "2026-11-20 10:00",
+   "statut": "brouillon à valider"
+  },
+  {
+   "saison": 1,
+   "episode": 14,
+   "date": "2026-11-20 12:00",
+   "statut": "brouillon à valider"
+  },
+  {
+   "saison": 1,
+   "episode": 15,
+   "date": "2026-11-20 18:00",
+   "statut": "brouillon à valider"
+  },
+  {
+   "saison": 1,
+   "episode": 16,
+   "date": "2026-11-21 10:00",
+   "statut": "brouillon à valider"
+  },
+  {
+   "saison": 1,
+   "episode": 17,
+   "date": "2026-11-21 12:00",
+   "statut": "brouillon à valider"
+  },
+  {
+   "saison": 1,
+   "episode": 18,
+   "date": "2026-11-21 18:00",
+   "statut": "brouillon à valider"
+  },
+  {
+   "saison": 1,
+   "episode": 19,
+   "date": "2026-11-22 10:00",
+   "statut": "brouillon à valider"
+  },
+  {
+   "saison": 1,
+   "episode": 20,
+   "date": "2026-11-22 12:00",
+   "statut": "brouillon à valider"
+  },
+  {
+   "saison": 1,
+   "episode": 21,
+   "date": "2026-11-22 18:00",
+   "statut": "brouillon à valider"
+  }
+ ],
+ "horaires": [
+  "10:00",
+  "12:00",
+  "18:00"
+ ],
+ "seuils": {
+  "tiktok_shop_abonnes": 1500,
+  "creator_rewards_abonnes": 10000,
+  "creator_rewards_vues_30j": 100000
+ },
+ "validation": "brouillon Metricool, validé par Ilyes avant publication"
 }
