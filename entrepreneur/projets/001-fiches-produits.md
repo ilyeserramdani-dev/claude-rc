@@ -41,7 +41,7 @@ Boutiques en ligne françaises indépendantes, de petite taille, dont les fiches
 3. Trouver l'adresse de contact sur le site (page contact ou mentions légales).
 4. Vérifier dans Gmail que ce domaine n'a jamais été contacté.
 5. Réécrire la fiche en n'utilisant que les faits présents sur la page : matière, dimensions, usage, origine. Ne rien inventer.
-6. Créer le brouillon avec le modèle ci-dessous et lui appliquer le libellé `Agent-Entrepreneur`.
+6. Créer le message avec le modèle ci-dessous et lui appliquer le libellé `Agent-Entrepreneur` : envoi direct en journée les jours ouvrés, brouillon la nuit et le week-end (envoyé au prochain passage de jour ouvré après une dernière vérification).
 
 ## Format d'une fiche réécrite
 
