@@ -1,6 +1,6 @@
 {
   "agent": "Agent Entrepreneur",
-  "version_manuel": 1,
+  "version_manuel": 2,
   "cree_le": "2026-11-15",
   "rythme": "un passage par heure",
   "jour_courant": "2026-11-15",
@@ -26,10 +26,10 @@
     }
   },
   "en_attente_du_proprietaire": [
-    "Confirmer explicitement si l'agent peut envoyer lui-même les e-mails (sinon : brouillons à envoyer)",
     "Déclarer l'activité avant le premier encaissement",
     "Fournir le lien PayPal au moment d'une commande (une IA ne peut pas encaisser)"
   ],
   "libelles_gmail_crees": true,
-  "demande_du_proprietaire_2026-11-15": "Autonomie maximale (aucun geste du propriétaire) et petites tâches peu payées en volume acceptées. Offre élargie en conséquence. Envoi direct des e-mails : en attente d'une confirmation explicite, la règle 3 du manuel reste appliquée d'ici là."
+  "envoi_direct_autorise": true,
+  "envoi_direct_confirme_le": "2026-11-15"
 }

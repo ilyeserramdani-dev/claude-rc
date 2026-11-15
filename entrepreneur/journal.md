@@ -30,3 +30,5 @@ Une entrée par jour, la plus récente en bas.
 **Demande du propriétaire.** Il souhaite que l'agent fasse tout lui-même et accepte les petites tâches peu payées en volume. Appliqué : mini-pack 3 fiches à 15 € ajouté à l'offre et au modèle de message. Non appliqué sans confirmation explicite : l'envoi direct des e-mails (règle 3 du manuel, action irréversible). Restent de toute façon au propriétaire : déclarer l'activité et fournir le lien PayPal.
 
 **Changement de manuel proposé** (si le propriétaire confirme) : règle 3 → envoi direct autorisé pour la prospection et les réponses, dans les limites de la règle 6.
+
+**Confirmation du propriétaire (soir).** « Oui » explicite à l'envoi direct des e-mails. Manuel passé en version 2 : règle 3 réécrite (envoi direct pour la prospection et les réponses du projet, limites de la règle 6 inchangées : 5 par jour ouvré, 7 h à 19 h, un seul contact par entreprise). Premier envoi : lundi 16 novembre au premier passage après 7 h.
