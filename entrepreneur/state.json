@@ -4,7 +4,7 @@
   "cree_le": "2026-11-15",
   "rythme": "un passage par heure : envoi en journée les jours ouvrés, préparation la nuit et le week-end",
   "jour_courant": "2026-11-15",
-  "brouillons_du_jour": 0,
+  "brouillons_du_jour": 1,
   "dernier_bilan_quotidien": "2026-11-15",
   "budget_depense_eur": 0,
   "revenu_encaisse_eur": 0,
@@ -15,7 +15,7 @@
       "ouvert_le": "2026-11-15",
       "statut": "actif",
       "bilan_au_plus_tard_le": "2026-12-06",
-      "brouillons_crees": 0,
+      "brouillons_crees": 1,
       "emails_envoyes": 0,
       "reponses_positives": 0,
       "reponses_negatives": 0,
@@ -51,6 +51,6 @@
   "plafond_envois_jour_note": "10 par jour ouvré du 2026-11-16 au 2026-11-20 ; passer à 20 le 2026-11-23 si la première semaine compte moins de 2 réponses agacées ou signalements et aucune alerte Gmail. Maximum 20 sans nouvelle décision du propriétaire.",
   "max_par_passage": 3,
   "envois_du_jour": 0,
-  "brouillons_en_stock": 0,
+  "brouillons_en_stock": 1,
   "notifications": "uniquement : commande à encaisser, problème bloquant, réponse agacée"
 }

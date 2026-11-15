@@ -94,3 +94,5 @@ Règles du message : aucun compliment creux, aucune fausse urgence, aucun chiffr
 
 - 2026-11-15 : rien encore, le projet démarre.
 - 2026-11-15 : le propriétaire accepte les petites commandes en volume : une entrée de gamme à 15 € abaisse le seuil du premier oui. À mesurer dès les premières réponses.
+- 2026-11-15 : premier repérage. La plupart des boutiques trouvées par recherche web sont écartées pour deux raisons : pas d'adresse e-mail écrite sur le site (formulaire seul) ou fiche déjà correcte. Les recherches par niche générale font remonter annuaires, places de marché et enseignes ; chercher plutôt des artisans par métier et par lieu (« atelier », « fabriqué à », nom de département). Compter environ une boutique retenue pour dix ouvertes.
+- 2026-11-15 : l'outil de lecture de pages ne rend que de courts extraits : toujours faire relire la fiche source une seconde fois avant d'écrire, et laisser « à compléter » ce qui manque au lieu de le déduire.
