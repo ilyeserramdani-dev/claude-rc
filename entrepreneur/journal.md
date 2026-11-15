@@ -41,3 +41,7 @@ Une entrée par jour, la plus récente en bas.
 
 **Premier passage de préparation (23h52, à la demande du propriétaire).** Assistant lancé deux fois (modèle léger) sur quatre niches : une vingtaine de boutiques ouvertes, 2 candidates rendues, 1 retenue après revérification par l'agent (l'autre avait en réalité une fiche correcte et un produit épuisé). 1 brouillon préparé (non libellé : Gmail refuse le libellé sur un brouillon ; il se retrouve par sa phrase « stop », le libellé sera posé à l'envoi), à envoyer au premier passage de jour ouvré après une dernière vérification de l'adresse. Chiffres : préparés 1, envoyés 0, réponses 0, commandes 0, encaissé 0 €.
 
+## 2026-11-16
+
+**Marchés étrangers (idée du propriétaire, nuit).** Il est toujours l'heure de bureau quelque part : Australie et Nouvelle-Zélande ajoutées, en anglais, envoi pendant leurs heures de bureau (la nuit de Paris). Règles vérifiées sur les sites des régulateurs : adresse professionnelle publiée bien en vue, pas de mention de refus, offre liée à l'activité, identité et « stop ». Écartés pour l'instant : États-Unis et Canada (adresse postale de l'expéditeur obligatoire dans le message), Royaume-Uni, Belgique, Suisse, Allemagne. Manuel en version 5 ; le plafond du jour reste commun à tous les marchés. L'Assistant reçoit deux tâches de plus : repérage dans ces pays et veille d'occasions de revenu.
+

@@ -72,6 +72,31 @@ Objet : Une idée pour votre fiche « {nom du produit} »
 
 Règles du message : aucun compliment creux, aucune fausse urgence, aucun chiffre promis. Le constat doit être vrai et vérifiable sur leur page. Varie l'objet et la première phrase d'un jour à l'autre pour apprendre ce qui fonctionne.
 
+## Marché Australie et Nouvelle-Zélande (ajouté le 2026-11-16)
+
+Même offre, en anglais (orthographe australienne : colour, favourite), pour de petites boutiques en ligne indépendantes d'Australie et de Nouvelle-Zélande. Envoi pendant leurs heures de bureau, c'est-à-dire pendant la nuit de Paris. Conditions de la règle 6 du manuel : adresse publiée par la boutique, aucune mention de refus de sollicitation, sinon on écarte.
+
+Prix de départ en dollars australiens (taux de change non vérifié, à ajuster) : 3 fiches A$29, 10 fiches A$89, 30 fiches A$199. Pour la Nouvelle-Zélande, mêmes montants en NZ$.
+
+Subject: An idea for your "{product}" page
+
+> Hi,
+>
+> I came across {shop} and noticed that the "{product}" page {constat précis, vrai et vérifiable}. I took the liberty of rewriting it. It's yours to use, free:
+>
+> {fiche réécrite : title, one-line hook, 3 to 5 key points, a 60 to 90 word paragraph, practical details as published, meta description}
+>
+> If you like it, use it however you wish. I do this for whole catalogues: 3 product descriptions for A$29, 10 for A$89, 30 for A$199, delivered within 48 hours, one round of edits included. The copy is written with the help of AI, using only the information on your site.
+>
+> Interested? Just reply to this email.
+>
+> Ilyes
+> Freelance, based in France
+>
+> You're receiving this because this business address is published on your website. If you'd rather not hear from me again, reply "stop" and I won't write again.
+
+Mêmes règles que le message français : aucun compliment creux, aucune urgence, aucun chiffre promis, rien d'inventé.
+
 ## Quand un client dit oui
 
 1. Brouillon de réponse : récapitulatif (nombre de fiches, prix, délai), demande de la liste des produits ou des liens, et la ligne `[COLLER ICI LE LIEN PAYPAL]` que le propriétaire remplace avant d'envoyer.
@@ -96,3 +121,4 @@ Règles du message : aucun compliment creux, aucune fausse urgence, aucun chiffr
 - 2026-11-15 : le propriétaire accepte les petites commandes en volume : une entrée de gamme à 15 € abaisse le seuil du premier oui. À mesurer dès les premières réponses.
 - 2026-11-15 : premier repérage. La plupart des boutiques trouvées par recherche web sont écartées pour deux raisons : pas d'adresse e-mail écrite sur le site (formulaire seul) ou fiche déjà correcte. Les recherches par niche générale font remonter annuaires, places de marché et enseignes ; chercher plutôt des artisans par métier et par lieu (« atelier », « fabriqué à », nom de département). Compter environ une boutique retenue pour dix ouvertes.
 - 2026-11-15 : l'outil de lecture de pages ne rend que de courts extraits : toujours faire relire la fiche source une seconde fois avant d'écrire, et laisser « à compléter » ce qui manque au lieu de le déduire.
+- 2026-11-16 : le propriétaire a fait remarquer qu'il est toujours l'heure de bureau quelque part. Les limites horaires protègent le destinataire, pas l'agent : chercher le marché ouvert au lieu d'attendre. Australie et Nouvelle-Zélande ajoutées ; à comparer au marché français sur le taux de réponse.

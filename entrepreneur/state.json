@@ -1,10 +1,10 @@
 {
   "agent": "Agent Entrepreneur",
-  "version_manuel": 4,
+  "version_manuel": 5,
   "cree_le": "2026-11-15",
-  "rythme": "un passage par heure : envoi en journée les jours ouvrés, préparation la nuit et le week-end",
-  "jour_courant": "2026-11-15",
-  "brouillons_du_jour": 1,
+  "rythme": "un passage par heure : envoi quand un marché est ouvert (France le jour, Australie et Nouvelle-Zélande la nuit), préparation sinon",
+  "jour_courant": "2026-11-16",
+  "brouillons_du_jour": 0,
   "dernier_bilan_quotidien": "2026-11-15",
   "budget_depense_eur": 0,
   "revenu_encaisse_eur": 0,
@@ -52,5 +52,10 @@
   "max_par_passage": 3,
   "envois_du_jour": 0,
   "brouillons_en_stock": 1,
-  "notifications": "uniquement : commande à encaisser, problème bloquant, réponse agacée"
+  "notifications": "uniquement : commande à encaisser, problème bloquant, réponse agacée",
+  "marches": {
+    "France": "français, lundi-vendredi 7h-19h heure de Paris",
+    "Australie": "anglais, lundi-vendredi 9h-17h heure de Sydney",
+    "Nouvelle-Zélande": "anglais, lundi-vendredi 9h-17h heure d'Auckland"
+  }
 }
