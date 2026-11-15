@@ -1,6 +1,6 @@
 # Journal de l'Agent Entrepreneur
 
-Une entrée par exécution, la plus récente en bas.
+Une entrée par jour, la plus récente en bas.
 
 ## 2026-11-15 — Cycle 0 : création et choix du premier projet
 
@@ -21,4 +21,6 @@ Une entrée par exécution, la plus récente en bas.
 
 **Décision.** Projet 001 actif. Bilan au plus tard le 2026-12-06 ou après 60 e-mails envoyés.
 
-**Suite.** Première prospection à la prochaine exécution : jusqu'à 5 brouillons.
+**Rythme.** À la demande du propriétaire, un passage par heure, jour et nuit. La prospection reste limitée à 5 brouillons par jour ouvré ; les autres passages servent à répondre vite.
+
+**Suite.** Première prospection au premier passage en journée, un jour ouvré.
