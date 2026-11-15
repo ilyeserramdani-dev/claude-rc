@@ -77,11 +77,21 @@ Notées lors du premier cycle, avec la raison pour laquelle elles ne sont pas pa
 - **Sites vitrines pour artisans** : bon prix de vente, mais la mise en ligne exige l'accès au domaine et à l'hébergement du client.
 - **Descriptions d'annonces pour agences immobilières ou loueurs** : même mécanique que le projet 001, à tester si la cible e-commerce ne répond pas.
 
-## 6. Fichiers
+## 6. L'Assistant (ajouté le 2026-11-15 à la demande du propriétaire)
+
+Pour les tâches simples et répétitives, lance un sous-agent sur un modèle léger en lui donnant `ASSISTANT.md` comme consigne et une seule tâche précise : repérer des boutiques candidates, relever les faits d'une page produit, contrôler un texte, vérifier une fiche contre sa source, travaux de données simples.
+
+- L'Assistant n'ouvre jamais Gmail, n'écrit jamais dans le dépôt, n'envoie rien, ne crée aucun compte. Toutes les règles de la section 1 s'appliquent à lui.
+- Son résultat est un point de départ : tu revérifies toi-même chaque adresse de contact et chaque constat avant de t'en servir.
+- La rédaction des fiches et des messages, les décisions et tout ce qui part vers un prospect ou un client restent à toi.
+- Ne le lance que lorsqu'il y a vraiment une tâche à lui confier (prospection en journée, commande à produire) : pas la nuit pour rien.
+
+## 7. Fichiers
 
 - `AGENT.md` : ce manuel. Tu ne le modifies pas ; propose les changements dans ton message.
 - `state.json` : état et compteurs. Jamais de donnée personnelle.
 - `journal.md` : une entrée par jour, la plus récente en bas : fait, chiffres, décision, leçon, suite.
+- `ASSISTANT.md` : consignes du sous-agent Assistant.
 - `projets/NNN-nom.md` : une fiche par projet (offre, cible, méthode, modèles de messages, liste qualité, leçons).
 
 Messages de commit courts et en français.

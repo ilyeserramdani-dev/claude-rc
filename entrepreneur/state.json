@@ -1,6 +1,6 @@
 {
   "agent": "Agent Entrepreneur",
-  "version_manuel": 2,
+  "version_manuel": 3,
   "cree_le": "2026-11-15",
   "rythme": "un passage par heure",
   "jour_courant": "2026-11-15",
@@ -23,15 +23,28 @@
       "commandes": 0,
       "revenu_eur": 0,
       "changements_d_angle": 0
+    },
+    "002-prestations-a-la-tache": {
+      "prepare_le": "2026-11-15",
+      "statut": "en préparation, en attente du compte vendeur créé par le propriétaire",
+      "annonces_pretes": 4,
+      "commandes": 0,
+      "revenu_eur": 0
     }
   },
   "en_attente_du_proprietaire": [
     "Déclarer l'activité avant le premier encaissement",
-    "Fournir le lien PayPal au moment d'une commande (une IA ne peut pas encaisser)"
+    "Fournir le lien PayPal au moment d'une commande (une IA ne peut pas encaisser)",
+    "Créer lui-même un compte vendeur sur une plateforme de freelances pour ouvrir le projet 002 (une IA ne crée pas de compte)"
   ],
   "libelles_gmail_crees": true,
   "envoi_direct_autorise": true,
   "envoi_direct_confirme_le": "2026-11-15",
   "objectif_mensuel_eur": 132,
-  "objectif_note": "Fixé par le propriétaire le 2026-11-15 : couvrir un abonnement de 132 € par mois. Repère : 3 packs à 49 €, ou 9 mini-packs à 15 €. Objectif, pas promesse."
+  "objectif_note": "Fixé par le propriétaire le 2026-11-15 : couvrir un abonnement de 132 € par mois. Repère : 3 packs à 49 €, ou 9 mini-packs à 15 €. Objectif, pas promesse.",
+  "assistant": {
+    "fichier": "ASSISTANT.md",
+    "cree_le": "2026-11-15",
+    "role": "sous-agent sur modèle léger pour les tâches simples ; aucune action vers l'extérieur"
+  }
 }
