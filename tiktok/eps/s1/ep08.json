@@ -1,0 +1,83 @@
+{
+ "ep": 8,
+ "title": "Brutus",
+ "hook": "Le chien qu'elle redoutait n'est pas du tout celui qu'elle imaginait.",
+ "bg": "salon",
+ "cast": [
+  "L",
+  "BR"
+ ],
+ "lines": [
+  [
+   "N",
+   "Précédemment : Hugo n'est pas allergique... mais il a un bouledogue."
+  ],
+  [
+   "N",
+   "Appel vidéo. Camille pose le téléphone devant Lola."
+  ],
+  [
+   "BR",
+   "OUAF ! Salut ! T'es le chat ? T'es petite ! T'es blanche ! T'aimes les balles ?",
+   "joie",
+   "shake"
+  ],
+  [
+   "L",
+   "Bonjour. Oui. Oui. Et non, je ne joue pas à la balle."
+  ],
+  [
+   "BR",
+   "Pardon. Je parle trop quand je suis stressé.",
+   "triste"
+  ],
+  [
+   "L",
+   "Toi ? Stressé ?",
+   "surpris"
+  ],
+  [
+   "BR",
+   "Hugo part à 8h, il rentre à 19h. La maison est grande. Et vide.",
+   "triste"
+  ],
+  [
+   "L",
+   "Tu es seul toute la journée...",
+   "triste"
+  ],
+  [
+   "BR",
+   "J'aboie un peu. Les voisins ont écrit une lettre.",
+   "triste"
+  ],
+  [
+   "L",
+   "Moi, quand je suis seule, je dors. Seize heures par jour.",
+   "joie"
+  ],
+  [
+   "BR",
+   "Seize ? Tu m'apprendras ?",
+   "joie"
+  ],
+  [
+   "L",
+   "On verra."
+  ],
+  [
+   "BR",
+   "Ah, et... Dans la nouvelle cuisine, il n'y a de la place que pour UN grille-pain."
+  ],
+  [
+   "L",
+   "Un seul ?",
+   "peur"
+  ],
+  [
+   "BR",
+   "Et Hugo a déjà choisi. Le noir. Le connecté."
+  ]
+ ],
+ "next": "L'alliance"
+}

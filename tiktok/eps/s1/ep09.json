@@ -1,0 +1,84 @@
+{
+ "ep": 9,
+ "title": "L'alliance",
+ "hook": "Gaston avoue enfin ce qui lui fait vraiment peur.",
+ "bg": "nuit",
+ "cast": [
+  "L",
+  "G"
+ ],
+ "lines": [
+  [
+   "N",
+   "Précédemment : chez Hugo, il n'y aura qu'un seul grille-pain."
+  ],
+  [
+   "L",
+   "Gaston, il faut prouver à Camille que tu es indispensable."
+  ],
+  [
+   "G",
+   "Indispensable. À quinze ans. Avec une bosse.",
+   "triste"
+  ],
+  [
+   "L",
+   "Tu as quelque chose que Néo n'aura jamais."
+  ],
+  [
+   "G",
+   "Des rayures ?",
+   "triste"
+  ],
+  [
+   "L",
+   "Des souvenirs. Tu as fait les toasts de tous ses dimanches.",
+   "joie"
+  ],
+  [
+   "G",
+   "Le premier, c'était pour ses 14 ans. Confiture de fraises. Elle a dit « le meilleur du monde ».",
+   "joie"
+  ],
+  [
+   "L",
+   "Tu vois !",
+   "joie"
+  ],
+  [
+   "G",
+   "Elle ne s'en souvient sûrement plus.",
+   "triste"
+  ],
+  [
+   "L",
+   "Les humains oublient les dates. Pas ce qu'ils ont ressenti."
+  ],
+  [
+   "G",
+   "Lola... je peux te dire un truc ?",
+   "triste"
+  ],
+  [
+   "L",
+   "Bien sûr."
+  ],
+  [
+   "G",
+   "J'ai pas peur de la poubelle. J'ai peur qu'elle ne remarque même pas que je suis parti.",
+   "triste"
+  ],
+  [
+   "L",
+   "Elle remarquera. Je te le promets.",
+   "triste"
+  ],
+  [
+   "N",
+   "À 3h12, Lola a remarqué quelque chose sous Néo. Une étiquette.",
+   "",
+   "shake"
+  ]
+ ],
+ "next": "Le secret de Néo"
+}

@@ -1,0 +1,84 @@
+{
+ "ep": 4,
+ "title": "Le toast brûlé",
+ "hook": "Gaston est accusé. Il lui reste 4 jours avant la poubelle.",
+ "bg": "cuisine",
+ "cast": [
+  "G",
+  "L"
+ ],
+ "lines": [
+  [
+   "N",
+   "Précédemment : Hugo a dit « le chat, on verra »."
+  ],
+  [
+   "C",
+   "Encore brûlé ! Ce vieux grille-pain, c'est fini. Je le jette samedi."
+  ],
+  [
+   "G",
+   "C'est pas moi ! Je le jure sur ma molette !",
+   "peur",
+   "shake"
+  ],
+  [
+   "L",
+   "Calme-toi. Le toast était dans ta fente, Gaston."
+  ],
+  [
+   "G",
+   "Mais je ne l'ai pas grillé ! J'étais débranché toute la nuit.",
+   "colere"
+  ],
+  [
+   "L",
+   "Débranché ? Alors comment tu as pu chauffer ce matin ?",
+   "surpris"
+  ],
+  [
+   "G",
+   "Quelqu'un m'a rebranché. Et a mis ma molette à fond. Sur 9.",
+   "peur"
+  ],
+  [
+   "L",
+   "Personne ne touche ta molette, à part Camille."
+  ],
+  [
+   "G",
+   "Camille dormait. J'ai entendu son réveil sonner après.",
+   "colere"
+  ],
+  [
+   "L",
+   "Donc quelqu'un t'a piégé.",
+   "surpris"
+  ],
+  [
+   "G",
+   "Il me reste jusqu'à samedi, Lola. Quatre jours.",
+   "triste"
+  ],
+  [
+   "L",
+   "Alors on a quatre jours pour trouver qui.",
+   "colere"
+  ],
+  [
+   "G",
+   "Et comment ? Personne n'a rien vu.",
+   "triste"
+  ],
+  [
+   "L",
+   "Si. Quelqu'un voit tout dans cette cuisine. Jour et nuit."
+  ],
+  [
+   "G",
+   "Oh non. Pas elle. Elle va le raconter à tout l'immeuble.",
+   "peur"
+  ]
+ ],
+ "next": "La plante qui sait tout"
+}

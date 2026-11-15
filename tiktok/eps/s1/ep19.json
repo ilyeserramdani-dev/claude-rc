@@ -1,0 +1,82 @@
+{
+ "ep": 19,
+ "title": "Quelques semaines",
+ "hook": "« Quelques semaines »... ou pour toujours ?",
+ "bg": "cartons",
+ "cast": [
+  "L",
+  "B"
+ ],
+ "lines": [
+  [
+   "N",
+   "Précédemment : Camille veut confier Lola à une amie « quelques semaines »."
+  ],
+  [
+   "B",
+   "Lola ? Je t'entends pleurer à travers le carton.",
+   "triste"
+  ],
+  [
+   "L",
+   "Elle veut me donner, Berthe. Quelques semaines, ça veut dire pour toujours.",
+   "triste"
+  ],
+  [
+   "B",
+   "Pas forcément. Quand on a peur, on entend le pire dans chaque phrase."
+  ],
+  [
+   "L",
+   "Comme Néo avec Gaston."
+  ],
+  [
+   "B",
+   "Exactement. Qu'est-ce que Camille a écrit, mot pour mot ?"
+  ],
+  [
+   "L",
+   "« Le temps qu'on voie si ça se passe bien. »",
+   "triste"
+  ],
+  [
+   "B",
+   "Donc rien n'est décidé. Elle a peur que ça se passe mal. Avec le chien."
+  ],
+  [
+   "L",
+   "Brutus ? Mais Brutus m'aime bien !",
+   "surpris"
+  ],
+  [
+   "B",
+   "Toi, tu le sais. Elle, non. Les humains croient ce qu'ils voient."
+  ],
+  [
+   "L",
+   "Alors il faut qu'elle nous voie.",
+   "joie"
+  ],
+  [
+   "B",
+   "Voilà ma fille.",
+   "joie"
+  ],
+  [
+   "L",
+   "Mais un chat et un chien ensemble... ça ne se fait pas.",
+   "peur"
+  ],
+  [
+   "B",
+   "Jeanne avait un chien et deux chats. Ils dormaient en tas devant le poêle.",
+   "joie"
+  ],
+  [
+   "L",
+   "En tas... J'ai une idée.",
+   "joie"
+  ]
+ ],
+ "next": "La preuve"
+}

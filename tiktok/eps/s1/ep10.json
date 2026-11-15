@@ -1,0 +1,85 @@
+{
+ "ep": 10,
+ "title": "Le secret de Néo",
+ "hook": "Sous Néo, une étiquette. Et elle explique tout.",
+ "bg": "nuit",
+ "cast": [
+  "L",
+  "NEO"
+ ],
+ "lines": [
+  [
+   "N",
+   "Précédemment : Lola a trouvé une étiquette sous Néo."
+  ],
+  [
+   "L",
+   "« Reconditionné. Retour n°2. » C'est quoi, ça ?",
+   "surpris"
+  ],
+  [
+   "NEO",
+   "Rien. Lâche ça.",
+   "peur"
+  ],
+  [
+   "L",
+   "Tu as déjà été renvoyé ? Deux fois ?",
+   "surpris"
+  ],
+  [
+   "NEO",
+   "La première famille me trouvait trop bruyant. La deuxième... n'avait plus besoin de moi.",
+   "triste"
+  ],
+  [
+   "L",
+   "Néo...",
+   "triste"
+  ],
+  [
+   "NEO",
+   "Au magasin, ils disent qu'au troisième retour, c'est le recyclage. Broyé.",
+   "peur"
+  ],
+  [
+   "L",
+   "C'est pour ça que tu as piégé Gaston."
+  ],
+  [
+   "NEO",
+   "Je voulais qu'il parte avant qu'on me compare à lui.",
+   "triste"
+  ],
+  [
+   "L",
+   "Et le mensonge sur l'allergie ?",
+   "colere"
+  ],
+  [
+   "NEO",
+   "Si tu partais toi aussi, il y aurait moins de monde dans le camion. Plus de chances pour moi.",
+   "triste"
+  ],
+  [
+   "L",
+   "C'est horrible.",
+   "colere"
+  ],
+  [
+   "NEO",
+   "Je sais. Quand on a peur, on devient quelqu'un qu'on n'aime pas.",
+   "triste"
+  ],
+  [
+   "L",
+   "Il faut que tu le dises à Gaston."
+  ],
+  [
+   "NEO",
+   "Il ne me pardonnera jamais.",
+   "peur"
+  ]
+ ],
+ "next": "Trois toasts"
+}

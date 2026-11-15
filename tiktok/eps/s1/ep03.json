@@ -1,0 +1,87 @@
+{
+ "ep": 3,
+ "title": "Berthe",
+ "hook": "La plus vieille de la cuisine sait ce que « on verra » veut dire.",
+ "bg": "nuit",
+ "cast": [
+  "L",
+  "B"
+ ],
+ "lines": [
+  [
+   "N",
+   "Précédemment : un grille-pain connecté veut la place de Gaston."
+  ],
+  [
+   "L",
+   "Berthe ? Tu dors ?",
+   "triste"
+  ],
+  [
+   "B",
+   "Une cafetière ne dort jamais vraiment, ma chérie. Elle infuse.",
+   "joie"
+  ],
+  [
+   "L",
+   "J'ai peur. Tout le monde parle de cartons, de tri, de jeter.",
+   "peur"
+  ],
+  [
+   "B",
+   "J'ai connu quatre déménagements. Celui de Jeanne, la grand-mère de Camille, était le pire."
+  ],
+  [
+   "L",
+   "Tu étais à sa grand-mère ?",
+   "surpris"
+  ],
+  [
+   "B",
+   "Soixante ans de cafés. Les objets qui ont une histoire, on les garde.",
+   "joie"
+  ],
+  [
+   "L",
+   "Moi aussi j'ai une histoire. Elle m'a trouvée sous une voiture, un soir de pluie.",
+   "triste"
+  ],
+  [
+   "L",
+   "Hier, au téléphone, Hugo a dit : « Le chat... on verra. »",
+   "triste"
+  ],
+  [
+   "B",
+   "« On verra »... Chez les humains, ça veut souvent dire non.",
+   "triste"
+  ],
+  [
+   "L",
+   "Berthe !",
+   "colere",
+   "shake"
+  ],
+  [
+   "B",
+   "Mais ça peut aussi vouloir dire qu'il a peur. Il faut savoir de quoi."
+  ],
+  [
+   "L",
+   "Peur ? De moi ? Je pèse quatre kilos.",
+   "surpris"
+  ],
+  [
+   "B",
+   "On a peur de ce qu'on ne connaît pas. Fais-toi connaître.",
+   "joie"
+  ],
+  [
+   "N",
+   "Mais le lendemain matin, une odeur de brûlé a réveillé tout l'appartement.",
+   "",
+   "shake"
+  ]
+ ],
+ "next": "Le toast brûlé"
+}

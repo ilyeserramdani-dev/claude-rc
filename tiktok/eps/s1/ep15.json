@@ -1,0 +1,91 @@
+{
+ "ep": 15,
+ "title": "8h01",
+ "hook": "Brutus arrive en vrai. Et sa queue fait un dégât irréparable.",
+ "bg": "cuisine",
+ "cast": [
+  "L",
+  "BR",
+  "G"
+ ],
+ "lines": [
+  [
+   "N",
+   "Précédemment : Hugo arrive plus tôt. Avec Brutus."
+  ],
+  [
+   "N",
+   "8h01. La porte d'entrée s'ouvre."
+  ],
+  [
+   "BR",
+   "LOLA ! C'est toi ! En vrai ! Tu sens le lait !",
+   "joie",
+   "enter"
+  ],
+  [
+   "L",
+   "Brutus. Recule. Doucement.",
+   "peur"
+  ],
+  [
+   "BR",
+   "Pardon ! Je suis content ! Quand je suis content, ma queue fait n'importe quoi !",
+   "joie"
+  ],
+  [
+   "G",
+   "Attention à la queue ! Attention à la...",
+   "peur"
+  ],
+  [
+   "N",
+   "La queue de Brutus balaie le plan de travail."
+  ],
+  [
+   "N",
+   "CRAC.",
+   "",
+   "shake"
+  ],
+  [
+   "L",
+   "GASTON !",
+   "peur",
+   "shake"
+  ],
+  [
+   "BR",
+   "C'est pas moi ! C'est ma queue !",
+   "peur"
+  ],
+  [
+   "G",
+   "Je... je vois tout de travers.",
+   "triste"
+  ],
+  [
+   "L",
+   "Gaston, parle-moi !",
+   "triste"
+  ],
+  [
+   "G",
+   "Ma molette... je ne la sens plus.",
+   "triste"
+  ],
+  [
+   "H",
+   "Oh non, il est tombé. Bon... ça règle la question."
+  ],
+  [
+   "L",
+   "Non. Non, non, non.",
+   "triste"
+  ]
+ ],
+ "next": "Fêlé",
+ "crack": {
+  "G": 8
+ }
+}

@@ -1,0 +1,77 @@
+{
+ "ep": 20,
+ "title": "La preuve",
+ "hook": "Trois règles pour qu'un chien et une chatte deviennent inséparables.",
+ "bg": "salon",
+ "cast": [
+  "L",
+  "BR"
+ ],
+ "lines": [
+  [
+   "N",
+   "Précédemment : Lola a un plan pour rester."
+  ],
+  [
+   "L",
+   "Brutus. Ce soir, quand ils seront au salon, tu fais exactement ce que je dis."
+  ],
+  [
+   "BR",
+   "Je suis nul pour obéir. Demande à Hugo.",
+   "triste"
+  ],
+  [
+   "L",
+   "Règle n°1 : tu ne cours pas vers moi. Tu t'assois."
+  ],
+  [
+   "BR",
+   "M'asseoir. Je sais faire. Presque.",
+   "joie"
+  ],
+  [
+   "L",
+   "Règle n°2 : tu respires doucement. Tu fermes les yeux à moitié."
+  ],
+  [
+   "BR",
+   "Comme ça ?",
+   "joie"
+  ],
+  [
+   "L",
+   "Moins de bave. Voilà.",
+   "joie"
+  ],
+  [
+   "L",
+   "Règle n°3 : c'est moi qui viens vers toi. Pas l'inverse. Les chats aiment choisir."
+  ],
+  [
+   "N",
+   "21h. Camille et Hugo entrent dans le salon."
+  ],
+  [
+   "N",
+   "Le bouledogue dort. Contre lui, une chatte blanche ronronne."
+  ],
+  [
+   "H",
+   "Camille... regarde. Ils dorment ensemble."
+  ],
+  [
+   "C",
+   "Elle ne fait jamais ça. Même pas avec moi..."
+  ],
+  [
+   "H",
+   "Bon. D'accord. Lola vient avec nous. Pas besoin de Sarah."
+  ],
+  [
+   "C",
+   "Par contre... deux grille-pains, et une seule prise dans la nouvelle cuisine."
+  ]
+ ],
+ "next": "Le dernier carton"
+}

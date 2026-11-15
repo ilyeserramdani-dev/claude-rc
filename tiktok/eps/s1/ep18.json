@@ -1,0 +1,81 @@
+{
+ "ep": 18,
+ "title": "Il faut qu'on parle",
+ "hook": "Sous le canapé, le chien et la chatte se disent enfin la vérité.",
+ "bg": "salon",
+ "cast": [
+  "L",
+  "BR"
+ ],
+ "lines": [
+  [
+   "N",
+   "Précédemment : Hugo veut « parler » du chat."
+  ],
+  [
+   "N",
+   "Sous le canapé. Lola s'est cachée. Brutus l'a suivie."
+  ],
+  [
+   "BR",
+   "Tu boudes ?"
+  ],
+  [
+   "L",
+   "Je ne boude pas. Je me cache. C'est différent.",
+   "triste"
+  ],
+  [
+   "BR",
+   "Hugo n'est pas méchant. Il dit juste qu'il ne sait pas s'occuper d'un chat."
+  ],
+  [
+   "L",
+   "Ça s'apprend.",
+   "colere"
+  ],
+  [
+   "BR",
+   "C'est ce que je lui dis ! Enfin, j'aboie. Il ne comprend pas.",
+   "triste"
+  ],
+  [
+   "L",
+   "Pourquoi tu me défends ? Tu me connais depuis une heure.",
+   "surpris"
+  ],
+  [
+   "BR",
+   "Parce que si tu viens, je ne serai plus seul toute la journée.",
+   "triste"
+  ],
+  [
+   "L",
+   "C'est pour toi, alors."
+  ],
+  [
+   "BR",
+   "C'est pour nous deux. Ce n'est pas interdit d'avoir besoin de quelqu'un."
+  ],
+  [
+   "L",
+   "...Non. Ce n'est pas interdit.",
+   "triste"
+  ],
+  [
+   "N",
+   "Au-dessus d'eux, Pixel vibre. Camille écrit à son amie Sarah."
+  ],
+  [
+   "C",
+   "Tu pourrais garder Lola quelques semaines ? Le temps qu'on voie si ça se passe bien..."
+  ],
+  [
+   "L",
+   "Quelques semaines...",
+   "triste",
+   "shake"
+  ]
+ ],
+ "next": "Quelques semaines"
+}

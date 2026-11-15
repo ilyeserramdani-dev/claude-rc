@@ -1,0 +1,87 @@
+{
+ "ep": 1,
+ "title": "La lettre",
+ "hook": "Camille déménage dans 3 semaines. Et elle ne garde que « l'essentiel ».",
+ "bg": "nuit",
+ "cast": [
+  "L",
+  "G"
+ ],
+ "lines": [
+  [
+   "N",
+   "Lille. 2h du matin. La cuisine de Camille dort... presque."
+  ],
+  [
+   "L",
+   "Gaston. Réveille-toi. C'est grave.",
+   "peur",
+   "shake"
+  ],
+  [
+   "G",
+   "Il est 2h, Lola. Rien n'est grave à 2h.",
+   "colere"
+  ],
+  [
+   "L",
+   "Camille a laissé son téléphone allumé. J'ai lu un message.",
+   "peur"
+  ],
+  [
+   "G",
+   "Tu lis ses messages, maintenant ?",
+   "surpris"
+  ],
+  [
+   "L",
+   "Il clignotait ! Bref. Elle part vivre chez Hugo. Dans trois semaines.",
+   "triste"
+  ],
+  [
+   "G",
+   "Hugo ? Le grand qui beurre son pain AVANT de le griller ?",
+   "colere"
+  ],
+  [
+   "L",
+   "Et elle a écrit : « Je ne garde que l'essentiel. »",
+   "peur"
+  ],
+  [
+   "G",
+   "Parfait. L'essentiel, c'est moi. Quinze ans de service.",
+   "joie"
+  ],
+  [
+   "L",
+   "Gaston... tu brûles un toast sur deux."
+  ],
+  [
+   "G",
+   "Un sur trois. Et ça s'appelle du caractère.",
+   "colere"
+  ],
+  [
+   "L",
+   "Et moi ? Tu crois que je fais partie de l'essentiel ?",
+   "triste"
+  ],
+  [
+   "G",
+   "Toi, tu es sa chatte. On n'abandonne pas sa chatte."
+  ],
+  [
+   "L",
+   "Alors pourquoi elle a commandé un colis... au nom d'Hugo ?",
+   "peur"
+  ],
+  [
+   "N",
+   "Le lendemain matin, un carton attendait sur le plan de travail.",
+   "",
+   "shake"
+  ]
+ ],
+ "next": "Le nouveau"
+}

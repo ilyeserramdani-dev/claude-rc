@@ -1,0 +1,86 @@
+{
+ "ep": 14,
+ "title": "Le plan",
+ "hook": "Un souvenir, une chanson, un toast. Et un message qui change tout.",
+ "bg": "nuit",
+ "cast": [
+  "R",
+  "L",
+  "NEO"
+ ],
+ "lines": [
+  [
+   "N",
+   "Précédemment : Gaston et Néo font équipe. Il reste neuf heures."
+  ],
+  [
+   "L",
+   "Le plan : demain au petit-déjeuner, Camille doit voir ce que vous valez."
+  ],
+  [
+   "NEO",
+   "Je peux me connecter à l'enceinte et jouer sa chanson préférée.",
+   "joie"
+  ],
+  [
+   "R",
+   "Et moi je peux faire tomber une feuille. Ça ne sert à rien, mais j'adore le drame.",
+   "joie"
+  ],
+  [
+   "L",
+   "Rosa, concentre-toi.",
+   "colere"
+  ],
+  [
+   "R",
+   "Je suis concentrée. Sur le drame.",
+   "joie"
+  ],
+  [
+   "L",
+   "Gaston fait un toast. Confiture de fraises. Comme pour ses 14 ans."
+  ],
+  [
+   "NEO",
+   "Et moi je lance la chanson au même moment. Un souvenir plus une musique.",
+   "joie"
+  ],
+  [
+   "R",
+   "Un souvenir et une chanson : les humains pleurent à tous les coups.",
+   "joie"
+  ],
+  [
+   "L",
+   "Et surtout, Gaston ne doit rien brûler.",
+   "peur"
+  ],
+  [
+   "NEO",
+   "Je règle sa molette moi-même. Sur 4. Pas sur 9. Promis.",
+   "joie"
+  ],
+  [
+   "N",
+   "4h30. Pixel vibre sur la table."
+  ],
+  [
+   "L",
+   "Qu'est-ce qui se passe ?",
+   "peur"
+  ],
+  [
+   "R",
+   "Oh, je sens le drame arriver.",
+   "surpris"
+  ],
+  [
+   "N",
+   "Message d'Hugo : « J'arrive plus tôt. 8h. Avec Brutus. »",
+   "",
+   "shake"
+  ]
+ ],
+ "next": "8h01"
+}

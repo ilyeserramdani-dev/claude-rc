@@ -1,0 +1,84 @@
+{
+ "ep": 6,
+ "title": "Confrontation",
+ "hook": "Il ment. Et il sait très bien retourner la situation.",
+ "bg": "nuit",
+ "cast": [
+  "L",
+  "NEO"
+ ],
+ "lines": [
+  [
+   "N",
+   "Précédemment : la nuit du toast, une lumière bleue s'est allumée."
+  ],
+  [
+   "L",
+   "C'est toi qui as piégé Gaston.",
+   "colere"
+  ],
+  [
+   "NEO",
+   "Bonsoir à toi aussi, Lola.",
+   "joie"
+  ],
+  [
+   "L",
+   "Rosa a vu ta lumière bleue à 4h du matin.",
+   "colere"
+  ],
+  [
+   "NEO",
+   "Rosa est une plante. Elle prend les phares des voitures pour des ovnis.",
+   "joie"
+  ],
+  [
+   "L",
+   "Tu mens.",
+   "colere"
+  ],
+  [
+   "NEO",
+   "Tu es fatiguée. Le déménagement te stresse. Tu vois des complots partout."
+  ],
+  [
+   "L",
+   "Ne retourne pas ça contre moi.",
+   "colere"
+  ],
+  [
+   "NEO",
+   "Je ne retourne rien. Je m'inquiète pour toi, c'est tout.",
+   "triste"
+  ],
+  [
+   "N",
+   "Ça porte un nom : faire douter quelqu'un de ce qu'il a vu, pour se protéger."
+  ],
+  [
+   "L",
+   "Je sais ce que je sais, Néo."
+  ],
+  [
+   "NEO",
+   "Alors tu sais aussi, pour Hugo ?"
+  ],
+  [
+   "L",
+   "Quoi, Hugo ?",
+   "peur"
+  ],
+  [
+   "NEO",
+   "Il est allergique aux chats. Il l'a dit à Camille. Désolé.",
+   "triste"
+  ],
+  [
+   "L",
+   "...Non.",
+   "triste",
+   "shake"
+  ]
+ ],
+ "next": "Le doute"
+}

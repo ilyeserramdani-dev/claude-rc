@@ -1,0 +1,88 @@
+{
+ "ep": 21,
+ "title": "Le dernier carton",
+ "hook": "Une seule prise pour deux grille-pains. Le final de la saison 1.",
+ "bg": "cartons",
+ "cast": [
+  "G",
+  "NEO",
+  "L"
+ ],
+ "lines": [
+  [
+   "N",
+   "Précédemment : Lola reste. Mais il n'y a qu'une prise pour deux grille-pains."
+  ],
+  [
+   "NEO",
+   "Toi, tu pars avec eux. Moi, je retourne au magasin. C'est logique."
+  ],
+  [
+   "G",
+   "Non. Tu ne seras pas renvoyé une troisième fois à cause de moi.",
+   "colere"
+  ],
+  [
+   "G",
+   "Je suis vieux et fêlé. Les vieux font de la place, c'est comme ça.",
+   "triste"
+  ],
+  [
+   "L",
+   "Personne ne fait de place. On trouve une autre solution.",
+   "colere"
+  ],
+  [
+   "NEO",
+   "Laquelle ? Il y a UNE prise."
+  ],
+  [
+   "NEO",
+   "Attendez... Je suis connecté. Je lis les annonces du quartier d'Hugo.",
+   "surpris"
+  ],
+  [
+   "NEO",
+   "La boulangerie au coin de sa rue cherche un grille-pain.",
+   "joie"
+  ],
+  [
+   "G",
+   "Une boulangerie ? Avec du vrai pain ? Tous les jours ?",
+   "surpris"
+  ],
+  [
+   "NEO",
+   "Et un réparateur pour ta fissure. J'envoie l'annonce à Camille.",
+   "joie"
+  ],
+  [
+   "C",
+   "La boulangerie du coin ? Il y sera bien. Et j'irai le voir tous les matins."
+  ],
+  [
+   "G",
+   "Gamin... tu as fait ça pour moi ?",
+   "triste"
+  ],
+  [
+   "NEO",
+   "C'est toi qui m'as appris qu'on n'était pas obligés de se battre.",
+   "joie"
+  ],
+  [
+   "N",
+   "11h. Lola, Berthe et Néo partent en camion. Gaston, lui, a trouvé sa boulangerie."
+  ],
+  [
+   "N",
+   "Mais dans la nouvelle cuisine, au fond d'un placard... quelque chose les attendait.",
+   "",
+   "shake"
+  ]
+ ],
+ "next": null,
+ "crack": {
+  "G": 0
+ }
+}

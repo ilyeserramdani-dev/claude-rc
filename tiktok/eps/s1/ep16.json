@@ -1,0 +1,82 @@
+{
+ "ep": 16,
+ "title": "Fêlé",
+ "hook": "Néo pourrait gagner. Il fait exactement l'inverse.",
+ "bg": "cartons",
+ "cast": [
+  "G",
+  "NEO"
+ ],
+ "lines": [
+  [
+   "N",
+   "Précédemment : Brutus a fait tomber Gaston. Il est fêlé."
+  ],
+  [
+   "NEO",
+   "Gaston. Tu m'entends ?",
+   "peur"
+  ],
+  [
+   "G",
+   "Je t'entends. J'ai une fissure. Côté gauche. Mon meilleur profil.",
+   "triste"
+  ],
+  [
+   "NEO",
+   "Hugo a dit que ça « réglait la question ».",
+   "colere"
+  ],
+  [
+   "G",
+   "Il a raison, gamin. Prends la place. Tu l'as gagnée.",
+   "triste"
+  ],
+  [
+   "NEO",
+   "Non. Je ne veux pas la gagner comme ça.",
+   "colere"
+  ],
+  [
+   "G",
+   "Il y a trois jours, tu m'aurais poussé toi-même."
+  ],
+  [
+   "NEO",
+   "Il y a trois jours, je ne te connaissais pas.",
+   "triste"
+  ],
+  [
+   "NEO",
+   "Le plan tient toujours. Camille va descendre prendre son petit-déjeuner."
+  ],
+  [
+   "G",
+   "Je suis fêlé, Néo. Et si je prends feu ?",
+   "peur"
+  ],
+  [
+   "NEO",
+   "Je surveille ta température. Je suis connecté, tu te souviens ? Ça sert enfin à quelque chose.",
+   "joie"
+  ],
+  [
+   "G",
+   "...Mets le pain."
+  ],
+  [
+   "NEO",
+   "Molette sur 4. Lancement dans trois... deux... un."
+  ],
+  [
+   "N",
+   "Une étincelle. Puis plus rien.",
+   "",
+   "shake"
+  ]
+ ],
+ "next": "Le toast parfait",
+ "crack": {
+  "G": 0
+ }
+}

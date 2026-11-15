@@ -1,0 +1,12 @@
+{
+  "compte": "@ryn22311",
+  "metricool_brand": "8090568",
+  "serie": "Ceux de la cuisine",
+  "saison_en_cours": 1,
+  "episodes_produits": {"s1": 21},
+  "prochain_a_ecrire": {"saison": 2, "episode": 1},
+  "programmes_metricool": [],
+  "horaires": ["10:00", "12:00", "18:00"],
+  "seuils": {"tiktok_shop_abonnes": 1500, "creator_rewards_abonnes": 10000, "creator_rewards_vues_30j": 100000},
+  "validation": "brouillon Metricool, validé par Ilyes avant publication"
+}

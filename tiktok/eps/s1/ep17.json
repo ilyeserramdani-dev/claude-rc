@@ -1,0 +1,86 @@
+{
+ "ep": 17,
+ "title": "Le toast parfait",
+ "hook": "Un toast. Une chanson. Et Camille se souvient.",
+ "bg": "cuisine",
+ "cast": [
+  "G",
+  "NEO",
+  "L"
+ ],
+ "lines": [
+  [
+   "N",
+   "Précédemment : Gaston, fêlé, tente un dernier toast."
+  ],
+  [
+   "N",
+   "Le toast saute. Doré. Parfait."
+  ],
+  [
+   "NEO",
+   "Lancement de la musique. Sa chanson préférée.",
+   "joie"
+  ],
+  [
+   "C",
+   "Attends... c'est le vieux grille-pain ? Il marche encore ?"
+  ],
+  [
+   "L",
+   "Allez, Camille... souviens-toi.",
+   "peur"
+  ],
+  [
+   "C",
+   "Confiture de fraises... Mamie me faisait ça. Avec lui. Le jour de mes 14 ans."
+  ],
+  [
+   "G",
+   "Elle se souvient.",
+   "joie"
+  ],
+  [
+   "H",
+   "Il fait de meilleurs toasts que ma machine connectée, ton vieux truc."
+  ],
+  [
+   "NEO",
+   "Il a raison. Et je ne suis même pas vexé.",
+   "joie"
+  ],
+  [
+   "C",
+   "On le garde. Il est fêlé, mais c'est le mien."
+  ],
+  [
+   "G",
+   "Elle a dit « le mien ».",
+   "joie"
+  ],
+  [
+   "L",
+   "Je te l'avais promis.",
+   "joie"
+  ],
+  [
+   "NEO",
+   "Bravo, vieux. Vraiment.",
+   "joie"
+  ],
+  [
+   "H",
+   "Par contre, Camille... pour le chat, il faut qu'on parle."
+  ],
+  [
+   "L",
+   "...Quoi ?",
+   "peur",
+   "shake"
+  ]
+ ],
+ "next": "Il faut qu'on parle",
+ "crack": {
+  "G": 0
+ }
+}

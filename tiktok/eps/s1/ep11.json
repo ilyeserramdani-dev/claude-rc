@@ -1,0 +1,86 @@
+{
+ "ep": 11,
+ "title": "Trois toasts",
+ "hook": "Les aveux. Et une très mauvaise nouvelle.",
+ "bg": "cuisine",
+ "cast": [
+  "G",
+  "NEO",
+  "L"
+ ],
+ "lines": [
+  [
+   "N",
+   "Précédemment : Néo a déjà été renvoyé deux fois. Au prochain retour, c'est la broyeuse."
+  ],
+  [
+   "NEO",
+   "Gaston. Le toast brûlé, c'est moi. Je t'ai rebranché et j'ai mis sur 9.",
+   "triste"
+  ],
+  [
+   "G",
+   "Je le savais.",
+   "colere"
+  ],
+  [
+   "NEO",
+   "Je suis désolé.",
+   "triste"
+  ],
+  [
+   "G",
+   "Désolé ? Samedi, elle me jette ! À cause de toi !",
+   "colere",
+   "shake"
+  ],
+  [
+   "L",
+   "Gaston, il a peur, lui aussi. Il a été renvoyé deux fois."
+  ],
+  [
+   "G",
+   "Et je dois le plaindre, en plus ?",
+   "colere"
+  ],
+  [
+   "L",
+   "Non. Mais tu peux l'écouter."
+  ],
+  [
+   "NEO",
+   "Je ne te demande pas de me pardonner. Juste de comprendre pourquoi.",
+   "triste"
+  ],
+  [
+   "G",
+   "...Deux fois ?",
+   "surpris"
+  ],
+  [
+   "NEO",
+   "Deux fois.",
+   "triste"
+  ],
+  [
+   "G",
+   "Moi, on ne m'a jamais renvoyé. Même quand je brûlais tout."
+  ],
+  [
+   "NEO",
+   "Tu as de la chance d'être aimé comme ça.",
+   "triste"
+  ],
+  [
+   "C",
+   "Ce soir je fais le tri ! Ce qui n'est pas dans le carton part demain."
+  ],
+  [
+   "G",
+   "Ce soir ?! Mais c'était samedi !",
+   "peur",
+   "shake"
+  ]
+ ],
+ "next": "Le tri"
+}

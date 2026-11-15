@@ -1,0 +1,82 @@
+{
+ "ep": 12,
+ "title": "Le tri",
+ "hook": "Camille remplit le carton. Deux grille-pains restent dehors.",
+ "bg": "cartons",
+ "cast": [
+  "G",
+  "B",
+  "NEO"
+ ],
+ "lines": [
+  [
+   "N",
+   "Précédemment : le tri est avancé. C'est ce soir."
+  ],
+  [
+   "N",
+   "19h. Camille remplit le carton marqué « FRAGILE »."
+  ],
+  [
+   "B",
+   "Elle m'a prise en premier. Enveloppée dans un torchon. Comme Jeanne le faisait.",
+   "joie"
+  ],
+  [
+   "G",
+   "Évidemment. Toi, tu as une histoire.",
+   "triste"
+  ],
+  [
+   "B",
+   "Tout le monde a une histoire, Gaston. Même toi."
+  ],
+  [
+   "N",
+   "Les verres. Les photos. Le plaid. Lola, dans sa caisse de transport."
+  ],
+  [
+   "NEO",
+   "Et nous ? Elle ne nous regarde même pas.",
+   "peur"
+  ],
+  [
+   "G",
+   "Pour une fois, on est d'accord.",
+   "triste"
+  ],
+  [
+   "N",
+   "Camille ferme le carton. Deux grille-pains restent sur le plan de travail."
+  ],
+  [
+   "B",
+   "Ne perdez pas espoir. Le camion ne part que demain matin."
+  ],
+  [
+   "NEO",
+   "Demain matin, pour vous, c'est la déchetterie.",
+   "peur"
+  ],
+  [
+   "G",
+   "Et pour toi, le magasin. Troisième retour.",
+   "triste"
+  ],
+  [
+   "NEO",
+   "Tu le savais ?",
+   "surpris"
+  ],
+  [
+   "G",
+   "Lola me l'a dit. Je suis désolé pour toi, gamin.",
+   "triste"
+  ],
+  [
+   "N",
+   "Pour la première fois, les deux grille-pains se sont regardés sans se détester."
+  ]
+ ],
+ "next": "Ensemble"
+}

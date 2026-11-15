@@ -1,0 +1,85 @@
+{
+ "ep": 2,
+ "title": "Le nouveau",
+ "hook": "Un nouveau grille-pain débarque. Et il veut la place de Gaston.",
+ "bg": "cuisine",
+ "cast": [
+  "G",
+  "NEO",
+  "L"
+ ],
+ "lines": [
+  [
+   "N",
+   "Précédemment : Camille déménage. Un mystérieux colis est arrivé."
+  ],
+  [
+   "G",
+   "Il bouge. Le carton bouge, Lola.",
+   "peur"
+  ],
+  [
+   "L",
+   "Ce n'est pas le carton. C'est ce qu'il y a dedans.",
+   "surpris"
+  ],
+  [
+   "NEO",
+   "Mise à jour terminée. Bonjour. Je suis Néo, grille-pain connecté.",
+   "joie",
+   "enter"
+  ],
+  [
+   "G",
+   "Grille-pain ? Ici, le grille-pain, c'est moi.",
+   "colere"
+  ],
+  [
+   "NEO",
+   "Sept niveaux de cuisson, Wi-Fi, appli mobile. Et vous ?",
+   "joie"
+  ],
+  [
+   "G",
+   "Moi j'ai une molette. Et de l'expérience.",
+   "colere"
+  ],
+  [
+   "NEO",
+   "Une molette. C'est mignon. Comme dans un musée.",
+   "joie"
+  ],
+  [
+   "L",
+   "Néo, qui t'a envoyé ici ?"
+  ],
+  [
+   "NEO",
+   "Hugo. Il a dit à Camille : « Comme ça, tu pourras jeter l'ancien. »"
+  ],
+  [
+   "G",
+   "L'ancien... Il parle de moi ?",
+   "triste"
+  ],
+  [
+   "L",
+   "Il parle de toi, Gaston.",
+   "triste"
+  ],
+  [
+   "NEO",
+   "Rien de personnel. C'est le progrès, c'est tout."
+  ],
+  [
+   "N",
+   "Cette nuit-là, quand tout le monde dormait, l'écran de Néo s'est rallumé."
+  ],
+  [
+   "NEO",
+   "Plus que vingt jours. Cette fois, personne ne me renverra.",
+   "peur"
+  ]
+ ],
+ "next": "Berthe"
+}

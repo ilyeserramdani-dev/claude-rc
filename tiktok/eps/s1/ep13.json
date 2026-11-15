@@ -1,0 +1,80 @@
+{
+ "ep": 13,
+ "title": "Ensemble",
+ "hook": "Deux rivaux. Une nuit. Neuf heures pour tout changer.",
+ "bg": "nuit",
+ "cast": [
+  "G",
+  "NEO"
+ ],
+ "lines": [
+  [
+   "N",
+   "Précédemment : Gaston et Néo n'ont pas été mis dans le carton."
+  ],
+  [
+   "NEO",
+   "Tu dors ?",
+   "triste"
+  ],
+  [
+   "G",
+   "À mon âge, on ne dort plus. On attend."
+  ],
+  [
+   "NEO",
+   "C'est comment, la déchetterie ?",
+   "peur"
+  ],
+  [
+   "G",
+   "Je ne sais pas. Personne n'en est revenu pour raconter."
+  ],
+  [
+   "NEO",
+   "Tu crois qu'on aurait pu être amis ? Si on n'avait pas été en concurrence ?",
+   "triste"
+  ],
+  [
+   "G",
+   "On ne se compare que quand on a peur de ne pas suffire."
+  ],
+  [
+   "NEO",
+   "C'est profond, pour un grille-pain.",
+   "joie"
+  ],
+  [
+   "G",
+   "J'ai eu le temps de réfléchir. Quinze ans dans une cuisine.",
+   "joie"
+  ],
+  [
+   "NEO",
+   "Et si on arrêtait de se battre l'un contre l'autre ?"
+  ],
+  [
+   "G",
+   "Pour faire quoi, alors ?"
+  ],
+  [
+   "NEO",
+   "Pour qu'elle nous voie. Tous les deux.",
+   "joie"
+  ],
+  [
+   "G",
+   "Il nous reste combien de temps ?"
+  ],
+  [
+   "NEO",
+   "Le camion arrive à 11h. Il est 2h. Neuf heures."
+  ],
+  [
+   "G",
+   "Alors réveille les autres. On a un plan à préparer.",
+   "colere"
+  ]
+ ],
+ "next": "Le plan"
+}

@@ -1,0 +1,82 @@
+{
+ "ep": 5,
+ "title": "La plante qui sait tout",
+ "hook": "Rosa a tout vu cette nuit-là. Mais elle veut des potins en échange.",
+ "bg": "cuisine",
+ "cast": [
+  "L",
+  "R"
+ ],
+ "lines": [
+  [
+   "N",
+   "Précédemment : quelqu'un a piégé Gaston. Il sera jeté samedi."
+  ],
+  [
+   "L",
+   "Rosa. J'ai besoin de toi."
+  ],
+  [
+   "R",
+   "Enfin ! Trois ans que personne ne me parle. On m'arrose et on s'en va.",
+   "joie"
+  ],
+  [
+   "L",
+   "Cette nuit, tu as vu quelque chose ?"
+  ],
+  [
+   "R",
+   "Ça dépend. Tu as des potins à échanger ?",
+   "joie"
+  ],
+  [
+   "L",
+   "Camille déménage chez Hugo."
+  ],
+  [
+   "R",
+   "Je sais. Hugo ronfle, il a un chien et il dit « carrément » toutes les deux phrases.",
+   "joie"
+  ],
+  [
+   "L",
+   "Un chien ?",
+   "peur",
+   "shake"
+  ],
+  [
+   "R",
+   "Un bouledogue. Brutus. Mais ce n'est pas ta question."
+  ],
+  [
+   "L",
+   "Rosa ! Cette nuit. Le grille-pain.",
+   "colere"
+  ],
+  [
+   "R",
+   "Vers 4h, une petite lumière bleue s'est allumée. Puis un bruit de prise."
+  ],
+  [
+   "L",
+   "Une lumière bleue...",
+   "surpris"
+  ],
+  [
+   "R",
+   "Je dis ça, je dis rien. Mais il n'y a qu'un seul objet bleu dans cette cuisine."
+  ],
+  [
+   "L",
+   "Néo.",
+   "colere"
+  ],
+  [
+   "R",
+   "Et chérie ? Un chien qui s'appelle Brutus... ce n'est jamais un caniche.",
+   "peur"
+  ]
+ ],
+ "next": "Confrontation"
+}

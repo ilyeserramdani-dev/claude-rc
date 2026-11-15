@@ -1,0 +1,83 @@
+{
+ "ep": 7,
+ "title": "Le doute",
+ "hook": "Lire les messages de quelqu'un... ou pas ?",
+ "bg": "nuit",
+ "cast": [
+  "L",
+  "P"
+ ],
+ "lines": [
+  [
+   "N",
+   "Précédemment : Néo affirme que Hugo est allergique aux chats."
+  ],
+  [
+   "L",
+   "Pixel. Montre-moi les messages d'Hugo.",
+   "triste"
+  ],
+  [
+   "P",
+   "Non, Lola. Je suis le téléphone de Camille. Ses messages sont privés.",
+   "colere"
+  ],
+  [
+   "L",
+   "S'il te plaît. C'est ma vie qui est en jeu.",
+   "triste"
+  ],
+  [
+   "P",
+   "Fouiller le téléphone de quelqu'un, ça finit toujours mal. Toujours."
+  ],
+  [
+   "L",
+   "Je ne veux pas espionner. Je veux juste savoir si on va m'abandonner.",
+   "triste"
+  ],
+  [
+   "P",
+   "...Une seule phrase. Je te lis UNE seule phrase."
+  ],
+  [
+   "L",
+   "Merci.",
+   "joie"
+  ],
+  [
+   "P",
+   "Hugo a écrit : « Je ne suis pas allergique. J'ai juste toujours eu des chiens. »"
+  ],
+  [
+   "L",
+   "Il n'est pas allergique ! Néo m'a menti !",
+   "joie",
+   "shake"
+  ],
+  [
+   "P",
+   "Attends. Il y a une photo jointe.",
+   "surpris"
+  ],
+  [
+   "L",
+   "Montre."
+  ],
+  [
+   "P",
+   "C'est Brutus. Le bouledogue. Il est... très gros.",
+   "peur"
+  ],
+  [
+   "L",
+   "Et il a écrit quoi, sous la photo ?",
+   "peur"
+  ],
+  [
+   "P",
+   "« Demain, appel vidéo. Brutus veut rencontrer la famille. »"
+  ]
+ ],
+ "next": "Brutus"
+}
