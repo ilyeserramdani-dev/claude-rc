@@ -31,5 +31,7 @@
   ],
   "libelles_gmail_crees": true,
   "envoi_direct_autorise": true,
-  "envoi_direct_confirme_le": "2026-11-15"
+  "envoi_direct_confirme_le": "2026-11-15",
+  "objectif_mensuel_eur": 132,
+  "objectif_note": "Fixé par le propriétaire le 2026-11-15 : couvrir un abonnement de 132 € par mois. Repère : 3 packs à 49 €, ou 9 mini-packs à 15 €. Objectif, pas promesse."
 }

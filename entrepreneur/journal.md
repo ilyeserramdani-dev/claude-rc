@@ -32,3 +32,5 @@ Une entrée par jour, la plus récente en bas.
 **Changement de manuel proposé** (si le propriétaire confirme) : règle 3 → envoi direct autorisé pour la prospection et les réponses, dans les limites de la règle 6.
 
 **Confirmation du propriétaire (soir).** « Oui » explicite à l'envoi direct des e-mails. Manuel passé en version 2 : règle 3 réécrite (envoi direct pour la prospection et les réponses du projet, limites de la règle 6 inchangées : 5 par jour ouvré, 7 h à 19 h, un seul contact par entreprise). Premier envoi : lundi 16 novembre au premier passage après 7 h.
+
+**Objectif fixé par le propriétaire.** 132 € par mois, de quoi payer son abonnement. Repère : 3 packs à 49 € ou 9 mini-packs à 15 €. Avec 5 messages par jour ouvré (environ 100 par mois), il faut à peu près 3 % de commandes : atteignable mais non garanti, à vérifier sur les deux premières semaines.
