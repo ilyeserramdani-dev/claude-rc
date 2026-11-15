@@ -148,5 +148,21 @@
   "creator_rewards_abonnes": 10000,
   "creator_rewards_vues_30j": 100000
  },
- "validation": "brouillon Metricool, validé par Ilyes avant publication"
+ "validation": "brouillon Metricool, validé par Ilyes avant publication",
+ "derniere_execution": "2026-11-15",
+ "stats": {
+  "2026-11-15": {
+   "abonnes": 10480,
+   "videos_publiees_suivies": 0,
+   "vues_jour": 0,
+   "source": "Metricool (données disponibles depuis le 13/11)"
+  }
+ },
+ "monetisation": {
+  "tiktok_shop_seuil_abonnes_atteint": true,
+  "creator_rewards_abonnes_atteint": true,
+  "creator_rewards_vues_30j_atteint": false,
+  "vues_30j": 0,
+  "note": "Affiliation TikTok Shop signalée à Ilyes le 15/11 ; conflit compte pro/personnel à trancher par Ilyes"
+ }
 }
