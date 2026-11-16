@@ -50,7 +50,7 @@ Une entrée par jour, la plus récente en bas.
 
 **Leçon.** En Australie comme en France, les recherches par niche remontent surtout places de marché et enseignes, et les petites boutiques soignent souvent déjà leurs fiches : viser des boutiques au catalogue large (revendeurs de quartier, quincaillerie, loisirs créatifs) où les fiches reprennent le texte du fournisseur.
 
-**Relevé de 04h57 (session avec le propriétaire).** Le premier message (artisan français, fiche d'un jeu en bois) est parti à 0 h 15, heure de Paris, c'est-à-dire en dehors de la plage prévue pour la France ; il n'a pas été envoyé depuis cette session et son expéditeur n'est pas identifié (propriétaire depuis Gmail, ou passage programmé). Libellé posé, aucune réponse. Aucune trace des passages programmés de la nuit, ni dans Gmail ni dans le dépôt : aucun brouillon, aucun message vers l'Australie.
+**Relevé de 04h57 (session avec le propriétaire).** Le premier message (artisan français, fiche d'un jeu en bois) est parti à 0 h 15, heure de Paris, c'est-à-dire en dehors de la plage prévue pour la France ; il n'a pas été envoyé depuis cette session et son expéditeur n'est pas identifié (propriétaire depuis Gmail, ou passage programmé). Libellé posé, aucune réponse. Les passages programmés de 0 h 44 à 3 h 44 n'ont laissé aucune trace (ni relevé, ni brouillon, ni message vers l'Australie) ; celui de 4 h 45 a fait le relevé et son propre repérage, noté ci-dessus. Les deux repérages de ce matin ont donc tourné en parallèle sur le même marché.
 
 **Repérage Australie.** Trois lancements de l'Assistant (céramique et bougies, cuir et accessoires pour chiens, bois et papeterie), puis vérification de six boutiques : aucune retenue, donc aucun envoi. Raisons notées dans la fiche projet.
 
