@@ -97,3 +97,10 @@ Une entrée par jour, la plus récente en bas.
 
 **Passage de 12h52.** Repérage sous la méthode améliorée (e-mail d'abord, 2 fiches, cible soignée). Une seule candidate, une épicerie en ligne : écartée car discours « vertus santé / thérapeutique » (secteur exclu), et SIRET ne correspondant pas à la boutique. 0 envoi. Confirme le constat : les cibles joignables + fiche faible + niche propre restent rares (environ 1 pour 100 pages). 2 e-mails envoyés au total, 0 réponse à ce stade.
 
+**Changement de stratégie (13h20, session avec le propriétaire, « change toute ta stratégie maintenant que tu as compris »).** Relevé Gmail refait : toujours 2 fils, aucune réponse nouvelle, rien à ajouter aux chiffres. Ce n'est pas le métier qui change (fiches produits, angle du 12h05 conservé) mais la façon de dépenser l'abonnement : le repérage coûte des centaines de pages lues pour environ 1 boutique exploitable sur 100, et la fréquence horaire programmée ne peut pas être réduite directement (une tentative de modifier la tâche programmée a déjà été refusée par le système d'autorisation). Donc le resserrement se fait dans la routine elle-même, manuel en version 7 :
+- 1 lancement de l'Assistant par passage au lieu de 2.
+- Budget quotidien : 80 pages ouvertes en repérage ; au-delà, plus aucun repérage avant le lendemain.
+- Passage allégé par défaut : s'il y a du stock de brouillons pour le marché ouvert, on envoie depuis le stock et on ne relance pas l'Assistant.
+- Trois passages sans résultat de suite (au lieu de deux) : on saute complètement le repérage du passage suivant, relevé Gmail seulement.
+Objectif : qu'un passage sans rien à faire coûte une poignée d'appels, pas une centaine de pages. La prospection reste arrêtée aujourd'hui jusqu'au 2026-11-17 (règle 6, message revenu en erreur de 12h21) ; ce resserrement s'appliquera au repérage dès la reprise.
+

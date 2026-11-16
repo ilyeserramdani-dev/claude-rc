@@ -1,6 +1,6 @@
 {
   "agent": "Agent Entrepreneur",
-  "version_manuel": 6,
+  "version_manuel": 7,
   "cree_le": "2026-11-15",
   "rythme": "un passage par heure : envoi quand un marché est ouvert (France le jour, Australie et Nouvelle-Zélande la nuit), préparation sinon",
   "jour_courant": "2026-11-16",
@@ -64,5 +64,9 @@
   "dernier_passage": "2026-11-16 12h52 (session propriétaire) : repérage, 0 cible envoyable (seule candidate = épicerie à discours santé, exclue), 0 envoi",
   "blocage_signale": "2026-11-16 : lecture des sites de boutiques refusée par l'outil web (autorisation sans réponse) ; propriétaire prévenu une fois, ne pas renotifier. Mise à jour 08h45 : blocage partiel seulement — les sites propres s'ouvrent quand l'adresse vient d'un résultat de recherche ou d'un lien de la page d'accueil ; le refus touche les adresses composées à la main ou non rencontrées auparavant",
   "angle_courant": "améliorer la fiche la plus faible d'une boutique joignable (clarté + SEO), au lieu de viser une fiche vide — changé le 2026-11-16",
-  "prospection_arretee_jusqu_au": "2026-11-17 (message revenu en erreur le 2026-11-16, règle 6)"
+  "prospection_arretee_jusqu_au": "2026-11-17 (message revenu en erreur le 2026-11-16, règle 6)",
+  "budget_pages_jour": 80,
+  "budget_pages_jour_note": "Ajouté le 2026-11-16 (nouvelle stratégie) : au-delà de 80 pages ouvertes en repérage dans la journée, plus aucun repérage jusqu'au lendemain. 1 lancement de l'Assistant par passage au lieu de 2.",
+  "lancements_assistant_max_par_passage": 1,
+  "passages_sans_resultat_consecutifs": 0
 }
