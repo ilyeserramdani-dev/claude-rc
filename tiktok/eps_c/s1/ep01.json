@@ -1,0 +1,93 @@
+{
+ "ep": 1,
+ "series": "BÂTIMENT B",
+ "cinema": true,
+ "voice": true,
+ "char_h": {
+  "1": 960,
+  "2": 880,
+  "3": 760,
+  "4": 660
+ },
+ "title": "L'arrivée",
+ "hook": "Cette nuit-là, trois voitures noires sont entrées dans la cité. Rien n'a plus jamais été pareil.",
+ "bg": "cite_nuit",
+ "cast": [
+  "I",
+  "LU",
+  "BA"
+ ],
+ "lines": [
+  [
+   "N",
+   "Cité des Tilleuls, dans le Nord. Trois heures du matin."
+  ],
+  [
+   "I",
+   "Lucien ? Qu'est-ce que tu fais dehors à cette heure-ci ?",
+   "surpris"
+  ],
+  [
+   "LU",
+   "Rentre chez toi, Inès. Tout de suite. Ne te retourne pas.",
+   "peur"
+  ],
+  [
+   "I",
+   "Pourquoi ? C'est qui, ces voitures ? Elles sont garées devant le B.",
+   "peur"
+  ],
+  [
+   "LU",
+   "Trois voitures noires. Les mêmes qui tournaient autour de la cité la semaine dernière.",
+   "peur"
+  ],
+  [
+   "N",
+   "Une portière s'ouvre. Un homme en costume blanc descend, une canne dorée à la main."
+  ],
+  [
+   "BA",
+   "Bonsoir. Quelle belle soirée pour visiter son nouveau quartier.",
+   "joie",
+   "enter"
+  ],
+  [
+   "LU",
+   "Vous êtes perdu, monsieur. Ici, c'est une cité. Pas un palace.",
+   "colere"
+  ],
+  [
+   "BA",
+   "Pour l'instant, mon cher. Pour l'instant.",
+   "joie"
+  ],
+  [
+   "I",
+   "Vous êtes qui, au juste ?",
+   "colere"
+  ],
+  [
+   "BA",
+   "On m'appelle le Baron. Et vous, mademoiselle, vous êtes l'infirmière du troisième.",
+   "neutre"
+  ],
+  [
+   "I",
+   "Comment vous savez ça ?",
+   "peur"
+  ],
+  [
+   "BA",
+   "Je sais tout. C'est mon métier.",
+   "joie"
+  ],
+  [
+   "BA",
+   "À partir de ce soir, cette cité a un nouveau propriétaire.",
+   "colere",
+   "shake"
+  ]
+ ],
+ "next": "Le gardien"
+}

@@ -1,0 +1,81 @@
+{
+ "ep": 14,
+ "series": "BÂTIMENT B",
+ "cinema": true,
+ "voice": true,
+ "char_h": {
+  "1": 960,
+  "2": 880,
+  "3": 760,
+  "4": 660
+ },
+ "title": "Le Baron",
+ "hook": "Le Baron l'attendait chez elle. Avec une proposition.",
+ "bg": "appart",
+ "cast": [
+  "BA",
+  "I"
+ ],
+ "lines": [
+  [
+   "N",
+   "Inès rentre chez elle. La lumière est allumée. Quelqu'un est assis dans son canapé."
+  ],
+  [
+   "BA",
+   "Entrez, mademoiselle. Faites comme chez vous. Ah, mais vous êtes chez vous.",
+   "joie"
+  ],
+  [
+   "I",
+   "Sortez de chez moi. Ou j'appelle la police.",
+   "colere"
+  ],
+  [
+   "BA",
+   "La commandante Morel ? Elle dort à cette heure-ci. Rue des Lilas, numéro douze.",
+   "joie"
+  ],
+  [
+   "I",
+   "Qu'est-ce que vous voulez ?",
+   "peur"
+  ],
+  [
+   "BA",
+   "La clé de la cave quarante-sept. Et le carnet que le Comptable a si bêtement oublié.",
+   "neutre"
+  ],
+  [
+   "I",
+   "Je ne sais pas de quoi vous parlez.",
+   "colere"
+  ],
+  [
+   "BA",
+   "Vous travaillez de nuit. Vous rentrez à six heures. Vous prenez toujours l'escalier B.",
+   "neutre"
+  ],
+  [
+   "I",
+   "Vous me surveillez ?",
+   "peur"
+  ],
+  [
+   "BA",
+   "Je surveille tout le monde. Je vous offre un appartement neuf, loin d'ici. Pensez-y.",
+   "joie"
+  ],
+  [
+   "N",
+   "Son téléphone vibre. Le Baron se lève d'un bond. Sa voix change complètement."
+  ],
+  [
+   "BA",
+   "Oui, Mamie. Oui. Tout de suite, Mamie. Pardon, Mamie.",
+   "peur",
+   "shake"
+  ]
+ ],
+ "next": "Mamie Corvo"
+}

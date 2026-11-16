@@ -1,0 +1,89 @@
+{
+ "ep": 4,
+ "series": "BÂTIMENT B",
+ "cinema": true,
+ "voice": true,
+ "char_h": {
+  "1": 960,
+  "2": 880,
+  "3": 760,
+  "4": 660
+ },
+ "title": "Cave 47",
+ "hook": "La cave du gardien cache quelque chose. Et quelqu'un est arrivé avant eux.",
+ "bg": "cave",
+ "cast": [
+  "I",
+  "Y",
+  "T"
+ ],
+ "lines": [
+  [
+   "N",
+   "Les caves du bâtiment B. Le couloir sent l'humidité et la peur."
+  ],
+  [
+   "Y",
+   "J'ai vu les hommes du Baron racketter Pham ce matin. Ils ont pris ses clés.",
+   "colere"
+  ],
+  [
+   "I",
+   "Ils prennent tout. Les commerces, le bâtiment... Voilà la quarante-sept.",
+   "peur"
+  ],
+  [
+   "Y",
+   "La clé rentre pas. Le cadenas est neuf. Quelqu'un l'a changé cette nuit.",
+   "colere"
+  ],
+  [
+   "I",
+   "Regarde par la fente. Il y a des sacs de sport. Plein. Ils débordent.",
+   "surpris"
+  ],
+  [
+   "Y",
+   "C'est... des liasses de billets. Des dizaines de liasses.",
+   "surpris",
+   "shake"
+  ],
+  [
+   "I",
+   "De l'argent sale. Caché dans la cave de Lucien.",
+   "peur"
+  ],
+  [
+   "T",
+   "Vous ne devriez pas être là.",
+   "neutre",
+   "enter"
+  ],
+  [
+   "Y",
+   "Et toi, t'es qui ? Je t'ai jamais vu dans le bâtiment.",
+   "colere"
+  ],
+  [
+   "T",
+   "Théo. Septième étage. J'ai emménagé il y a deux semaines.",
+   "neutre"
+  ],
+  [
+   "I",
+   "Et tu fais quoi dans les caves à six heures du matin ?",
+   "colere"
+  ],
+  [
+   "T",
+   "Je cherche Lucien. Comme vous.",
+   "neutre"
+  ],
+  [
+   "T",
+   "Et si vous tenez à lui, oubliez ce que vous venez de voir.",
+   "peur"
+  ]
+ ],
+ "next": "Le badge"
+}

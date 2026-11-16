@@ -1,0 +1,87 @@
+{
+ "ep": 16,
+ "series": "BÂTIMENT B",
+ "cinema": true,
+ "voice": true,
+ "char_h": {
+  "1": 960,
+  "2": 880,
+  "3": 760,
+  "4": 660
+ },
+ "title": "Le thé",
+ "hook": "Mamie Corvo invite Inès à prendre le thé. Inès ne sait pas qui elle est.",
+ "bg": "appart",
+ "cast": [
+  "MC",
+  "I",
+  "F"
+ ],
+ "lines": [
+  [
+   "N",
+   "Le lendemain. Mamie Corvo a invité Inès et madame Diallo à prendre le thé."
+  ],
+  [
+   "MC",
+   "Ma petite Inès, tu as une mine affreuse. Tu travailles trop, ma chérie.",
+   "triste"
+  ],
+  [
+   "I",
+   "C'est gentil, Mamie. Il se passe des choses graves dans la cité en ce moment.",
+   "triste"
+  ],
+  [
+   "MC",
+   "J'ai entendu. Des voitures noires. Un baron. Quelle horreur. On n'est plus en sécurité nulle part.",
+   "peur"
+  ],
+  [
+   "F",
+   "Vous avez une très jolie écharpe noire, Mamie. Avec un oiseau brodé.",
+   "neutre"
+  ],
+  [
+   "MC",
+   "Un corbeau. J'adore les corbeaux. Ils sont intelligents. Et patients.",
+   "joie"
+  ],
+  [
+   "F",
+   "Comme celui peint sur la porte de Rose ?",
+   "neutre"
+  ],
+  [
+   "MC",
+   "Vraiment ? Quelle coïncidence.",
+   "joie"
+  ],
+  [
+   "I",
+   "Je dois y aller. Merci pour le thé, Mamie.",
+   "neutre"
+  ],
+  [
+   "MC",
+   "Prends tes affaires, ma chérie. Ton sac est sur la chaise.",
+   "joie"
+  ],
+  [
+   "N",
+   "Dans l'escalier, Inès fouille son sac. La clé de la cave quarante-sept a disparu."
+  ],
+  [
+   "F",
+   "Inès... Le carnet du Comptable était dans ton sac aussi ?",
+   "peur"
+  ],
+  [
+   "I",
+   "Oui. Il a disparu aussi.",
+   "peur",
+   "shake"
+  ]
+ ],
+ "next": "Opération croissant"
+}

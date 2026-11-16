@@ -1,0 +1,83 @@
+{
+ "ep": 10,
+ "series": "BÂTIMENT B",
+ "cinema": true,
+ "voice": true,
+ "char_h": {
+  "1": 960,
+  "2": 880,
+  "3": 760,
+  "4": 660
+ },
+ "title": "La chaufferie",
+ "hook": "Sous la chaufferie, quelqu'un vit en cachette. Depuis trois jours.",
+ "bg": "cave",
+ "cast": [
+  "I",
+  "Y"
+ ],
+ "lines": [
+  [
+   "N",
+   "Précédemment : un pigeon a vu Lucien descendre à la chaufferie."
+  ],
+  [
+   "Y",
+   "La chaufferie est condamnée depuis l'incendie. Personne n'y met les pieds.",
+   "peur"
+  ],
+  [
+   "I",
+   "Alors pourquoi la poignée est propre ? Tout le reste est couvert de poussière.",
+   "surpris"
+  ],
+  [
+   "Y",
+   "Un sac de couchage. Des boîtes de conserve. Une lampe frontale.",
+   "surpris"
+  ],
+  [
+   "I",
+   "Et un thermos bleu. Avec l'autocollant du LOSC. C'est celui de Lucien.",
+   "surpris",
+   "shake"
+  ],
+  [
+   "Y",
+   "Il est encore chaud. Il est parti y'a dix minutes, maximum.",
+   "peur"
+  ],
+  [
+   "I",
+   "Il est vivant. Il se cache.",
+   "joie"
+  ],
+  [
+   "Y",
+   "Il se cache du Baron. Comme tout le monde dans cette cité.",
+   "colere"
+  ],
+  [
+   "I",
+   "Regarde le mur. Écrit à la craie.",
+   "surpris"
+  ],
+  [
+   "Y",
+   "Quarante-sept, flèche, toit. Et une heure : vingt-trois heures.",
+   "surpris"
+  ],
+  [
+   "I",
+   "Il nous donne rendez-vous. Ce soir. Sur le toit.",
+   "peur"
+  ],
+  [
+   "N",
+   "Derrière eux, la porte de la chaufferie se referme. Toute seule.",
+   "",
+   "shake"
+  ]
+ ],
+ "next": "Lucien"
+}

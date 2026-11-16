@@ -1,0 +1,88 @@
+{
+ "ep": 18,
+ "series": "BÂTIMENT B",
+ "cinema": true,
+ "voice": true,
+ "char_h": {
+  "1": 960,
+  "2": 880,
+  "3": 760,
+  "4": 660
+ },
+ "title": "L'offre",
+ "hook": "Dix mille euros pour une vidéo. Yanis doit choisir.",
+ "bg": "cite_jour",
+ "cast": [
+  "BA",
+  "Y",
+  "LA"
+ ],
+ "lines": [
+  [
+   "N",
+   "Le Baron a retrouvé MC Lampadaire. Yanis était avec lui."
+  ],
+  [
+   "BA",
+   "Messieurs. La vidéo d'hier. Je veux le fichier original. Et que tu la supprimes.",
+   "neutre",
+   "enter"
+  ],
+  [
+   "LA",
+   "Supprimer ? Trois cent mille vues, mon gars. C'est mon meilleur score.",
+   "colere"
+  ],
+  [
+   "BA",
+   "Dix mille euros. En liquide. Pour le téléphone qui l'a filmée.",
+   "joie"
+  ],
+  [
+   "Y",
+   "Et s'il dit non ?",
+   "colere"
+  ],
+  [
+   "BA",
+   "Alors sa mère ne trouvera plus jamais d'appartement dans cette ville. Jamais.",
+   "colere"
+  ],
+  [
+   "LA",
+   "Laisse ma mère en dehors de ça.",
+   "colere"
+  ],
+  [
+   "BA",
+   "Toi, le livreur. Ta mère a besoin d'un rez-de-chaussée. Ses genoux, je crois.",
+   "neutre"
+  ],
+  [
+   "Y",
+   "Comment vous savez ça ?",
+   "peur"
+  ],
+  [
+   "BA",
+   "Je sais tout. Dix mille. Chacun. Maintenant.",
+   "joie"
+  ],
+  [
+   "N",
+   "Yanis regarde Lampadaire. Puis le bâtiment B. Puis la fenêtre de sa mère."
+  ],
+  [
+   "Y",
+   "D'accord. Donne-lui le téléphone, Lampadaire.",
+   "triste"
+  ],
+  [
+   "LA",
+   "Quoi ?! Yanis, t'es sérieux ?",
+   "surpris",
+   "shake"
+  ]
+ ],
+ "next": "La copie"
+}

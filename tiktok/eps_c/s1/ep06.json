@@ -1,0 +1,88 @@
+{
+ "ep": 6,
+ "series": "BÂTIMENT B",
+ "cinema": true,
+ "voice": true,
+ "char_h": {
+  "1": 960,
+  "2": 880,
+  "3": 760,
+  "4": 660
+ },
+ "title": "Mamie Rose",
+ "hook": "Ils ont voulu acheter l'appartement de la mauvaise grand-mère.",
+ "bg": "cite_jour",
+ "cast": [
+  "RO",
+  "CO",
+  "BR"
+ ],
+ "lines": [
+  [
+   "N",
+   "Le banc devant le bâtiment B. Mamie Rose, soixante-quinze ans, ancienne championne de boxe."
+  ],
+  [
+   "CO",
+   "Madame Rose ? Le Comptable. Je représente un acheteur très généreux.",
+   "joie",
+   "enter"
+  ],
+  [
+   "RO",
+   "Je vends rien, mon petit. Ni mon appartement, ni mes souvenirs.",
+   "neutre"
+  ],
+  [
+   "CO",
+   "Quinze mille euros. Comptant. Aujourd'hui. C'est une offre unique.",
+   "joie"
+  ],
+  [
+   "RO",
+   "Mon appartement en vaut quatre fois plus. Et il vaut tout l'or du monde pour moi.",
+   "colere"
+  ],
+  [
+   "CO",
+   "Le bâtiment va être démoli, madame. Dans un mois, il ne vaudra plus rien.",
+   "neutre"
+  ],
+  [
+   "BR",
+   "Grrr... Il sent la calculatrice et le mensonge, celui-là.",
+   "colere"
+  ],
+  [
+   "RO",
+   "Brutus n'aime pas les menteurs. Moi non plus.",
+   "colere"
+  ],
+  [
+   "CO",
+   "Réfléchissez bien. Il arrive parfois des accidents aux gens têtus.",
+   "colere"
+  ],
+  [
+   "RO",
+   "Tu me menaces ? J'ai mis K.O. des types deux fois plus gros que toi en trois rounds.",
+   "colere",
+   "shake"
+  ],
+  [
+   "CO",
+   "Le Baron sera déçu. Très déçu.",
+   "peur"
+  ],
+  [
+   "N",
+   "Le lendemain matin, sur la porte de Mamie Rose, quelqu'un a peint un corbeau noir."
+  ],
+  [
+   "RO",
+   "Un corbeau... La signature des Corvo.",
+   "peur"
+  ]
+ ],
+ "next": "Les témoins"
+}

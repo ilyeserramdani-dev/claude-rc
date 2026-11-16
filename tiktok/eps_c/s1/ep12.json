@@ -1,0 +1,88 @@
+{
+ "ep": 12,
+ "series": "BÂTIMENT B",
+ "cinema": true,
+ "voice": true,
+ "char_h": {
+  "1": 960,
+  "2": 880,
+  "3": 760,
+  "4": 660
+ },
+ "title": "Commandante Morel",
+ "hook": "La police arrive enfin. Mais la commandante a ses propres secrets.",
+ "bg": "hall",
+ "cast": [
+  "MO",
+  "I"
+ ],
+ "lines": [
+  [
+   "N",
+   "Le hall du bâtiment B. Une femme en imperméable examine les boîtes aux lettres."
+  ],
+  [
+   "MO",
+   "Commandante Morel, brigade financière. C'est vous, Inès ?",
+   "neutre",
+   "enter"
+  ],
+  [
+   "I",
+   "Comment vous connaissez mon nom ?",
+   "surpris"
+  ],
+  [
+   "MO",
+   "La vidéo de votre ami rappeur. Trois cent mille vues. Elle est arrivée jusqu'à mon bureau.",
+   "neutre"
+  ],
+  [
+   "I",
+   "Alors vous savez pour le Baron. Pour l'argent dans les caves.",
+   "joie"
+  ],
+  [
+   "MO",
+   "Ça fait deux ans que je suis la famille Corvo. Deux ans qu'ils m'échappent.",
+   "colere"
+  ],
+  [
+   "I",
+   "Arrêtez-les ! Les sacs sont encore en bas, j'en suis sûre.",
+   "colere"
+  ],
+  [
+   "MO",
+   "Si j'ouvre la cave, je trouve de l'argent. Je ne trouve pas le chef.",
+   "neutre"
+  ],
+  [
+   "I",
+   "Le chef, c'est le Baron. Costume blanc, canne dorée.",
+   "colere"
+  ],
+  [
+   "MO",
+   "Le Baron n'est qu'une vitrine. Quelqu'un au-dessus de lui donne les ordres.",
+   "neutre"
+  ],
+  [
+   "I",
+   "Et comment vous savez ça ?",
+   "surpris"
+  ],
+  [
+   "MO",
+   "Parce que j'ai un informateur chez eux. Vous le connaissez.",
+   "neutre"
+  ],
+  [
+   "MO",
+   "Les gens l'appellent La Fouine.",
+   "neutre",
+   "shake"
+  ]
+ ],
+ "next": "La Fouine"
+}

@@ -2,7 +2,8 @@
 import numpy as np, wave, random
 
 SR = 44100
-VOICE = {"L": (880, "sine"), "G": (200, "tri"), "NEO": (620, "square"), "B": (480, "sine"), "R": (760, "tri"),
+VOICE = {"I": (760, "sine"), "Y": (330, "tri"), "F": (520, "sine"), "LU": (240, "tri"), "T": (430, "sine"),
+         "V": (185, "tri"), "X": (420, "square"), "PA": (380, "square"),"L": (880, "sine"), "G": (200, "tri"), "NEO": (620, "square"), "B": (480, "sine"), "R": (760, "tri"),
          "P": (1050, "square"), "BR": (170, "tri"), "C": (640, "sine"), "H": (300, "sine")}
 
 
@@ -35,9 +36,9 @@ def add(buf, sig, t):
 
 def music(total, mood):
     buf = np.zeros(int(SR * total) + SR)
-    bpm = 78 if mood != "nuit" else 66
+    bpm = 66 if mood in ("nuit", "cite_nuit", "cave", "hall", "toit") else 78
     beat = 60 / bpm
-    if mood in ("nuit",):
+    if mood in ("nuit", "cite_nuit", "cave", "hall", "toit"):
         prog = [[57, 60, 64], [53, 57, 60], [48, 52, 55], [55, 59, 62]]  # Am F C G
     else:
         prog = [[48, 52, 55], [57, 60, 64], [53, 57, 60], [55, 59, 62]]  # C Am F G
@@ -113,3 +114,33 @@ def save(buf, path):
         w.setsampwidth(2)
         w.setframerate(SR)
         w.writeframes(st.tobytes())
+
+
+def track_voice(segs, total, mood, end_start):
+    import soundfile as sf
+    buf = music(total, mood) * 0.55
+    t0 = 0.0
+    for s in segs:
+        if s.get("audio"):
+            v, sr = sf.read(s["audio"])
+            if v.ndim > 1:
+                v = v.mean(axis=1)
+            if sr != SR:
+                idx = np.linspace(0, len(v) - 1, int(len(v) * SR / sr))
+                v = np.interp(idx, np.arange(len(v)), v)
+            add(buf, v * 0.95, t0 + 0.05)
+        if s["fx"] == "shake":
+            d = 0.45
+            th = osc(55, d) * np.exp(-np.linspace(0, 8, int(SR * d))) * 0.45
+            th += np.random.default_rng(1).standard_normal(len(th)) * np.exp(-np.linspace(0, 14, len(th))) * 0.1
+            add(buf, th, t0)
+        if s["fx"] == "enter":
+            d = 0.35
+            tt = np.arange(int(SR * d)) / SR
+            add(buf, np.sin(2 * np.pi * (300 + 900 * tt / d) * tt) * env(len(tt), 0.01, 0.1) * 0.1, t0)
+        t0 += s["dur"]
+    for i, m in enumerate([72, 76, 79, 84]):
+        f = 440 * 2 ** ((m - 69) / 12)
+        add(buf, osc(f, 1.2) * np.exp(-np.linspace(0, 5, int(SR * 1.2))) * 0.12, end_start + 0.15 + i * 0.14)
+    buf = buf[:int(SR * total)]
+    return np.tanh(buf * 1.2) / 1.1

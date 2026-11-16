@@ -1,0 +1,88 @@
+{
+ "ep": 9,
+ "series": "BÂTIMENT B",
+ "cinema": true,
+ "voice": true,
+ "char_h": {
+  "1": 960,
+  "2": 880,
+  "3": 760,
+  "4": 660
+ },
+ "title": "MC Lampadaire",
+ "hook": "Le rappeur de la cité filme tout. Cette fois, il a filmé la mauvaise chose.",
+ "bg": "cite_jour",
+ "cast": [
+  "LA",
+  "Y"
+ ],
+ "lines": [
+  [
+   "N",
+   "MC Lampadaire. Deux mètres de haut, trois cent mille abonnés, et toujours en train de filmer."
+  ],
+  [
+   "LA",
+   "Yo, Yanis ! Viens voir, j'ai un truc de fou. Ça va exploser les vues.",
+   "joie",
+   "enter"
+  ],
+  [
+   "Y",
+   "Lampadaire, j'ai pas le temps pour tes clips, là.",
+   "colere"
+  ],
+  [
+   "LA",
+   "C'est pas un clip, frère. Hier soir, je filmais le coucher de soleil depuis ma fenêtre.",
+   "neutre"
+  ],
+  [
+   "LA",
+   "Et regarde qui passe derrière. Le gros en rose. Avec des sacs. Vers les caves.",
+   "surpris"
+  ],
+  [
+   "Y",
+   "C'est Biscotte. L'homme du Baron. Et ce sont les sacs de la cave quarante-sept.",
+   "surpris",
+   "shake"
+  ],
+  [
+   "LA",
+   "Je l'ai postée ce matin. Déjà cinquante mille vues. Le peuple veut savoir.",
+   "joie"
+  ],
+  [
+   "Y",
+   "Tu l'as postée ? Tu te rends compte de ce que t'as fait ?",
+   "peur"
+  ],
+  [
+   "LA",
+   "Ben quoi ? C'est mon métier. Je montre la vérité de la cité.",
+   "neutre"
+  ],
+  [
+   "Y",
+   "Le Baron va voir cette vidéo. Il va savoir que quelqu'un l'a filmé.",
+   "peur"
+  ],
+  [
+   "LA",
+   "Et alors ? Il va faire quoi ? M'abonner ?",
+   "joie"
+  ],
+  [
+   "N",
+   "Au même moment, dans une voiture noire, le Baron regarde la vidéo. Il ne sourit plus."
+  ],
+  [
+   "N",
+   "Il compose un numéro. Une seule phrase : « Trouvez-moi le grand avec la coiffure. »",
+   "",
+   "shake"
+  ]
+ ],
+ "next": "La chaufferie"
+}

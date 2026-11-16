@@ -1,0 +1,89 @@
+{
+ "ep": 13,
+ "series": "BÂTIMENT B",
+ "cinema": true,
+ "voice": true,
+ "char_h": {
+  "1": 960,
+  "2": 880,
+  "3": 760,
+  "4": 660
+ },
+ "title": "La Fouine",
+ "hook": "L'homme qui rackette l'épicier travaille pour la police. Ou pas.",
+ "bg": "cite_nuit",
+ "cast": [
+  "FO",
+  "I"
+ ],
+ "lines": [
+  [
+   "N",
+   "Minuit. Derrière le city-stade. Un rendez-vous secret."
+  ],
+  [
+   "FO",
+   "Vite, vite, vite. Si on me voit avec toi, je suis fini. Fini, tu comprends ?",
+   "peur",
+   "enter"
+  ],
+  [
+   "I",
+   "Tu as volé les clés de monsieur Pham. Pourquoi je te ferais confiance ?",
+   "colere"
+  ],
+  [
+   "FO",
+   "Parce que je les ai rendues à la police le soir même. Double des clés. Malin, non ?",
+   "joie"
+  ],
+  [
+   "I",
+   "Morel dit que le Baron n'est pas le vrai chef.",
+   "neutre"
+  ],
+  [
+   "FO",
+   "Le Baron, c'est un costume. Il obéit. Il tremble au téléphone.",
+   "neutre"
+  ],
+  [
+   "I",
+   "Il tremble devant qui ?",
+   "peur"
+  ],
+  [
+   "FO",
+   "Personne la voit jamais. Elle vit dans la cité. Elle connaît tout le monde.",
+   "peur"
+  ],
+  [
+   "I",
+   "« Elle » ? C'est une femme ?",
+   "surpris",
+   "shake"
+  ],
+  [
+   "FO",
+   "Une femme que tout le monde adore. C'est ça le pire.",
+   "peur"
+  ],
+  [
+   "I",
+   "Dis-moi son nom.",
+   "colere"
+  ],
+  [
+   "FO",
+   "Son nom, c'est...",
+   "peur"
+  ],
+  [
+   "N",
+   "Des phares s'allument au bout de la rue. Quand Inès se retourne, La Fouine a disparu.",
+   "",
+   "shake"
+  ]
+ ],
+ "next": "Le Baron"
+}

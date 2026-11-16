@@ -1,0 +1,87 @@
+{
+ "ep": 17,
+ "series": "BÂTIMENT B",
+ "cinema": true,
+ "voice": true,
+ "char_h": {
+  "1": 960,
+  "2": 880,
+  "3": 760,
+  "4": 660
+ },
+ "title": "Opération croissant",
+ "hook": "Un pigeon borgne et un bouledogue vont tenter le cambriolage du siècle.",
+ "bg": "toit",
+ "cast": [
+  "GA",
+  "BR"
+ ],
+ "lines": [
+  [
+   "N",
+   "Précédemment : Mamie Corvo a volé la clé et le carnet dans le sac d'Inès."
+  ],
+  [
+   "GA",
+   "Brutus, j'ai tout vu depuis le rebord de la fenêtre. La mamie a mis le carnet dans sa boîte à biscuits.",
+   "neutre"
+  ],
+  [
+   "BR",
+   "La mamie aux madeleines ? Elle me donne toujours des bouts de jambon...",
+   "triste"
+  ],
+  [
+   "GA",
+   "Elle donne du jambon à tout le monde. C'est comme ça qu'on achète la confiance.",
+   "neutre"
+  ],
+  [
+   "BR",
+   "OK. Le plan ?",
+   "colere"
+  ],
+  [
+   "GA",
+   "Tu aboies devant sa porte. Elle sort. Moi je rentre par la fenêtre ouverte.",
+   "joie"
+  ],
+  [
+   "BR",
+   "Et tu portes un carnet comment ? T'es un pigeon.",
+   "surpris"
+  ],
+  [
+   "GA",
+   "J'ai transporté une baguette entière jusqu'au toit en deux mille vingt-quatre. Respect.",
+   "colere"
+  ],
+  [
+   "N",
+   "Dix minutes plus tard. Brutus aboie comme jamais. Mamie Corvo sort sur le palier."
+  ],
+  [
+   "GA",
+   "Je l'ai ! Je l'ai ! C'est lourd ! C'est très lourd !",
+   "joie",
+   "shake"
+  ],
+  [
+   "BR",
+   "Et la clé ?",
+   "surpris"
+  ],
+  [
+   "GA",
+   "Pas trouvé la clé. Mais regarde ce qui est écrit sur la dernière page du carnet.",
+   "peur"
+  ],
+  [
+   "BR",
+   "« Vote dans trois jours. Après, on vide la cité. » Signé : Mamie.",
+   "peur",
+   "shake"
+  ]
+ ],
+ "next": "L'offre"
+}

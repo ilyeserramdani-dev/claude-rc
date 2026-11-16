@@ -1,0 +1,94 @@
+{
+ "ep": 20,
+ "series": "BÂTIMENT B",
+ "cinema": true,
+ "voice": true,
+ "char_h": {
+  "1": 960,
+  "2": 880,
+  "3": 760,
+  "4": 660
+ },
+ "title": "Le vote",
+ "hook": "Le vote de la démolition commence dans cinq minutes. Théo a disparu.",
+ "bg": "cite_jour",
+ "cast": [
+  "MO",
+  "I",
+  "T",
+  "V"
+ ],
+ "lines": [
+  [
+   "N",
+   "Devant la mairie. Dix-sept heures cinquante-cinq. Toute la cité est venue."
+  ],
+  [
+   "MO",
+   "Sans le rapport de Théo, le vote passera. Et l'argent des Corvo deviendra propre.",
+   "peur"
+  ],
+  [
+   "I",
+   "Il a écrit un faux rapport une fois. Il ne recommencera pas. J'en suis sûre.",
+   "colere"
+  ],
+  [
+   "MO",
+   "On a la vidéo, l'enveloppe, le carnet. Mais il manque la preuve que l'immeuble est solide.",
+   "neutre"
+  ],
+  [
+   "N",
+   "Dix-sept heures cinquante-neuf. Les portes de la salle se referment."
+  ],
+  [
+   "I",
+   "C'est fini...",
+   "triste"
+  ],
+  [
+   "N",
+   "Une voiture freine devant la mairie. Théo en sort en courant, un dossier sous le bras."
+  ],
+  [
+   "T",
+   "Attendez ! J'étais chez l'expert du tribunal. Toute la nuit.",
+   "joie",
+   "enter"
+  ],
+  [
+   "T",
+   "Le bâtiment B tiendra encore cinquante ans. Le rapport de démolition est un faux.",
+   "colere"
+  ],
+  [
+   "MO",
+   "Et qui a commandé ce faux ?",
+   "neutre"
+  ],
+  [
+   "T",
+   "Verdier. Sur ordre d'une certaine société. Corvo Investissements.",
+   "colere",
+   "shake"
+  ],
+  [
+   "V",
+   "C'est faux ! Enfin... je n'ai fait qu'obéir. Ils me tenaient, moi aussi !",
+   "peur"
+  ],
+  [
+   "MO",
+   "Brigade financière. Personne ne quitte cette salle.",
+   "colere"
+  ],
+  [
+   "N",
+   "Le Baron, Verdier et Biscotte sont arrêtés. Mais dans la foule, une vieille dame s'éloigne. En tricotant.",
+   "",
+   "shake"
+  ]
+ ],
+ "next": "Bâtiment B"
+}

@@ -1,0 +1,88 @@
+{
+ "ep": 3,
+ "series": "BÂTIMENT B",
+ "cinema": true,
+ "voice": true,
+ "char_h": {
+  "1": 960,
+  "2": 880,
+  "3": 760,
+  "4": 660
+ },
+ "title": "L'épicerie",
+ "hook": "L'épicier de la cité vient de recevoir une visite. On lui a fait une offre qu'il ne peut pas refuser.",
+ "bg": "epicerie",
+ "cast": [
+  "PH",
+  "FO",
+  "BI"
+ ],
+ "lines": [
+  [
+   "N",
+   "Épicerie Pham. Huit heures. Le rideau vient de se lever."
+  ],
+  [
+   "PH",
+   "Bonjour, messieurs. Pain, lait, journal ? Je viens d'ouvrir.",
+   "joie"
+  ],
+  [
+   "FO",
+   "On vient pas acheter, monsieur Pham. On vient encaisser.",
+   "neutre",
+   "enter"
+  ],
+  [
+   "PH",
+   "Encaisser ? Je ne vous dois rien. Je ne vous connais même pas.",
+   "surpris"
+  ],
+  [
+   "FO",
+   "Maintenant, tu nous connais. Le Baron prend trente pour cent. Chaque semaine.",
+   "neutre"
+  ],
+  [
+   "PH",
+   "Trente pour cent ? Mais je gagne à peine de quoi payer mon loyer !",
+   "colere"
+  ],
+  [
+   "BI",
+   "Le Baron dit que c'est pour votre sécurité.",
+   "neutre",
+   "enter"
+  ],
+  [
+   "PH",
+   "Ma sécurité ? Contre qui ?",
+   "peur"
+  ],
+  [
+   "BI",
+   "Contre nous.",
+   "neutre"
+  ],
+  [
+   "FO",
+   "Biscotte rigole pas souvent. Mais quand il rigole, c'est pire.",
+   "joie"
+  ],
+  [
+   "PH",
+   "Et si je refuse ?",
+   "peur"
+  ],
+  [
+   "FO",
+   "Tu refuses pas. Personne refuse. Les clés du magasin, s'il te plaît.",
+   "colere"
+  ],
+  [
+   "N",
+   "Dehors, derrière la vitre, quelqu'un a tout vu. Avec son sac de livreur sur le dos."
+  ]
+ ],
+ "next": "Cave 47"
+}

@@ -1,0 +1,87 @@
+{
+ "ep": 7,
+ "series": "BÂTIMENT B",
+ "cinema": true,
+ "voice": true,
+ "char_h": {
+  "1": 960,
+  "2": 880,
+  "3": 760,
+  "4": 660
+ },
+ "title": "Les témoins",
+ "hook": "Les seuls témoins de la disparition du gardien ont des plumes et des poils.",
+ "bg": "toit",
+ "cast": [
+  "GA",
+  "BR"
+ ],
+ "lines": [
+  [
+   "N",
+   "Sur le toit du bâtiment B. Là où personne ne monte jamais."
+  ],
+  [
+   "GA",
+   "Brutus ! Psst ! Brutus ! Par ici, sous l'antenne !",
+   "joie"
+  ],
+  [
+   "BR",
+   "Gaspard ? T'as encore volé un croissant à la boulangerie ?",
+   "colere"
+  ],
+  [
+   "GA",
+   "Un demi. Bref. Moi j'ai vu Lucien, la nuit où il a disparu.",
+   "neutre"
+  ],
+  [
+   "BR",
+   "Quoi ? Et tu le dis que maintenant ?",
+   "surpris",
+   "shake"
+  ],
+  [
+   "GA",
+   "Personne écoute les pigeons. Les humains nous jettent des miettes et basta.",
+   "triste"
+  ],
+  [
+   "BR",
+   "Raconte. Vite.",
+   "colere"
+  ],
+  [
+   "GA",
+   "Il est descendu à la chaufferie. Avec un thermos bleu et une couverture.",
+   "neutre"
+  ],
+  [
+   "BR",
+   "La chaufferie ? Elle est fermée depuis l'incendie de quatre-vingt-dix-huit.",
+   "surpris"
+  ],
+  [
+   "GA",
+   "Justement. Personne ne va jamais là-bas. La cachette parfaite.",
+   "joie"
+  ],
+  [
+   "BR",
+   "Donc il s'est caché tout seul. Il a pas été enlevé.",
+   "joie"
+  ],
+  [
+   "GA",
+   "Mais le gros en rose, Biscotte, il le cherche partout. Avec une lampe torche.",
+   "peur"
+  ],
+  [
+   "BR",
+   "Il faut prévenir Mamie Rose. Elle, elle me comprend. Enfin, presque.",
+   "neutre"
+  ]
+ ],
+ "next": "Le Comptable"
+}

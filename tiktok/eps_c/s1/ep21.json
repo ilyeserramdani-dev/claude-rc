@@ -1,0 +1,86 @@
+{
+ "ep": 21,
+ "series": "BÂTIMENT B",
+ "cinema": true,
+ "voice": true,
+ "char_h": {
+  "1": 960,
+  "2": 880,
+  "3": 760,
+  "4": 660
+ },
+ "title": "Bâtiment B",
+ "hook": "Le final. La cité est libre. Mais pas pour longtemps.",
+ "bg": "toit",
+ "cast": [
+  "I",
+  "LU",
+  "Y"
+ ],
+ "lines": [
+  [
+   "N",
+   "Une semaine plus tard. Sur le toit du bâtiment B. Le soleil se couche."
+  ],
+  [
+   "Y",
+   "Le Baron en prison. Verdier aussi. Le vote est annulé. Le B ne sera pas démoli.",
+   "joie"
+  ],
+  [
+   "I",
+   "Monsieur Pham a rouvert son épicerie. Mamie Rose a repeint sa porte. En rose, évidemment.",
+   "joie"
+  ],
+  [
+   "LU",
+   "Et l'argent des caves a été saisi. Il va servir à rénover la chaufferie.",
+   "joie"
+  ],
+  [
+   "I",
+   "Lucien, sans toi, on n'aurait jamais rien trouvé.",
+   "triste"
+  ],
+  [
+   "LU",
+   "Sans vous, je serais encore caché dans une chaufferie avec un thermos froid.",
+   "joie"
+  ],
+  [
+   "LU",
+   "J'ai soixante-douze ans. Il est temps que quelqu'un prenne la relève. Tiens.",
+   "neutre"
+  ],
+  [
+   "I",
+   "Le passe général ? Moi ? Gardienne ?",
+   "surpris"
+  ],
+  [
+   "LU",
+   "Tu as fait confiance aux bonnes personnes. C'est tout le métier.",
+   "joie"
+  ],
+  [
+   "Y",
+   "Madame la gardienne. Ça sonne bien, franchement.",
+   "joie"
+  ],
+  [
+   "N",
+   "Un pigeon borgne se pose à côté d'eux. Il porte un petit papier dans le bec."
+  ],
+  [
+   "I",
+   "« Ce n'était qu'un début, ma chérie. Bisous. Mamie. »",
+   "peur",
+   "shake"
+  ],
+  [
+   "N",
+   "Mamie Corvo n'a jamais été retrouvée. Et le bâtiment A vient d'être vendu. Acheteur : anonyme."
+  ]
+ ],
+ "next": null
+}

@@ -1,0 +1,86 @@
+{
+ "ep": 5,
+ "series": "BÂTIMENT B",
+ "cinema": true,
+ "voice": true,
+ "char_h": {
+  "1": 960,
+  "2": 880,
+  "3": 760,
+  "4": 660
+ },
+ "title": "Le badge",
+ "hook": "Le nouveau voisin ment. Un badge vient de le trahir.",
+ "bg": "cite_jour",
+ "cast": [
+  "Y",
+  "I",
+  "T"
+ ],
+ "lines": [
+  [
+   "N",
+   "Précédemment : des sacs d'argent dans la cave du gardien."
+  ],
+  [
+   "Y",
+   "Oublier ? T'as vu ce qu'il y a dans cette cave ? Et tu veux qu'on oublie ?",
+   "colere"
+  ],
+  [
+   "T",
+   "Je veux que vous restiez en vie. Ce n'est pas pareil.",
+   "peur"
+  ],
+  [
+   "I",
+   "En vie ? Tu dramatises pas un peu ?",
+   "colere"
+  ],
+  [
+   "T",
+   "Le Baron n'est pas venu pour visiter. Il vient laver son argent. Ici.",
+   "neutre"
+  ],
+  [
+   "N",
+   "En repartant, quelque chose tombe de sa veste. Un badge."
+  ],
+  [
+   "Y",
+   "Verdier Immobilier. Théo M., ingénieur structure.",
+   "surpris",
+   "shake"
+  ],
+  [
+   "I",
+   "Verdier ? Le promoteur qui veut démolir le B ?",
+   "colere"
+  ],
+  [
+   "Y",
+   "Donc le voisin bosse pour celui qui nous expulse. Et il nous fait la morale.",
+   "colere"
+  ],
+  [
+   "I",
+   "Le promoteur démolit. Le Baron cache son argent. C'est le même plan.",
+   "peur"
+  ],
+  [
+   "Y",
+   "Ils achètent la cité avec de l'argent sale. Et ils nous mettent dehors.",
+   "colere"
+  ],
+  [
+   "N",
+   "Au bout de l'allée, une voiture noire attend. Théo monte à l'arrière."
+  ],
+  [
+   "I",
+   "Il y a quelqu'un d'autre dedans. Costume blanc. Canne dorée.",
+   "peur"
+  ]
+ ],
+ "next": "Mamie Rose"
+}

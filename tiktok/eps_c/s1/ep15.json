@@ -1,0 +1,81 @@
+{
+ "ep": 15,
+ "series": "BÂTIMENT B",
+ "cinema": true,
+ "voice": true,
+ "char_h": {
+  "1": 960,
+  "2": 880,
+  "3": 760,
+  "4": 660
+ },
+ "title": "Mamie Corvo",
+ "hook": "La gentille mamie du quatrième prépare des gâteaux pour toute la cité. Et elle dirige le cartel.",
+ "bg": "appart",
+ "cast": [
+  "MC",
+  "BA"
+ ],
+ "lines": [
+  [
+   "N",
+   "Quatrième étage. Chez la gentille mamie qui offre des madeleines à tous les enfants du bâtiment."
+  ],
+  [
+   "MC",
+   "Assieds-toi, mon petit. Une madeleine ? Je viens de les sortir du four.",
+   "joie"
+  ],
+  [
+   "BA",
+   "Merci, Mamie. Je... je n'ai pas faim.",
+   "peur"
+  ],
+  [
+   "MC",
+   "Tu n'as pas faim parce que tu as peur. Tu as raison d'avoir peur.",
+   "neutre"
+  ],
+  [
+   "BA",
+   "La vidéo du rappeur, c'était un accident. Biscotte a été imprudent.",
+   "peur"
+  ],
+  [
+   "MC",
+   "Un accident ? Trois cent mille personnes ont vu nos sacs. Ce n'est pas un accident. C'est une catastrophe.",
+   "colere",
+   "shake"
+  ],
+  [
+   "BA",
+   "Le vote de la démolition est dans quatre jours. Après, tout sera à nous.",
+   "neutre"
+  ],
+  [
+   "MC",
+   "Après, oui. Mais d'ici là, il reste trois petits problèmes.",
+   "neutre"
+  ],
+  [
+   "MC",
+   "Le gardien qui se cache. La vieille boxeuse. Et la petite infirmière.",
+   "neutre"
+  ],
+  [
+   "BA",
+   "Que voulez-vous que je fasse ?",
+   "peur"
+  ],
+  [
+   "MC",
+   "Rien. Toi, tu as assez fait de bêtises. Je m'occupe de l'infirmière moi-même.",
+   "joie"
+  ],
+  [
+   "N",
+   "Elle reprend son tricot. Une écharpe noire. Avec un corbeau brodé dessus."
+  ]
+ ],
+ "next": "Le thé"
+}

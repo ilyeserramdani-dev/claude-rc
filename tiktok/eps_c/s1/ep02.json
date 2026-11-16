@@ -1,0 +1,87 @@
+{
+ "ep": 2,
+ "series": "BÂTIMENT B",
+ "cinema": true,
+ "voice": true,
+ "char_h": {
+  "1": 960,
+  "2": 880,
+  "3": 760,
+  "4": 660
+ },
+ "title": "Le gardien",
+ "hook": "Le lendemain, le gardien avait disparu. Il a laissé une clé. Et un avertissement.",
+ "bg": "hall",
+ "cast": [
+  "I",
+  "Y"
+ ],
+ "lines": [
+  [
+   "N",
+   "Le lendemain. Six heures du matin. Le hall du bâtiment B."
+  ],
+  [
+   "I",
+   "Yanis, regarde le panneau. Avis de démolition. Bâtiment B.",
+   "surpris",
+   "shake"
+  ],
+  [
+   "Y",
+   "Démolition ? Attends, ils peuvent pas faire ça. Ma mère vit ici depuis trente ans.",
+   "colere"
+  ],
+  [
+   "I",
+   "Et Lucien n'est pas dans sa loge. La porte est ouverte. Sa radio est encore allumée.",
+   "peur"
+  ],
+  [
+   "Y",
+   "Lucien ouvre à sept heures pile. Jamais avant. C'est pas normal.",
+   "peur"
+  ],
+  [
+   "I",
+   "Il y a une clé sur son bureau. Avec mon prénom écrit dessus.",
+   "surpris"
+  ],
+  [
+   "Y",
+   "Cave quarante-sept. Et un mot derrière. Lis.",
+   "surpris"
+  ],
+  [
+   "I",
+   "Ne fais confiance à personne. Même pas à ceux qui te sourient.",
+   "peur"
+  ],
+  [
+   "Y",
+   "Le type en costume blanc d'hier soir. Il souriait beaucoup, lui.",
+   "peur"
+  ],
+  [
+   "I",
+   "Lucien savait. Il savait qu'il allait devoir partir.",
+   "triste"
+  ],
+  [
+   "N",
+   "Dans l'escalier, des pas descendent. Lourds. Lents."
+  ],
+  [
+   "Y",
+   "Il y a quelqu'un. Éteins ton téléphone. Vite.",
+   "peur"
+  ],
+  [
+   "N",
+   "Et la lumière du hall s'éteint.",
+   "",
+   "shake"
+  ]
+ ],
+ "next": "L'épicerie"
+}

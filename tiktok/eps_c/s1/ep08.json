@@ -1,0 +1,87 @@
+{
+ "ep": 8,
+ "series": "BÂTIMENT B",
+ "cinema": true,
+ "voice": true,
+ "char_h": {
+  "1": 960,
+  "2": 880,
+  "3": 760,
+  "4": 660
+ },
+ "title": "Le Comptable",
+ "hook": "Le Comptable frappe chez madame Diallo. Elle fait semblant de ne rien comprendre.",
+ "bg": "appart",
+ "cast": [
+  "F",
+  "CO"
+ ],
+ "lines": [
+  [
+   "N",
+   "Troisième étage. Chez madame Diallo, soixante-huit ans, mémoire de la cité."
+  ],
+  [
+   "CO",
+   "Madame Diallo, il suffit de signer ici. Et ici. Et là, en bas.",
+   "joie",
+   "enter"
+  ],
+  [
+   "F",
+   "Mes lunettes... Où sont mes lunettes... Je ne vois rien sans mes lunettes.",
+   "triste"
+  ],
+  [
+   "CO",
+   "Vous les avez sur le nez, madame.",
+   "neutre"
+  ],
+  [
+   "F",
+   "Ah oui ! Excusez-moi. L'âge, mon garçon. L'âge.",
+   "joie"
+  ],
+  [
+   "CO",
+   "Votre appartement contre une prime de relogement. Très généreuse.",
+   "joie"
+  ],
+  [
+   "F",
+   "Et je signe pour qui, exactement ? Pour la mairie ?",
+   "neutre"
+  ],
+  [
+   "CO",
+   "Pour une société. Corvo Investissements. Des gens très sérieux.",
+   "neutre"
+  ],
+  [
+   "F",
+   "Corvo... Comme le corbeau sur la porte de Rose ?",
+   "surpris"
+  ],
+  [
+   "CO",
+   "Une coïncidence. Signez, madame. Vos voisins ont presque tous signé.",
+   "colere"
+  ],
+  [
+   "F",
+   "Je vais réfléchir. Revenez demain. Avec des gâteaux, peut-être.",
+   "joie"
+  ],
+  [
+   "N",
+   "En partant, le Comptable oublie un carnet sur la table. Madame Diallo l'ouvre."
+  ],
+  [
+   "F",
+   "Bâtiment B... acheté à quatre-vingt-dix pour cent. Payé en espèces.",
+   "peur",
+   "shake"
+  ]
+ ],
+ "next": "MC Lampadaire"
+}

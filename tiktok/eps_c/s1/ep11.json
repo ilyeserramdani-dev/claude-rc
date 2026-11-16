@@ -1,0 +1,89 @@
+{
+ "ep": 11,
+ "series": "BÂTIMENT B",
+ "cinema": true,
+ "voice": true,
+ "char_h": {
+  "1": 960,
+  "2": 880,
+  "3": 760,
+  "4": 660
+ },
+ "title": "Lucien",
+ "hook": "Le gardien est vivant. Et ce qu'il a vu peut faire tomber tout le cartel.",
+ "bg": "toit",
+ "cast": [
+  "LU",
+  "I",
+  "Y"
+ ],
+ "lines": [
+  [
+   "N",
+   "Vingt-trois heures. Le toit du bâtiment B."
+  ],
+  [
+   "LU",
+   "Vous êtes têtus, tous les deux. Comme moi à votre âge.",
+   "joie",
+   "enter"
+  ],
+  [
+   "I",
+   "Lucien ! On t'a cru mort. Pourquoi t'as disparu ?",
+   "triste"
+  ],
+  [
+   "LU",
+   "Parce que j'ai vu ce qu'il ne fallait pas voir. Dans ma propre cave.",
+   "peur"
+  ],
+  [
+   "Y",
+   "L'argent. On l'a vu aussi.",
+   "neutre"
+  ],
+  [
+   "LU",
+   "Pas que l'argent. J'ai vu Verdier, le promoteur, signer des papiers avec le Baron.",
+   "colere"
+  ],
+  [
+   "LU",
+   "La démolition, c'est leur plan. Ils rachètent tout pour rien, avec l'argent sale.",
+   "colere"
+  ],
+  [
+   "I",
+   "Il faut aller voir la police. Tout de suite.",
+   "neutre"
+  ],
+  [
+   "LU",
+   "Sans preuve, ils rient de nous. Et le Baron le saura dans l'heure.",
+   "peur"
+  ],
+  [
+   "Y",
+   "Comment il le saurait ?",
+   "surpris"
+  ],
+  [
+   "LU",
+   "Parce que quelqu'un dans ce bâtiment lui donne des informations. Tous les jours.",
+   "peur",
+   "shake"
+  ],
+  [
+   "I",
+   "Quelqu'un qu'on connaît ?",
+   "peur"
+  ],
+  [
+   "LU",
+   "Quelqu'un à qui vous apportez des fleurs à son anniversaire.",
+   "triste"
+  ]
+ ],
+ "next": "Commandante Morel"
+}

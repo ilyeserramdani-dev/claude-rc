@@ -1,0 +1,88 @@
+{
+ "ep": 19,
+ "series": "BÂTIMENT B",
+ "cinema": true,
+ "voice": true,
+ "char_h": {
+  "1": 960,
+  "2": 880,
+  "3": 760,
+  "4": 660
+ },
+ "title": "La copie",
+ "hook": "Yanis a-t-il vendu la cité ? La vérité est bien plus maline.",
+ "bg": "hall",
+ "cast": [
+  "I",
+  "Y",
+  "LA"
+ ],
+ "lines": [
+  [
+   "N",
+   "Précédemment : Yanis a accepté l'argent du Baron."
+  ],
+  [
+   "I",
+   "Tu as vendu la vidéo. Tu nous as vendus. Pour dix mille euros !",
+   "colere",
+   "shake"
+  ],
+  [
+   "Y",
+   "Inès. Respire. Écoute-moi deux secondes.",
+   "neutre"
+  ],
+  [
+   "LA",
+   "Moi aussi j'étais vénère. Puis il m'a expliqué. Vas-y, raconte-lui.",
+   "joie"
+  ],
+  [
+   "Y",
+   "Le téléphone qu'on lui a donné, c'est mon vieux. Écran fissuré, rien dedans.",
+   "joie"
+  ],
+  [
+   "I",
+   "Et la vraie vidéo ?",
+   "surpris"
+  ],
+  [
+   "LA",
+   "Envoyée à la commandante Morel il y a deux jours. Et sauvegardée dans trois nuages.",
+   "joie"
+  ],
+  [
+   "Y",
+   "Et l'argent, on l'a pas touché. Enveloppe fermée. Avec ses empreintes dessus.",
+   "joie"
+  ],
+  [
+   "I",
+   "Une preuve de corruption... Vous êtes fous. Et géniaux.",
+   "joie"
+  ],
+  [
+   "LA",
+   "Je vais faire un clip de cette histoire. Ça va être légendaire.",
+   "joie"
+  ],
+  [
+   "I",
+   "Il faut prévenir Théo. Il a le vrai rapport sur l'immeuble. Le vote est demain.",
+   "neutre"
+  ],
+  [
+   "N",
+   "Le téléphone de Théo sonne dans le vide. Une fois. Deux fois. Dix fois."
+  ],
+  [
+   "Y",
+   "Sa porte au septième est grande ouverte. Et sa valise a disparu.",
+   "peur",
+   "shake"
+  ]
+ ],
+ "next": "Le vote"
+}
