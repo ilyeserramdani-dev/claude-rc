@@ -23,9 +23,15 @@ Ces prix sont un point de départ : ajuste-les selon les réponses (section 4 du
 - Une seule vente vaut 49 € ou 119 €.
 - Tout se mesure dans Gmail.
 
-## La cible
+## La cible (angle révisé le 2026-11-16 — changement d'angle n°1)
 
-Boutiques en ligne françaises indépendantes, de petite taille, dont les fiches sont pauvres : moins de 50 mots, texte du fournisseur recopié, liste de caractéristiques sans phrase, fautes, traduction automatique.
+Leçon de la première journée : viser des fiches quasi vides ET une adresse e-mail en clair est presque impossible, ces deux traits vont rarement ensemble (voir Leçons). On élargit donc la cible.
+
+Cible : petites boutiques en ligne françaises indépendantes qui publient une adresse e-mail professionnelle en clair sur leur site. On ne cherche plus la fiche la plus pauvre du web, mais, dans une boutique joignable, la fiche la plus faible de SON catalogue : la moins convaincante, la plus plate, celle qui ne donne pas envie. L'échantillon gratuit porte sur cette fiche-là.
+
+L'angle du message devient : « voici votre fiche X rendue plus claire et plus facile à trouver sur les moteurs de recherche », et non « votre fiche est vide ». Cela vaut aussi pour une fiche correcte mais améliorable. Ne jamais dénigrer le texte existant.
+
+Ancienne cible (conservée comme sous-cas) : boutiques dont les fiches sont pauvres : moins de 50 mots, texte du fournisseur recopié, liste de caractéristiques sans phrase, fautes, traduction automatique.
 
 À écarter :
 
@@ -37,7 +43,7 @@ Boutiques en ligne françaises indépendantes, de petite taille, dont les fiches
 ## Méthode pour un prospect
 
 1. Trouver des boutiques par recherche web, en variant les niches (décoration, épicerie fine, accessoires, jouets, artisanat, sport, animalerie, papeterie…). Regarder au-delà des premiers résultats : les petites boutiques y sont.
-2. Ouvrir une fiche produit. Si elle est déjà bonne, passer à une autre boutique : on ne contacte que si l'on peut vraiment aider.
+2. Ouvrir deux ou trois fiches produits et repérer la plus faible du catalogue (plate, générique, sans bénéfice concret). On réécrit celle-là. Inutile qu'elle soit vide ; il suffit qu'on puisse la rendre nettement meilleure.
 3. Trouver l'adresse de contact sur le site (page contact ou mentions légales).
 4. Vérifier dans Gmail que ce domaine n'a jamais été contacté.
 5. Réécrire la fiche en n'utilisant que les faits présents sur la page : matière, dimensions, usage, origine. Ne rien inventer.
@@ -58,7 +64,7 @@ Objet : Une idée pour votre fiche « {nom du produit} »
 
 > Bonjour,
 >
-> En visitant {nom de la boutique}, j'ai remarqué que la fiche « {produit} » pouvait convaincre davantage : {constat précis en une phrase}. Je me suis permis de la réécrire, c'est offert :
+> En visitant {nom de la boutique}, j'ai regardé votre fiche « {produit} » et je me suis dit qu'elle pourrait être un peu plus claire et un peu mieux trouvée sur les moteurs de recherche. Je me suis permis d'en proposer une version, c'est offert :
 >
 > {fiche réécrite}
 >
@@ -128,3 +134,5 @@ Mêmes règles que le message français : aucun compliment creux, aucune urgence
 - 2026-11-16 : repérage ciblé sur de petits revendeurs français (déco, maison, animalerie, jardin). Environ 75 pages de plus, toujours 0 boutique retenue. Deux quasi-cibles : l'une à la fiche en réalité complète (86 mots), l'autre à la fiche vide, prometteuse, mais aux pages contact et mentions légales inaccessibles — pas d'e-mail vérifiable. Les fiches vraiment pauvres vont de pair avec l'absence d'e-mail en clair ; dès qu'une boutique soigne sa page contact, elle soigne aussi ses fiches.
 - 2026-11-16 : CONSTAT DE MÉTHODE. La recherche web ne convient pas pour trouver la cible : elle remonte places de marché et enseignes, presque jamais les petites boutiques en page 2-4. Rendement cumulé sur la journée : environ 0 boutique envoyable pour ~225 pages ouvertes. Prochaine méthode à essayer : partir d'annuaires de marques et de boutiques « made in France » / indépendantes (qui listent le domaine propre de chaque boutique), puis vérifier fiche + e-mail, au lieu de la recherche web générique. Tant que la source de pistes ne change pas, augmenter la cadence ne ferait qu'augmenter la dépense.
 - 2026-11-16 : les annuaires de fabricants (label d'origine australien, annuaires d'industriels) donnent des pistes de petits fabricants en quelques pages, bien mieux que la recherche générique. Mais l'outil de lecture a refusé tous les sites propres des boutiques lors de cet essai : piste à reprendre dès que la lecture fonctionne, en vérifiant fiche et adresse sur le site lui-même.
+- 2026-11-16 : CHANGEMENT D'ANGLE n°1 (prévu par la section 4 du manuel). Après ~225 pages et une douzaine de types de cibles sur deux pays, 0 boutique envoyable : la cible « fiche vide + e-mail en clair » est trop rare. Nouvel angle : toute petite boutique française qui publie une adresse en clair, et on améliore sa fiche la plus faible (clarté + référencement), sans exiger qu'elle soit vide. C'est l'unique changement d'angle autorisé avant bilan ; si cet angle ne produit pas non plus de réponse, clore le projet 001 et ouvrir une autre idée (section 5).
+

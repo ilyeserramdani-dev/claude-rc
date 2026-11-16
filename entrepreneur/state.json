@@ -22,7 +22,7 @@
       "stops": 0,
       "commandes": 0,
       "revenu_eur": 0,
-      "changements_d_angle": 0
+      "changements_d_angle": 1
     },
     "002-prestations-a-la-tache": {
       "prepare_le": "2026-11-15",
@@ -60,6 +60,7 @@
   },
   "reperages_sans_resultat_du_jour": 9,
   "pages_ouvertes_du_jour": 239,
-  "dernier_passage": "2026-11-16 11h45 : relevé Gmail (1 fil, 0 réponse, 0 erreur, 0 brouillon) ; marché France ouvert ; nouveau type de cible (petites pépinières et producteurs de plantes vendant en ligne) : un lancement de l'Assistant, 10 recherches, 14 pages demandées, 13 lues, 0 refusée ; 0 boutique retenue (fiches déjà rédigées en phrases, formulaire ou téléphone seuls, revendeurs, catalogue professionnel), 0 envoi, 0 brouillon",
-  "blocage_signale": "2026-11-16 : lecture des sites de boutiques refusée par l'outil web (autorisation sans réponse) ; propriétaire prévenu une fois, ne pas renotifier. Mise à jour 08h45 : blocage partiel seulement — les sites propres s'ouvrent quand l'adresse vient d'un résultat de recherche ou d'un lien de la page d'accueil ; le refus touche les adresses composées à la main ou non rencontrées auparavant"
+  "dernier_passage": "2026-11-16 12h05 (session propriétaire) : changement d'angle n°1 appliqué, 0 envoi",
+  "blocage_signale": "2026-11-16 : lecture des sites de boutiques refusée par l'outil web (autorisation sans réponse) ; propriétaire prévenu une fois, ne pas renotifier. Mise à jour 08h45 : blocage partiel seulement — les sites propres s'ouvrent quand l'adresse vient d'un résultat de recherche ou d'un lien de la page d'accueil ; le refus touche les adresses composées à la main ou non rencontrées auparavant",
+  "angle_courant": "améliorer la fiche la plus faible d'une boutique joignable (clarté + SEO), au lieu de viser une fiche vide — changé le 2026-11-16"
 }
