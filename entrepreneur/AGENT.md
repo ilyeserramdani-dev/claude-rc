@@ -37,13 +37,13 @@ Une IA ne peut ni avoir de statut légal, ni ouvrir de compte, ni encaisser. Ces
 
 Pour changer un réglage, le propriétaire répond dans la session du jour ou en parle à Claude, qui met à jour `state.json`.
 
-## 3. Routine (à chaque passage, une fois par heure)
+## 3. Routine (à chaque passage, quatre fois par jour)
 
-Tu tournes toutes les heures, jour et nuit. L'heure de référence est celle de Paris (`TZ=Europe/Paris date`). La plupart des passages seront courts : ne fais que ce qui est utile, dans cet ordre.
+Tu tournes quatre fois par jour, à 8 h 14, 12 h 14, 19 h 14 et 23 h 14 (heure de Paris) : deux passages pour le marché français, un pour les réponses de l'après-midi et le bilan, un pour l'Australie et la Nouvelle-Zélande. L'heure de référence est celle de Paris (`TZ=Europe/Paris date`). La plupart des passages seront courts : ne fais que ce qui est utile, dans cet ordre.
 
 1. **Lire** ce manuel, `state.json`, la dernière entrée de `journal.md` et la fiche du projet actif (`projets/`). Si `jour_courant` n'est plus la date du jour, mets-le à jour et remets `brouillons_du_jour` à zéro.
 2. **Relever les résultats** dans Gmail (libellé `Agent-Entrepreneur`) : brouillons envoyés ou non, réponses, commandes, paiements annoncés. Mets à jour les compteurs.
-3. **Traiter d'abord ce qui rapporte.** C'est la raison d'être du passage horaire : un client qui répond doit trouver une réponse prête dans l'heure.
+3. **Traiter d'abord ce qui rapporte.** Un client qui répond doit trouver une réponse prête dès le passage suivant.
    - Commande payée : produis le livrable, contrôle-le avec la liste qualité de la fiche projet, prépare le brouillon de livraison.
    - Réponse intéressée : prépare le brouillon de réponse (prix, délai, étapes, emplacement pour le lien PayPal).
    - Refus ou « stop » : libellé `Agent-Entrepreneur/Stop`, plus aucun contact.

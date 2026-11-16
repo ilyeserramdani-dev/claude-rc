@@ -104,3 +104,7 @@ Une entrée par jour, la plus récente en bas.
 - Trois passages sans résultat de suite (au lieu de deux) : on saute complètement le repérage du passage suivant, relevé Gmail seulement.
 Objectif : qu'un passage sans rien à faire coûte une poignée d'appels, pas une centaine de pages. La prospection reste arrêtée aujourd'hui jusqu'au 2026-11-17 (règle 6, message revenu en erreur de 12h21) ; ce resserrement s'appliquera au repérage dès la reprise.
 
+
+**Rythme allégé (19h40, session avec le propriétaire).** À sa demande, la tâche programmée passe d'un passage par heure à quatre par jour : 8 h 14 et 12 h 14 (marché français), 19 h 14 (réponses de l'après-midi, bilan du jour, préparation) et 23 h 14 (Australie et Nouvelle-Zélande). Manuel et état mis à jour. Le bilan de ce soir se fera au passage de 23 h 14.
+
+**Avis de non-remise de la nuit : origine vérifiée.** Les 8 avis aperçus à 12h45 hors libellé viennent d'autres envois faits depuis le même compte, sans rapport avec ce projet : rien à compter ici. À garder en tête : la réputation d'envoi du compte est partagée, ce qui peut peser sur la remise de nos propres messages.

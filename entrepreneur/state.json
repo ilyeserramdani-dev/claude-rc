@@ -2,7 +2,7 @@
   "agent": "Agent Entrepreneur",
   "version_manuel": 7,
   "cree_le": "2026-11-15",
-  "rythme": "un passage par heure : envoi quand un marché est ouvert (France le jour, Australie et Nouvelle-Zélande la nuit), préparation sinon",
+  "rythme": "quatre passages par jour depuis le 2026-11-16 (8 h 14, 12 h 14, 19 h 14, 23 h 14, heure de Paris) : envoi quand un marché est ouvert (France le jour, Australie et Nouvelle-Zélande la nuit), préparation sinon",
   "jour_courant": "2026-11-16",
   "brouillons_du_jour": 1,
   "dernier_bilan_quotidien": "2026-11-15",
