@@ -58,7 +58,8 @@
     "Australie": "anglais, lundi-vendredi 9h-17h heure de Sydney",
     "Nouvelle-Zélande": "anglais, lundi-vendredi 9h-17h heure d'Auckland"
   },
-  "reperages_sans_resultat_du_jour": 2,
-  "pages_ouvertes_du_jour": 160,
-  "dernier_passage": "2026-11-16 05h25 : repérage France (revendeurs), 0 boutique retenue, 0 envoi"
+  "reperages_sans_resultat_du_jour": 3,
+  "pages_ouvertes_du_jour": 181,
+  "dernier_passage": "2026-11-16 06h00 : repérage Australie par annuaires, 0 boutique retenue, 0 envoi, 0 brouillon ; sites des boutiques inaccessibles à l'outil de lecture (8 refus sur 21 pages)",
+  "blocage_signale": "2026-11-16 : lecture des sites de boutiques refusée par l'outil web (autorisation sans réponse) ; propriétaire prévenu une fois, ne pas renotifier pour ce même blocage"
 }
