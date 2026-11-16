@@ -58,8 +58,8 @@
     "Australie": "anglais, lundi-vendredi 9h-17h heure de Sydney",
     "Nouvelle-Zélande": "anglais, lundi-vendredi 9h-17h heure d'Auckland"
   },
-  "reperages_sans_resultat_du_jour": 6,
-  "pages_ouvertes_du_jour": 200,
-  "dernier_passage": "2026-11-16 08h52 : relevé Gmail (1 fil, 0 réponse, 0 erreur, 0 brouillon) ; marché France ouvert ; un lancement de l'Assistant sur de petits fabricants d'objets utilitaires (corderie, vannerie, brosserie, tournerie) : 6 recherches, 9 pages demandées, 6 lues dont les sites propres de 2 fabricants ; 0 boutique retenue (fiches déjà rédigées, formulaire sans adresse e-mail), 0 envoi, 0 brouillon",
+  "reperages_sans_resultat_du_jour": 7,
+  "pages_ouvertes_du_jour": 217,
+  "dernier_passage": "2026-11-16 09h51 : relevé Gmail (1 fil, 0 réponse, 0 erreur, 0 brouillon) ; marché France ouvert ; nouveau type de cible (petits producteurs fermiers et artisans de bouche vendant sur leur propre site) : un lancement de l'Assistant, 10 recherches, 17 pages demandées, 12 lues, 5 refusées (les 5 sites propres de producteurs) ; 0 boutique retenue (adresses au nom d'une personne, pas d'adresse en clair, ou site propre illisible), 0 envoi, 0 brouillon",
   "blocage_signale": "2026-11-16 : lecture des sites de boutiques refusée par l'outil web (autorisation sans réponse) ; propriétaire prévenu une fois, ne pas renotifier. Mise à jour 08h45 : blocage partiel seulement — les sites propres s'ouvrent quand l'adresse vient d'un résultat de recherche ou d'un lien de la page d'accueil ; le refus touche les adresses composées à la main ou non rencontrées auparavant"
 }
