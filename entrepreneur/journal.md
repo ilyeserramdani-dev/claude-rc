@@ -84,3 +84,7 @@ Une entrée par jour, la plus récente en bas.
 
 **Enseignement.** Le nouvel angle fonctionne là où l'ancien échouait : en filtrant d'abord sur l'adresse e-mail, on trouve des boutiques joignables, et la « fiche la plus faible » est facile à trouver même quand le reste du catalogue est correct. À confirmer sur plusieurs passages.
 
+**2e envoi et innovations (12h22).** Le brouillon de la marque bretonne de bijoux a été envoyé : la lecture des mentions légales par le premier repérage confirmait l'adresse en clair et l'absence de clause anti-démarchage. Fil libellé. 2 e-mails envoyés au total (artisan bois + bijoux), 0 réponse pour l'instant.
+
+**Innovations de méthode appliquées** (manuel, projet 001, ASSISTANT.md) : (1) tout capter en une seule lecture de la page légale (adresse, phrase qui l'entoure, présence/absence de clause anti-démarchage, mot pour mot) pour ne plus être bloqué par une page qui se referme et pouvoir envoyer sans la rouvrir ; (2) offrir les DEUX fiches les plus faibles, pas une ; (3) viser en priorité les boutiques qui investissent dans leur image (Shopify, blog, « à propos », Instagram) ; (4) variante export : proposer la version anglaise aux boutiques déjà soignées, ce qui élargit la cible joignable.
+

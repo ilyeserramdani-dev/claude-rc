@@ -6,13 +6,15 @@ Ouvert le 2026-11-15. Statut : actif.
 
 Réécrire les fiches produits de petites boutiques en ligne françaises pour qu'elles donnent envie d'acheter et soient mieux comprises par les moteurs de recherche.
 
-- **Échantillon gratuit** : une fiche de la boutique, réécrite, offerte dans le premier message.
+- **Échantillon gratuit** : les DEUX fiches les plus faibles de la boutique, réécrites, offertes dans le premier message (plus convaincant qu'une seule, même coût de repérage). Innovation du 2026-11-16.
 - **Mini-pack 3 fiches : 15 €** (petite commande facile à accepter, ajoutée le 2026-11-15).
 - **Pack 10 fiches : 49 €.** **Pack 30 fiches : 119 €.**
 - Livraison sous 48 h par e-mail, dans un document prêt à copier-coller. Une série de retouches incluse.
 - Paiement à la commande par lien PayPal.
 
 Ces prix sont un point de départ : ajuste-les selon les réponses (section 4 du manuel).
+
+**Variante export (ajoutée le 2026-11-16).** Pour une boutique qui écrit déjà correctement en français mais pourrait vendre à l'étranger : proposer la version anglaise de ses fiches (même grille de prix). Cela rend joignable tout un segment de boutiques soignées, pas seulement celles aux fiches faibles.
 
 ## Pourquoi ce projet
 
