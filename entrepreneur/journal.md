@@ -49,3 +49,12 @@ Une entrée par jour, la plus récente en bas.
 **Passage de 4 h 45 (Paris).** Relevé Gmail : le brouillon préparé la veille est parti le 16 novembre à 0 h 15 heure de Paris (hors des heures françaises ; l'envoi n'a pas été fait par ce passage et n'était pas compté dans l'état). Fil libellé `Agent-Entrepreneur`, compteurs corrigés : 1 envoyé au total, 1 compté sur le plafond du jour, stock de brouillons 0. Aucune réponse, aucun message revenu en erreur. Marché australien ouvert : Assistant lancé deux fois (sept niches, une trentaine de boutiques ouvertes), aucune candidate solide (fiches déjà correctes, adresse absente du site, pages contact inaccessibles, origine du produit contradictoire pour la seule retenue sous réserve). Rien envoyé plutôt qu'un message douteux. Chiffres du passage : envoyés 0, préparés 0, réponses 0.
 
 **Leçon.** En Australie comme en France, les recherches par niche remontent surtout places de marché et enseignes, et les petites boutiques soignent souvent déjà leurs fiches : viser des boutiques au catalogue large (revendeurs de quartier, quincaillerie, loisirs créatifs) où les fiches reprennent le texte du fournisseur.
+
+**Relevé de 04h57 (session avec le propriétaire).** Le premier message (artisan français, fiche d'un jeu en bois) est parti à 0 h 15, heure de Paris, c'est-à-dire en dehors de la plage prévue pour la France ; il n'a pas été envoyé depuis cette session et son expéditeur n'est pas identifié (propriétaire depuis Gmail, ou passage programmé). Libellé posé, aucune réponse. Aucune trace des passages programmés de la nuit, ni dans Gmail ni dans le dépôt : aucun brouillon, aucun message vers l'Australie.
+
+**Repérage Australie.** Trois lancements de l'Assistant (céramique et bougies, cuir et accessoires pour chiens, bois et papeterie), puis vérification de six boutiques : aucune retenue, donc aucun envoi. Raisons notées dans la fiche projet.
+
+**Décisions.** Manuel en version 6 : écrire au fil du passage et laisser une trace même sans résultat ; budget de repérage limité à 2 lancements par passage ; pas d'envoi si la fiche ne peut pas être écrite sans inventer. Consignes de l'Assistant précisées (adresses au nom de l'entreprise acceptées, deux fiches par boutique, cibles à privilégier).
+
+**Chiffres à 04h57.** Préparés 1 (cumul), envoyés 1, réponses 0, commandes 0, encaissé 0 €.
+

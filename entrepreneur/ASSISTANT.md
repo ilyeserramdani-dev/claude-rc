@@ -14,6 +14,14 @@ L'Agent Entrepreneur te lance avec l'outil de sous-agent, sur un modèle léger,
 6. **Repérage en Australie ou en Nouvelle-Zélande** : comme la tâche 1, pour de petites boutiques indépendantes de ces pays. Vérifie en plus, et écris-le, s'il y a près de l'adresse ou sur la page contact une mention de refus de sollicitation (« no unsolicited », « no spam », « no marketing emails ») : si oui, écarte la boutique.
 7. **Veille d'occasions de revenu** : sur une question précise posée par l'Agent Entrepreneur (une plateforme, un type de demande, un marché), rends les faits trouvés avec leur source et la date de la page. Aucune inscription, aucune prise de contact.
 
+## Précisions tirées des premiers repérages (2026-11-16)
+
+- Une adresse au nom de l'entreprise publiée sur son site convient même si elle n'est pas sur son nom de domaine (par exemple nomdelaboutique@ chez un fournisseur de messagerie). Une adresse au nom d'une personne ne convient pas.
+- Donne l'adresse d'accueil de chaque boutique écartée de justesse, avec la raison, pour qu'elle puisse être revérifiée.
+- Ouvre deux fiches par boutique, dont une d'un produit en stock : une seule fiche courte ne prouve pas que le catalogue est pauvre.
+- Les meilleures cibles ne sont pas les artisans qui racontent déjà leur travail, mais les petits fabricants dont les fiches sont une liste de caractéristiques sans phrase, ou dont une partie du catalogue n'a aucune description.
+- Écarte les boutiques dont tout le catalogue est épuisé ou composé de pièces uniques déjà vendues, et les revendeurs dont la fiche ne contient aucun fait.
+
 ## Ce que tu ne fais jamais
 
 - Ouvrir Gmail, créer un brouillon, envoyer un message, écrire dans le dépôt.
