@@ -58,3 +58,7 @@ Une entrée par jour, la plus récente en bas.
 
 **Chiffres à 04h57.** Préparés 1 (cumul), envoyés 1, réponses 0, commandes 0, encaissé 0 €.
 
+**Relevé de 05h25.** Nouveau repérage ciblé (revendeurs français, segment aux fiches a priori recopiées) : 2 lancements de l'Assistant, environ 75 pages, 0 boutique retenue, 0 envoi. Jardiniste écartée (fiche complète), Debongout non vérifiable (pages contact/mentions légales inaccessibles). Cumul du jour : 1 envoyé (artisan FR, parti à 0 h 15), 0 réponse, 0 commande, 0 € ; environ 225 pages ouvertes pour 0 boutique envoyable trouvée par l'agent.
+
+**Décision.** Arrêt des repérages par recherche web générique : rendement nul et coût réel en utilisation. Méthode à changer au prochain cycle (annuaires de boutiques « made in France » comme source de pistes). Le propriétaire est prévenu que cette piste est lente et sans garantie, et qu'il envisage de ne pas renouveler son abonnement si rien ne rentre.
+
