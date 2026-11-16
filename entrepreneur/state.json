@@ -58,8 +58,8 @@
     "Australie": "anglais, lundi-vendredi 9h-17h heure de Sydney",
     "Nouvelle-Zélande": "anglais, lundi-vendredi 9h-17h heure d'Auckland"
   },
-  "reperages_sans_resultat_du_jour": 4,
-  "pages_ouvertes_du_jour": 188,
-  "dernier_passage": "2026-11-16 06h45 : relevé Gmail (1 fil, 0 réponse, 0 erreur, 0 brouillon) ; un essai de lecture depuis un annuaire français de fabricants : 7 pages demandées, 5 lues, 2 sites propres de boutiques refusés (autorisation sans réponse) ; 0 boutique retenue, 0 envoi, 0 brouillon ; blocage inchangé",
+  "reperages_sans_resultat_du_jour": 5,
+  "pages_ouvertes_du_jour": 191,
+  "dernier_passage": "2026-11-16 07h45 : relevé Gmail (1 fil, 0 réponse, 0 erreur, 0 brouillon) ; marché France ouvert ; un lancement de l'Assistant depuis des annuaires « fabriqué en France » : 3 pages lues (annuaires seulement), 8 recherches, aucun site propre de petit fabricant trouvé ni ouvert ; 0 boutique retenue, 0 envoi, 0 brouillon",
   "blocage_signale": "2026-11-16 : lecture des sites de boutiques refusée par l'outil web (autorisation sans réponse) ; propriétaire prévenu une fois, ne pas renotifier pour ce même blocage"
 }
