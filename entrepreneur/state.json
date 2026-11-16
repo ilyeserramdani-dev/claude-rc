@@ -4,7 +4,7 @@
   "cree_le": "2026-11-15",
   "rythme": "un passage par heure : envoi quand un marché est ouvert (France le jour, Australie et Nouvelle-Zélande la nuit), préparation sinon",
   "jour_courant": "2026-11-16",
-  "brouillons_du_jour": 0,
+  "brouillons_du_jour": 1,
   "dernier_bilan_quotidien": "2026-11-15",
   "budget_depense_eur": 0,
   "revenu_encaisse_eur": 0,
@@ -15,7 +15,7 @@
       "ouvert_le": "2026-11-15",
       "statut": "actif",
       "bilan_au_plus_tard_le": "2026-12-06",
-      "brouillons_crees": 1,
+      "brouillons_crees": 2,
       "emails_envoyes": 1,
       "reponses_positives": 0,
       "reponses_negatives": 0,
@@ -51,7 +51,7 @@
   "plafond_envois_jour_note": "10 par jour ouvré du 2026-11-16 au 2026-11-20 ; passer à 20 le 2026-11-23 si la première semaine compte moins de 2 réponses agacées ou signalements et aucune alerte Gmail. Maximum 20 sans nouvelle décision du propriétaire.",
   "max_par_passage": 3,
   "envois_du_jour": 1,
-  "brouillons_en_stock": 0,
+  "brouillons_en_stock": 1,
   "notifications": "uniquement : commande à encaisser, problème bloquant, réponse agacée",
   "marches": {
     "France": "français, lundi-vendredi 7h-19h heure de Paris",
@@ -60,7 +60,7 @@
   },
   "reperages_sans_resultat_du_jour": 9,
   "pages_ouvertes_du_jour": 239,
-  "dernier_passage": "2026-11-16 12h05 (session propriétaire) : changement d'angle n°1 appliqué, 0 envoi",
+  "dernier_passage": "2026-11-16 12h15 (session propriétaire) : nouvel angle testé, 1 boutique joignable trouvée, 1 brouillon préparé (à vérifier avant envoi), 0 envoi",
   "blocage_signale": "2026-11-16 : lecture des sites de boutiques refusée par l'outil web (autorisation sans réponse) ; propriétaire prévenu une fois, ne pas renotifier. Mise à jour 08h45 : blocage partiel seulement — les sites propres s'ouvrent quand l'adresse vient d'un résultat de recherche ou d'un lien de la page d'accueil ; le refus touche les adresses composées à la main ou non rencontrées auparavant",
   "angle_courant": "améliorer la fiche la plus faible d'une boutique joignable (clarté + SEO), au lieu de viser une fiche vide — changé le 2026-11-16"
 }
