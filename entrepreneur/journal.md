@@ -94,3 +94,6 @@ Une entrée par jour, la plus récente en bas.
 **Écart à signaler.** Pour chercher les retours en erreur, j'ai lancé une recherche Gmail sur l'expéditeur des avis de non-remise sans la limiter au libellé : elle a affiché les titres de 8 autres avis de non-remise de la nuit (vers 0h15-0h30), sur des fils sans libellé, vers des adresses qui ne font pas partie de ce projet tel qu'il est compté ici. Je ne les ai pas ouverts (règle 4). Leur origine est à vérifier par le propriétaire. À l'avenir : chercher les retours uniquement dans le libellé.
 
 **Leçon.** Un retour en erreur arrive dans le fil même du message envoyé : le relevé du libellé suffit à le voir, sans autre recherche.
+
+**Passage de 12h52.** Repérage sous la méthode améliorée (e-mail d'abord, 2 fiches, cible soignée). Une seule candidate, une épicerie en ligne : écartée car discours « vertus santé / thérapeutique » (secteur exclu), et SIRET ne correspondant pas à la boutique. 0 envoi. Confirme le constat : les cibles joignables + fiche faible + niche propre restent rares (environ 1 pour 100 pages). 2 e-mails envoyés au total, 0 réponse à ce stade.
+
