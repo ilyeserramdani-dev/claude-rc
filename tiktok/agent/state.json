@@ -16,147 +16,147 @@
    "serie": "Bâtiment B",
    "saison": 1,
    "episode": 1,
-   "date": "2026-11-17 10:00",
-   "statut": "brouillon à valider"
-  },
-  {
-   "serie": "Bâtiment B",
-   "saison": 1,
-   "episode": 2,
-   "date": "2026-11-17 12:00",
-   "statut": "brouillon à valider"
-  },
-  {
-   "serie": "Bâtiment B",
-   "saison": 1,
-   "episode": 3,
-   "date": "2026-11-17 18:00",
-   "statut": "brouillon à valider"
-  },
-  {
-   "serie": "Bâtiment B",
-   "saison": 1,
-   "episode": 4,
    "date": "2026-11-18 10:00",
    "statut": "brouillon à valider"
   },
   {
    "serie": "Bâtiment B",
    "saison": 1,
-   "episode": 5,
+   "episode": 2,
    "date": "2026-11-18 12:00",
    "statut": "brouillon à valider"
   },
   {
    "serie": "Bâtiment B",
    "saison": 1,
-   "episode": 6,
+   "episode": 3,
    "date": "2026-11-18 18:00",
    "statut": "brouillon à valider"
   },
   {
    "serie": "Bâtiment B",
    "saison": 1,
-   "episode": 7,
+   "episode": 4,
    "date": "2026-11-19 10:00",
    "statut": "brouillon à valider"
   },
   {
    "serie": "Bâtiment B",
    "saison": 1,
-   "episode": 8,
+   "episode": 5,
    "date": "2026-11-19 12:00",
    "statut": "brouillon à valider"
   },
   {
    "serie": "Bâtiment B",
    "saison": 1,
-   "episode": 9,
+   "episode": 6,
    "date": "2026-11-19 18:00",
    "statut": "brouillon à valider"
   },
   {
    "serie": "Bâtiment B",
    "saison": 1,
-   "episode": 10,
+   "episode": 7,
    "date": "2026-11-20 10:00",
    "statut": "brouillon à valider"
   },
   {
    "serie": "Bâtiment B",
    "saison": 1,
-   "episode": 11,
+   "episode": 8,
    "date": "2026-11-20 12:00",
    "statut": "brouillon à valider"
   },
   {
    "serie": "Bâtiment B",
    "saison": 1,
-   "episode": 12,
+   "episode": 9,
    "date": "2026-11-20 18:00",
    "statut": "brouillon à valider"
   },
   {
    "serie": "Bâtiment B",
    "saison": 1,
-   "episode": 13,
+   "episode": 10,
    "date": "2026-11-21 10:00",
    "statut": "brouillon à valider"
   },
   {
    "serie": "Bâtiment B",
    "saison": 1,
-   "episode": 14,
+   "episode": 11,
    "date": "2026-11-21 12:00",
    "statut": "brouillon à valider"
   },
   {
    "serie": "Bâtiment B",
    "saison": 1,
-   "episode": 15,
+   "episode": 12,
    "date": "2026-11-21 18:00",
    "statut": "brouillon à valider"
   },
   {
    "serie": "Bâtiment B",
    "saison": 1,
-   "episode": 16,
+   "episode": 13,
    "date": "2026-11-22 10:00",
    "statut": "brouillon à valider"
   },
   {
    "serie": "Bâtiment B",
    "saison": 1,
-   "episode": 17,
+   "episode": 14,
    "date": "2026-11-22 12:00",
    "statut": "brouillon à valider"
   },
   {
    "serie": "Bâtiment B",
    "saison": 1,
-   "episode": 18,
+   "episode": 15,
    "date": "2026-11-22 18:00",
    "statut": "brouillon à valider"
   },
   {
    "serie": "Bâtiment B",
    "saison": 1,
-   "episode": 19,
+   "episode": 16,
    "date": "2026-11-23 10:00",
    "statut": "brouillon à valider"
   },
   {
    "serie": "Bâtiment B",
    "saison": 1,
-   "episode": 20,
+   "episode": 17,
    "date": "2026-11-23 12:00",
    "statut": "brouillon à valider"
   },
   {
    "serie": "Bâtiment B",
    "saison": 1,
-   "episode": 21,
+   "episode": 18,
    "date": "2026-11-23 18:00",
+   "statut": "brouillon à valider"
+  },
+  {
+   "serie": "Bâtiment B",
+   "saison": 1,
+   "episode": 19,
+   "date": "2026-11-24 10:00",
+   "statut": "brouillon à valider"
+  },
+  {
+   "serie": "Bâtiment B",
+   "saison": 1,
+   "episode": 20,
+   "date": "2026-11-24 12:00",
+   "statut": "brouillon à valider"
+  },
+  {
+   "serie": "Bâtiment B",
+   "saison": 1,
+   "episode": 21,
+   "date": "2026-11-24 18:00",
    "statut": "brouillon à valider"
   }
  ],
@@ -171,13 +171,20 @@
   "creator_rewards_vues_30j": 100000
  },
  "validation": "brouillon Metricool, validé par Ilyes avant publication",
- "derniere_execution": "2026-11-15",
+ "derniere_execution": "2026-11-17",
  "stats": {
   "2026-11-15": {
    "abonnes": 10480,
    "videos_publiees_suivies": 0,
    "vues_jour": 0,
    "source": "Metricool (données disponibles depuis le 13/11)"
+  },
+  "2026-11-17": {
+   "abonnes": 10478,
+   "variation": "-2 depuis le 15/11 (relevé du 16/11)",
+   "videos_publiees": 0,
+   "vues_jour": 0,
+   "source": "Metricool"
   }
  },
  "monetisation": {
@@ -188,5 +195,7 @@
   "note": "Affiliation TikTok Shop signalée à Ilyes le 15/11 ; conflit compte pro/personnel à trancher par Ilyes"
  },
  "version": "cartel, 17 personnages 3D doublés (engine3.py + voices.py)",
- "brouillons_obsoletes": "3 brouillons « Ceux de la cuisine » du 16/11 (10h, 12h, 18h) : dates passées, ne pas publier"
+ "brouillons_obsoletes": "3 brouillons « Ceux de la cuisine » du 16/11 (10h, 12h, 18h) : dates passées, ne pas publier",
+ "decalage_planning": "17/11 : brouillons du 17/11 non validés -> toute la saison décalée de +1 jour (18→24/11)",
+ "s2_a_produire_avant": "2026-11-21"
 }

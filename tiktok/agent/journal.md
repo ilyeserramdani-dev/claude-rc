@@ -7,3 +7,9 @@
   - Bilan semaine (09→15/11) : moteur et saison 1 produits, 21 épisodes en brouillon. Aucune publication encore → aucun signal algorithme. Priorité : qu'Ilyes valide les brouillons à partir de lundi 10h. Le stock tombera à 9 après jeudi 19/11 18h → écrire et produire S2 ép. 1-3 au plus tard le 19/11.
 
 - 2026-11-16 : « Bâtiment B » refaite en version cartel : 17 personnages 3D farfelus, chacun avec sa voix (Kokoro TTS), 21 épisodes de 62,5 s, gros plans automatiques. Remplace « Ceux de la cuisine » dans Metricool (brouillons du 17 au 23/11, 10h/12h/18h). Aucune drogue ni arme à l'écran (règle fil Pour toi). Compte : 10 480 abonnés d'après Metricool, il manque les 100 000 vues sur 30 jours pour le Creator Rewards.
+
+- 2026-11-17 (routine du soir, 20h45) : Metricool → 10 478 abonnés (−2 depuis le 15/11), 0 vidéo publiée, 0 vue ; aucune donnée par vidéo. Les 3 brouillons du jour (ép. 1-3, 10h/12h/18h) n'ont pas été validés : toujours en brouillon, date passée.
+  - Décision : décaler toute la saison 1 de +1 jour pour garder l'ordre de l'histoire (ép. 1-3 le mercredi 18/11, … ép. 19-21 le mardi 24/11), toujours en brouillon (draft: true), rien publié. 21 brouillons mis à jour avec succès.
+  - Stock : 21 brouillons ≥ 9 → pas de production aujourd'hui. Le stock passera sous 9 après le samedi 21/11 → écrire et produire S2 ép. 1-3 au plus tard le 21/11 (début S2 : revanche de Mamie Corvo, rachat du bâtiment A).
+  - Monétisation : inchangée (seuils abonnés OK, 0/100 000 vues sur 30 jours). Tant que rien n'est publié, aucun signal algorithme : la priorité absolue est la validation des brouillons par Ilyes.
+  - Rappel : 3 brouillons « Ceux de la cuisine » du 16/11 restent dans Metricool (date passée) : ne pas publier, Ilyes peut les supprimer.
