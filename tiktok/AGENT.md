@@ -94,6 +94,14 @@ changement de type de compte, explique le conflit à Ilyes et laisse-le décider
   retiré du fil Pour toi. Le cartel fait donc du racket, de l'argent sale et de l'immobilier :
   jamais de drogue montrée ni nommée, jamais d'arme visible, aucune violence graphique, et aucun
   cliché sur les habitants des cités (ce sont eux les héros).
+- **Depuis le 17/11 : vraie animation 3D (demande d'Ilyes, l'ancien rendu « personnages figés + bulles »
+  est abandonné).** Pipeline dans `anim/` (`pip install --break-system-packages bpy kokoro-onnx soundfile`) :
+  1. `python3 anim/timeline.py eps_c/<saison>/epXX.json work/epXX` : voix + minutage + bande son ;
+  2. `python3 anim/render3d.py work/epXX` : décor 3D + personnages articulés (marche, gestes, regard,
+     lèvres sur la voix), plans de caméra automatiques (plan d'ensemble, gros plans, par-dessus l'épaule),
+     rendu Cycles 12 i/s ; reprend où il s'est arrêté si on le relance. `--test 6,12,20` pour quelques images ;
+  3. `python3 anim/compose.py work/epXX videos_c/<saison>/epXX.mp4` : montage 1080x1920, sous-titres, accroche, fin.
+  Compter environ 1 h de calcul par épisode (CPU) : lance le rendu en tâche de fond et surveille le journal.
 - **Vérifie chaque vidéo comme un humain** : `python3 review.py <vidéo> <planche.png>`, regarde la
   planche, et contrôle la durée (61 à 72 s).
 - Nouveau personnage ou décor : Blender (`pip install bpy`), voir `b3d/humans2.py` et `b3d/cite.py`.
