@@ -13,3 +13,7 @@
   - Stock : 21 brouillons ≥ 9 → pas de production aujourd'hui. Le stock passera sous 9 après le samedi 21/11 → écrire et produire S2 ép. 1-3 au plus tard le 21/11 (début S2 : revanche de Mamie Corvo, rachat du bâtiment A).
   - Monétisation : inchangée (seuils abonnés OK, 0/100 000 vues sur 30 jours). Tant que rien n'est publié, aucun signal algorithme : la priorité absolue est la validation des brouillons par Ilyes.
   - Rappel : 3 brouillons « Ceux de la cuisine » du 16/11 restent dans Metricool (date passée) : ne pas publier, Ilyes peut les supprimer.
+
+- 2026-11-17 (soir, demande d'Ilyes) : Ilyes trouve l'ancien rendu gênant (personnages figés + bulles) et demande une vraie série en animation 3D. Nouveau pipeline `anim/` (Blender/Cycles) : décors 3D, personnages articulés (marche, gestes, regard, lèvres sur la voix), plans de caméra variés, sous-titres. ~1 h de rendu par épisode sur CPU.
+  - Épisodes 1, 2 et 3 refaits en 3D et remplacés dans les brouillons Metricool du 18/11 (10h, 12h, 18h). Les épisodes 4 à 21 sont encore l'ancienne version : à refaire en 3D avant leur date (3 par jour minimum), Ilyes ne doit pas valider d'ancienne version.
+  - Réglage : en intérieur, plans par-dessus l'épaule remplacés par des plans rapprochés (l'épaule bouchait le cadre).

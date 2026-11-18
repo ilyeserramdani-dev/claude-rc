@@ -194,8 +194,16 @@
   "vues_30j": 0,
   "note": "Affiliation TikTok Shop signalée à Ilyes le 15/11 ; conflit compte pro/personnel à trancher par Ilyes"
  },
- "version": "cartel, 17 personnages 3D doublés (engine3.py + voices.py)",
+ "version": "vraie animation 3D (anim/ : timeline.py, render3d.py, compose.py) depuis le 17/11",
  "brouillons_obsoletes": "3 brouillons « Ceux de la cuisine » du 16/11 (10h, 12h, 18h) : dates passées, ne pas publier",
  "decalage_planning": "17/11 : brouillons du 17/11 non validés -> toute la saison décalée de +1 jour (18→24/11)",
- "s2_a_produire_avant": "2026-11-21"
+ "s2_a_produire_avant": "2026-11-21",
+ "episodes_3d": {
+  "bb_s1": [
+   1,
+   2,
+   3
+  ]
+ },
+ "a_refaire_en_3d": "S1 ép. 4 à 21 (brouillons Metricool encore en ancienne version)"
 }

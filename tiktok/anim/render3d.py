@@ -274,6 +274,10 @@ class Director:
         u = self.u
         if u > 1.2 and sh[0] in ("EST", "EST2", "ENTRY"):
             sh = ("WIDE",)
+        flip = False
+        if u > 1.2 and sh[0] == "OTS":  # en intérieur, le par-dessus-l'épaule bouche le cadre : plan rapproché de l'autre côté
+            sh = ("CU", sh[1], sh[2])
+            flip = True
         hh = max(ch.head_h for ch in self.chars.values())
         if sh[0] == "EST":
             return Vector((c.x + 1.5, c.y - 15, 2.2)), Vector((c.x, c.y + 14, 6.5)), 15
@@ -285,8 +289,8 @@ class Director:
         if sh[0] == "WIDE":
             xs = [self.slot[x].x for x in self.cast]
             span = max(xs) - min(xs) + 2.2
-            d = max(4.2 * u, span * 1.9)
-            return Vector((c.x + 0.4, c.y - d, hh * 0.85)), Vector((c.x, c.y, hh * 0.55)), 27
+            d = max(4.2 * u, span * 1.9) * (0.8 if u > 1.2 else 1.0)
+            return Vector((c.x + 0.4, c.y - d, hh * 0.8)), Vector((c.x, c.y, hh * 0.5)), 27 if u < 1.2 else 32
         who, other = sh[1], sh[2]
         p = self.slot[who]
         ch = self.chars[who]
@@ -295,6 +299,8 @@ class Director:
             side = 1 if (other and self.slot[other].x > p.x) else -1
             if not other:
                 side = 1
+            if flip:
+                side = -side * 0.5
             cam = Vector((p.x + side * 0.8 * u, p.y - 2.5 * u, ch.head_h * 0.92))
             return cam, head + Vector((0, 0, -0.3 * u)), 30
         # OTS : derrière l'épaule de l'interlocuteur
