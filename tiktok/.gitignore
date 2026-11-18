@@ -2,3 +2,4 @@ tts/
 tts_cache/
 *.wav
 work/
+__pycache__/
